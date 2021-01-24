@@ -1,0 +1,83 @@
+	{
+		"item.mcwbridges.iron_platform": "鐵板",
+		"item.mcwbridges.iron_rod": "鐵棒",
+		"item.mcwbridges.iron_armrest": "鐵扶手",
+		
+		"itemGroup.bridges": "Macaw's Bridges",
+		
+		 "block.mcwbridges.most1":"鐵橋梁",
+         "block.mcwbridges.most2":"鐵橋端",
+         "block.mcwbridges.oak_log_bridge_middle":"橡木橋梁",
+         "block.mcwbridges.oak_log_bridge_end":"橡木橋端",
+         "block.mcwbridges.birch_log_bridge_end":"樺木橋端",
+         "block.mcwbridges.birch_log_bridge_middle":"樺木橋梁",
+         "block.mcwbridges.acacia_log_bridge_end":"相思木橋端",
+         "block.mcwbridges.acacia_log_bridge_middle":"相思木橋梁",
+         "block.mcwbridges.spruce_log_bridge_end":"杉木橋端",
+         "block.mcwbridges.spruce_log_bridge_middle":"杉木橋梁",
+         "block.mcwbridges.jungle_log_bridge_end":"叢林木橋端",
+         "block.mcwbridges.jungle_log_bridge_middle":"叢林木橋梁",
+         "block.mcwbridges.dark_oak_log_bridge_end":"黑橡木橋端",
+         "block.mcwbridges.dark_oak_log_bridge_middle":"黑橡木橋梁",
+         "block.mcwbridges.crimson_log_bridge_end":"緋紅蕈木橋端",
+         "block.mcwbridges.crimson_log_bridge_middle":"緋紅蕈木橋梁",
+         "block.mcwbridges.warped_log_bridge_end":"扭曲蕈木橋端",
+         "block.mcwbridges.warped_log_bridge_middle":"扭曲蕈木橋梁",
+
+         "block.mcwbridges.rope_oak_bridge":"橡木吊橋梁",
+         "block.mcwbridges.rope_oak_bridge_end":"橡木吊橋端",
+         "block.mcwbridges.rope_birch_bridge":"樺木吊橋梁",
+         "block.mcwbridges.rope_birch_bridge_end":"樺木吊橋端",
+         "block.mcwbridges.rope_spruce_bridge":"杉木吊橋梁",
+         "block.mcwbridges.rope_spruce_bridge_end":"杉木吊橋端",
+         "block.mcwbridges.rope_jungle_bridge":"叢林木吊橋梁",
+         "block.mcwbridges.rope_jungle_bridge_end":"叢林木吊橋端",
+         "block.mcwbridges.rope_acacia_bridge":"相思木吊橋梁",
+         "block.mcwbridges.rope_acacia_bridge_end":"相思木吊橋端",
+         "block.mcwbridges.rope_dark_oak_bridge":"黑橡木吊橋梁",
+         "block.mcwbridges.rope_dark_oak_bridge_end":"黑橡木吊橋端",
+         "block.mcwbridges.rope_crimson_bridge":"緋紅蕈木吊橋梁",
+         "block.mcwbridges.rope_crimson_bridge_end":"緋紅蕈木吊橋端",
+         "block.mcwbridges.rope_warped_bridge":"扭曲蕈木吊橋梁",
+         "block.mcwbridges.rope_warped_bridge_end":"扭曲蕈木吊橋端",
+         
+         
+         
+
+         "block.mcwbridges.brick_bridge":"紅磚橋梁",
+         "block.mcwbridges.brick_bridge_end":"紅磚橋端",
+         "block.mcwbridges.stone_brick_bridge":"石磚橋梁",
+         "block.mcwbridges.stone_brick_bridge_end":"石磚橋端",
+         "block.mcwbridges.sandstone_bridge":"砂岩橋梁",
+         "block.mcwbridges.sandstone_bridge_end":"砂岩橋端",
+         "block.mcwbridges.orange_sandstone_bridge":"紅砂岩橋梁",
+         "block.mcwbridges.orange_sandstone_bridge_end":"紅砂岩橋端",
+         
+ 	 	 "block.mcwbridges.blackstone_bridge":"黑石橋梁",
+         "block.mcwbridges.blackstone_bridge_end":"黑石橋端",
+         
+        "block.mcwbridges.oak_rail_bridge":"橡木鐵路橋",
+		"block.mcwbridges.spruce_rail_bridge":"杉木鐵路橋",
+		"block.mcwbridges.birch_rail_bridge":"樺木鐵路橋",
+		"block.mcwbridges.jungle_rail_bridge":"叢林木鐵路橋",
+		"block.mcwbridges.acacia_rail_bridge":"相思木鐵路橋",
+		"block.mcwbridges.dark_oak_rail_bridge":"黑橡木鐵路橋",
+		"block.mcwbridges.crimson_rail_bridge":"緋紅蕈木鐵路橋",
+		"block.mcwbridges.warped_rail_bridge":"扭曲蕈木鐵路橋",
+	
+		"block.mcwbridges.oak_rail_bridge_powered":"橡木動力鐵路橋",
+  		"block.mcwbridges.spruce_rail_bridge_powered":"杉木動力鐵路橋",
+		"block.mcwbridges.birch_rail_bridge_powered":"樺木動力鐵路橋",
+		"block.mcwbridges.jungle_rail_bridge_powered":"叢林木動力鐵路橋",
+		"block.mcwbridges.acacia_rail_bridge_powered":"相思木動力鐵路橋",
+		"block.mcwbridges.dark_oak_rail_bridge_powered":"黑橡木動力鐵路橋",		
+		"block.mcwbridges.crimson_rail_bridge_powered":"緋紅蕈木動力鐵路橋",
+		"block.mcwbridges.warped_rail_bridge_powered":"扭曲蕈木動力鐵路橋",
+		
+		
+		
+		
+		"block.mcwbridges.bamboo_bridge":"竹橋"
+		                                                                          
+	}
+	
