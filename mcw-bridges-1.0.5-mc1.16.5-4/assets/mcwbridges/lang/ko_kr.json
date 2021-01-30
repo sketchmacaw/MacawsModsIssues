@@ -1,0 +1,80 @@
+	{
+		
+		"itemGroup.bridges": "Macaw의 다리",
+		
+		 "block.mcwbridges.most1":"철제 다리",
+         "block.mcwbridges.most2":"철제 다리 양 끝",
+         "block.mcwbridges.oak_log_bridge_middle":"참나무 다리",
+         "block.mcwbridges.oak_log_bridge_end":"참나무 다리 양 끝",
+         "block.mcwbridges.birch_log_bridge_end":"자작나무 다리 양 끝",
+         "block.mcwbridges.birch_log_bridge_middle":"자작나무 다리",
+         "block.mcwbridges.acacia_log_bridge_end":"아카시아나무 다리 양 끝",
+         "block.mcwbridges.acacia_log_bridge_middle":"아카시아나무 다리",
+         "block.mcwbridges.spruce_log_bridge_end":"가문비나무 다리 양 끝",
+         "block.mcwbridges.spruce_log_bridge_middle":"가문비나무 다리",
+         "block.mcwbridges.jungle_log_bridge_end":"정글 나무 다리 양 끝",
+         "block.mcwbridges.jungle_log_bridge_middle":"정글 나무 다리",
+         "block.mcwbridges.dark_oak_log_bridge_end":"짙은 참나무 다리 양 끝",
+         "block.mcwbridges.dark_oak_log_bridge_middle":"짙은 참나무 다리",
+         "block.mcwbridges.crimson_log_bridge_end":"진홍빛 다리 양 끝",
+         "block.mcwbridges.crimson_log_bridge_middle":"진홍빛 다리",
+         "block.mcwbridges.warped_log_bridge_end":"뒤틀린 다리 양 끝",
+         "block.mcwbridges.warped_log_bridge_middle":"뒤틀린 다리",
+
+         "block.mcwbridges.rope_oak_bridge":"참나무 줄다리",
+         "block.mcwbridges.rope_oak_bridge_end":"참나무 줄다리 양 끝",
+         "block.mcwbridges.rope_birch_bridge":"자작나무 줄다리",
+         "block.mcwbridges.rope_birch_bridge_end":"자작나무 줄다리 양 끝",
+         "block.mcwbridges.rope_spruce_bridge":"가문비나무 줄다리",
+         "block.mcwbridges.rope_spruce_bridge_end":"가문비나무 줄다리 양 끝",
+         "block.mcwbridges.rope_jungle_bridge":"정글 나무 줄다리",
+         "block.mcwbridges.rope_jungle_bridge_end":"정글 나무 줄다리 양 끝",
+         "block.mcwbridges.rope_acacia_bridge":"아카시아나무 줄다리",
+         "block.mcwbridges.rope_acacia_bridge_end":"아카시아나무 줄다리 양 끝",
+         "block.mcwbridges.rope_dark_oak_bridge":"짙은 참나무 줄다리",
+         "block.mcwbridges.rope_dark_oak_bridge_end":"짙은 참나무 줄다리 양 끝",
+         "block.mcwbridges.rope_crimson_bridge":"진홍빛 줄다리",
+         "block.mcwbridges.rope_crimson_bridge_end":"진홍빛 줄다리 양 끝",
+         "block.mcwbridges.rope_warped_bridge":"뒤틀린 줄다리",
+         "block.mcwbridges.rope_warped_bridge_end":"뒤틀린 줄다리 양 끝",
+         
+         
+         
+
+         "block.mcwbridges.brick_bridge":"벽돌 다리",
+         "block.mcwbridges.brick_bridge_end":"벽돌 다리 양 끝",
+         "block.mcwbridges.stone_brick_bridge":"석재 벽돌 다리",
+         "block.mcwbridges.stone_brick_bridge_end":"석재 벽돌 다리 양 끝",
+         "block.mcwbridges.sandstone_bridge":"사암 다리",
+         "block.mcwbridges.sandstone_bridge_end":"사암 다리 양 끝",
+         "block.mcwbridges.orange_sandstone_bridge":"붉은 사암 다리",
+         "block.mcwbridges.orange_sandstone_bridge_end":"붉은 사암 다리 양 끝",
+         
+ 	 	 "block.mcwbridges.blackstone_bridge":"흑암 다리",
+         "block.mcwbridges.blackstone_bridge_end":"흑암 다리 양 끝",
+         
+        "block.mcwbridges.oak_rail_bridge":"참나무 레일 다리",
+		"block.mcwbridges.spruce_rail_bridge":"가문비나무 레일 다리",
+		"block.mcwbridges.birch_rail_bridge":"자작나무 레일 다리",
+		"block.mcwbridges.jungle_rail_bridge":"정글 나무 레일 다리",
+		"block.mcwbridges.acacia_rail_bridge":"아카시아나무 레일 다리",
+		"block.mcwbridges.dark_oak_rail_bridge":"짙은 참나무 레일 다리",
+		"block.mcwbridges.crimson_rail_bridge":"진홍빛 레일 다리",
+		"block.mcwbridges.warped_rail_bridge":"뒤틀린 레일 다리",
+	
+		"block.mcwbridges.oak_rail_bridge_powered":"레드스톤 참나무 레일 다리",
+  		"block.mcwbridges.spruce_rail_bridge_powered":"레드스톤 가문비나무 레일 다리",
+		"block.mcwbridges.birch_rail_bridge_powered":"레드스톤 자작나무 레일 다리",
+		"block.mcwbridges.jungle_rail_bridge_powered":"레드스톤 정글 나무 레일 다리",
+		"block.mcwbridges.acacia_rail_bridge_powered":"레드스톤 아카시아나무 레일 다리",
+		"block.mcwbridges.dark_oak_rail_bridge_powered":"레드스톤 짙은 참나무 레일 다리",		
+		"block.mcwbridges.crimson_rail_bridge_powered":"레드스톤 진홍빛 레일 다리",
+		"block.mcwbridges.warped_rail_bridge_powered":"레드스톤 뒤틀린 레일 다리",
+		
+		
+		
+		
+		"block.mcwbridges.bamboo_bridge":"대나무 다리"
+		                                                                          
+	}
+	
