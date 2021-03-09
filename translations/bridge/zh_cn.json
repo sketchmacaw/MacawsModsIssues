@@ -1,0 +1,76 @@
+	{
+		
+		"itemGroup.bridges": "Macaw的桥",
+		
+		 "block.mcwbridges.most1":"铁网桥",
+         "block.mcwbridges.most2":"铁网桥末端",
+         "block.mcwbridges.oak_log_bridge_middle":"橡木板桥",
+         "block.mcwbridges.oak_log_bridge_end":"橡木板桥末端",
+         "block.mcwbridges.birch_log_bridge_end":"白桦木板桥末端",
+         "block.mcwbridges.birch_log_bridge_middle":"白桦木板桥",
+         "block.mcwbridges.acacia_log_bridge_end":"金合欢木板桥末端",
+         "block.mcwbridges.acacia_log_bridge_middle":"金合欢木板桥",
+         "block.mcwbridges.spruce_log_bridge_end":"云杉木板桥末端",
+         "block.mcwbridges.spruce_log_bridge_middle":"云杉木板桥",
+         "block.mcwbridges.jungle_log_bridge_end":"丛林木板桥末端",
+         "block.mcwbridges.jungle_log_bridge_middle":"丛林木板桥",
+         "block.mcwbridges.dark_oak_log_bridge_end":"深色橡木板桥末端",
+         "block.mcwbridges.dark_oak_log_bridge_middle":"深色橡木板桥",
+         "block.mcwbridges.crimson_log_bridge_end":"绯红木板桥末端",
+         "block.mcwbridges.crimson_log_bridge_middle":"绯红木板桥",
+         "block.mcwbridges.warped_log_bridge_end":"诡异木板桥末端",
+         "block.mcwbridges.warped_log_bridge_middle":"诡异木板桥",
+
+         "block.mcwbridges.rope_oak_bridge":"橡木索桥",
+         "block.mcwbridges.rope_oak_bridge_end":"橡木索桥末端",
+         "block.mcwbridges.rope_birch_bridge":"白桦木索桥",
+         "block.mcwbridges.rope_birch_bridge_end":"白桦木索桥末端",
+         "block.mcwbridges.rope_spruce_bridge":"云杉木索桥",
+         "block.mcwbridges.rope_spruce_bridge_end":"云杉木索桥末端",
+         "block.mcwbridges.rope_jungle_bridge":"丛林木索桥",
+         "block.mcwbridges.rope_jungle_bridge_end":"丛林木索桥末端",
+         "block.mcwbridges.rope_acacia_bridge":"金合欢木索桥",
+         "block.mcwbridges.rope_acacia_bridge_end":"金合欢木索桥末端",
+         "block.mcwbridges.rope_dark_oak_bridge":"深色橡木索桥",
+         "block.mcwbridges.rope_dark_oak_bridge_end":"深色橡木索桥末端",
+         "block.mcwbridges.rope_crimson_bridge":"绯红木索桥",
+         "block.mcwbridges.rope_crimson_bridge_end":"绯红木索桥末端",
+         "block.mcwbridges.rope_warped_bridge":"诡异木索桥",
+         "block.mcwbridges.rope_warped_bridge_end":"诡异木索桥末端",
+                  
+         
+         "block.mcwbridges.brick_bridge":"砖桥",
+         "block.mcwbridges.brick_bridge_end":"砖桥末端",
+         "block.mcwbridges.stone_brick_bridge":"石砖桥",
+         "block.mcwbridges.stone_brick_bridge_end":"石砖桥末端",
+         "block.mcwbridges.sandstone_bridge":"砂岩桥",
+         "block.mcwbridges.sandstone_bridge_end":"砂岩桥末端",
+         "block.mcwbridges.orange_sandstone_bridge":"红砂岩桥",
+         "block.mcwbridges.orange_sandstone_bridge_end":"红砂岩桥末端",
+         
+ 	 	 "block.mcwbridges.blackstone_bridge":"黑石桥",
+         "block.mcwbridges.blackstone_bridge_end":"黑石桥末端",
+         
+        "block.mcwbridges.oak_rail_bridge":"橡木铁路桥",
+		"block.mcwbridges.spruce_rail_bridge":"云杉木铁路桥",
+		"block.mcwbridges.birch_rail_bridge":"白桦木铁路桥",
+		"block.mcwbridges.jungle_rail_bridge":"丛林木铁路桥",
+		"block.mcwbridges.acacia_rail_bridge":"金合欢木铁路桥",
+		"block.mcwbridges.dark_oak_rail_bridge":"深色橡木铁路桥",
+		"block.mcwbridges.crimson_rail_bridge":"绯红木铁路桥",
+		"block.mcwbridges.warped_rail_bridge":"诡异木铁路桥",
+	
+		"block.mcwbridges.oak_rail_bridge_powered":"橡木动力铁路桥",
+  		"block.mcwbridges.spruce_rail_bridge_powered":"云杉木动力铁路桥",
+		"block.mcwbridges.birch_rail_bridge_powered":"白桦木动力铁路桥",
+		"block.mcwbridges.jungle_rail_bridge_powered":"丛林木动力铁路桥",
+		"block.mcwbridges.acacia_rail_bridge_powered":"金合欢木动力铁路桥",
+		"block.mcwbridges.dark_oak_rail_bridge_powered":"深色橡木动力铁路桥",	
+		"block.mcwbridges.crimson_rail_bridge_powered":"绯红木动力铁路桥",
+		"block.mcwbridges.warped_rail_bridge_powered":"诡异木动力铁路桥",
+		
+		
+		"block.mcwbridges.bamboo_bridge":"竹桥"
+		                                                                          
+	}
+	
