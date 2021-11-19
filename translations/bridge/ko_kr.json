@@ -1,0 +1,80 @@
+	{
+		
+		"itemGroup.bridges": "마코의 다리",
+		
+		 "block.mcwbridges.most1":"철 다리 중간 부분",
+         "block.mcwbridges.most2":"철 다리 끝 부분",
+         "block.mcwbridges.oak_log_bridge_middle":"참나무 다리 중간 부분",
+         "block.mcwbridges.oak_log_bridge_end":"참나무 다리 끝 부분",
+         "block.mcwbridges.birch_log_bridge_end":"자작나무 다리 끝 부분",
+         "block.mcwbridges.birch_log_bridge_middle":"자작나무 다리 중간 부분",
+         "block.mcwbridges.acacia_log_bridge_end":"아카시아나무 다리 끝 부분",
+         "block.mcwbridges.acacia_log_bridge_middle":"아카시아나무 다리 중간 부분",
+         "block.mcwbridges.spruce_log_bridge_end":"가문비나무 다리 끝 부분",
+         "block.mcwbridges.spruce_log_bridge_middle":"가문비나무 다리 중간 부분",
+         "block.mcwbridges.jungle_log_bridge_end":"정글 나무 다리 끝 부분",
+         "block.mcwbridges.jungle_log_bridge_middle":"정글 나무 다리 중간 부분",
+         "block.mcwbridges.dark_oak_log_bridge_end":"짙은 참나무 다리 끝 부분",
+         "block.mcwbridges.dark_oak_log_bridge_middle":"짙은 참나무 다리 중간 부분",
+         "block.mcwbridges.crimson_log_bridge_end":"진홍빛 자루 다리 끝 부분",
+         "block.mcwbridges.crimson_log_bridge_middle":"진홍빛 자루 다리 중간 부분",
+         "block.mcwbridges.warped_log_bridge_end":"뒤틀린 자루 다리 끝 부분",
+         "block.mcwbridges.warped_log_bridge_middle":"뒤틀린 자루 다리 중간 부분",
+
+         "block.mcwbridges.rope_oak_bridge":"Rope 참나무 다리",
+         "block.mcwbridges.rope_oak_bridge_end":"Rope 참나무 다리 끝 부분",
+         "block.mcwbridges.rope_birch_bridge":"Rope 자작나무 다리",
+         "block.mcwbridges.rope_birch_bridge_end":"Rope 자작나무 다리 끝 부분",
+         "block.mcwbridges.rope_spruce_bridge":"Rope 가문비나무 다리",
+         "block.mcwbridges.rope_spruce_bridge_end":"Rope 가문비나무 다리 끝 부분",
+         "block.mcwbridges.rope_jungle_bridge":"Rope 정글 나무 다리",
+         "block.mcwbridges.rope_jungle_bridge_end":"Rope 정글 나무 다리 끝 부분",
+         "block.mcwbridges.rope_acacia_bridge":"Rope 아카시아나무 다리",
+         "block.mcwbridges.rope_acacia_bridge_end":"Rope 아카시아나무 다리 끝 부분",
+         "block.mcwbridges.rope_dark_oak_bridge":"Rope 짙은 참나무 다리",
+         "block.mcwbridges.rope_dark_oak_bridge_end":"Rope 짙은 참나무 다리 끝 부분",
+         "block.mcwbridges.rope_crimson_bridge":"Rope 진홍빛 자루 다리",
+         "block.mcwbridges.rope_crimson_bridge_end":"Rope 진홍빛 자루 다리 끝 부분",
+         "block.mcwbridges.rope_warped_bridge":"Rope 뒤틀린 자루 다리",
+         "block.mcwbridges.rope_warped_bridge_end":"Rope 뒤틀린 자루 다리 끝 부분",
+         
+         
+         
+
+         "block.mcwbridges.brick_bridge":"벽돌 다리",
+         "block.mcwbridges.brick_bridge_end":"벽돌 다리 끝 부분",
+         "block.mcwbridges.stone_brick_bridge":"석재 벽돌 다리",
+         "block.mcwbridges.stone_brick_bridge_end":"석재 벽돌 다리 끝 부분",
+         "block.mcwbridges.sandstone_bridge":"사암 다리",
+         "block.mcwbridges.sandstone_bridge_end":"사암 다리 끝 부분",
+         "block.mcwbridges.orange_sandstone_bridge":"붉은 사암 다리",
+         "block.mcwbridges.orange_sandstone_bridge_end":"붉은 사암 다리 끝 부분",
+         
+ 	 	 "block.mcwbridges.blackstone_bridge":"흑암 다리",
+         "block.mcwbridges.blackstone_bridge_end":"흑암 다리 끝 부분",
+         
+        "block.mcwbridges.oak_rail_bridge":"참나무 레일 다리",
+		"block.mcwbridges.spruce_rail_bridge":"가문비나무 레일 다리",
+		"block.mcwbridges.birch_rail_bridge":"자작나무 레일 다리",
+		"block.mcwbridges.jungle_rail_bridge":"정글 나무 레일 다리",
+		"block.mcwbridges.acacia_rail_bridge":"아카시아나무 레일 다리",
+		"block.mcwbridges.dark_oak_rail_bridge":"짙은 참나무 레일 다리",
+		"block.mcwbridges.crimson_rail_bridge":"진홍빛 자루 레일 다리",
+		"block.mcwbridges.warped_rail_bridge":"뒤틀린 자루 레일 다리",
+	
+		"block.mcwbridges.oak_rail_bridge_powered":"전동 참나무 레일 다리",
+  		"block.mcwbridges.spruce_rail_bridge_powered":"전동 가문비나무 레일 다리",
+		"block.mcwbridges.birch_rail_bridge_powered":"전동 자작나무 레일 다리",
+		"block.mcwbridges.jungle_rail_bridge_powered":"전동 정글 나무 레일 다리",
+		"block.mcwbridges.acacia_rail_bridge_powered":"전동 아카시아나무 레일 다리",
+		"block.mcwbridges.dark_oak_rail_bridge_powered":"전동 짙은 참나무 레일 다리",		
+		"block.mcwbridges.crimson_rail_bridge_powered":"전동 진홍빛 자루 레일 다리",
+		"block.mcwbridges.warped_rail_bridge_powered":"전동 뒤틀린 자루 레일 다리",
+		
+		
+		
+		
+		"block.mcwbridges.bamboo_bridge":"대나무 다리"
+		                                                                          
+	}
+	
