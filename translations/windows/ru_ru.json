@@ -1,0 +1,208 @@
+{
+	"itemGroup.windows": "Macaw's Windows",
+	"itemGroup.windows2": "Macaw's Windows Additions",
+
+	"item.mcwwindows.window_base": "Корпус окна",
+	"item.mcwwindows.window_centre_bar_base": "Брусковый корпус центрального окна",
+	"item.mcwwindows.hammer": "Молоток для окна",
+
+	"block.mcwwindows.oak_window": "Дубовое окно",
+	"block.mcwwindows.spruce_window": "Еловое окно",
+	"block.mcwwindows.birch_window": "Берёзовое окно",
+	"block.mcwwindows.jungle_window": "Тропическое окно",
+	"block.mcwwindows.acacia_window": "Акациевое окно",
+	"block.mcwwindows.dark_oak_window": "Тёмно-дубовое окно",
+	"block.mcwwindows.oak_plank_window": "Дубовое штульповое окно",
+	"block.mcwwindows.spruce_plank_window": "Еловое штульповое окно",
+	"block.mcwwindows.birch_plank_window": "Берёзовое штульповое окно",
+	"block.mcwwindows.jungle_plank_window": "Тропическое штульповое окно",
+	"block.mcwwindows.acacia_plank_window": "Акациевое штульповое окно",
+	"block.mcwwindows.dark_oak_plank_window": "Тёмно-дубовое штульповое окно",
+
+	"block.mcwwindows.oak_planks_win_2tall": "Дубовое штульповое высокое окно",
+	"block.mcwwindows.oak_win_2tall": "Дубовое высокое окно",
+
+	"block.mcwwindows.spruce_planks_win_2tall": "Еловое штульповое высокое окно",
+	"block.mcwwindows.spruce_win_2tall": "Еловое высокое окно",
+
+	"block.mcwwindows.birch_planks_win_2tall": "Берёзовое штульповое высокое окно",
+	"block.mcwwindows.birch_win_2tall": "Берёзовое высокое окно",
+
+	"block.mcwwindows.jungle_planks_win_2tall": "Тропическое штульповое высокое окно",
+	"block.mcwwindows.jungle_win_2tall": "Тропическое высокое окно",
+
+	"block.mcwwindows.acacia_planks_win_2tall": "Акациевое штульповое высокое окно",
+	"block.mcwwindows.acacia_win_2tall": "Акациевое высокое окно",
+
+	"block.mcwwindows.dark_oak_planks_win_2tall": "Тёмно-дубовое штульповое высокое окно",
+	"block.mcwwindows.dark_oak_win_2tall": "Тёмно-дубовое высокое окно",
+
+	"block.mcwwindows.oak_window2": "Дубовое брусковое центральное окно",
+	"block.mcwwindows.oak_plank_window2": "Дубовое брусковое центральное штульповое окно",
+
+	"block.mcwwindows.spruce_window2": "Еловое брусковое центральное окно",
+	"block.mcwwindows.spruce_plank_window2": "Еловое брусковое центральное штульповое окно",
+
+	"block.mcwwindows.birch_window2": "Берёзовое брусковое центральное окно",
+	"block.mcwwindows.birch_plank_window2": "Берёзовое брусковое центральное штульповое окно",
+
+	"block.mcwwindows.jungle_window2": "Тропическое брусковое центральное окно",
+	"block.mcwwindows.jungle_plank_window2": "Тропическое брусковое центральное штульповое окно",
+
+	"block.mcwwindows.acacia_window2": "Акациевое брусковое центральное окно",
+	"block.mcwwindows.acacia_plank_window2": "Акациевое брусковое центральное штульповое окно",
+
+	"block.mcwwindows.dark_oak_window2": "Тёмно-дубовое брусковое центральное окно",
+	"block.mcwwindows.dark_oak_plank_window2": "Тёмно-дубовое брусковое центральное штульповое окно",
+
+	"block.mcwwindows.oak_window2_2tall": "Дубовое брусковое высокое окно",
+	"block.mcwwindows.oak_plank_window2_2tall": "Дубовое брусковое высокое штульповое окно",
+
+	"block.mcwwindows.spruce_window2_2tall": "Еловое брусковое высокое окно",
+	"block.mcwwindows.spruce_plank_window2_2tall": "Еловое брусковое высокое штульповое окно",
+
+	"block.mcwwindows.birch_window2_2tall": "Берёзовое брусковое высокое окно",
+	"block.mcwwindows.birch_plank_window2_2tall": "Берёзовое брусковое высокое штульповое окно",
+
+	"block.mcwwindows.jungle_window2_2tall": "Тропическое брусковое высокое окно",
+	"block.mcwwindows.jungle_plank_window2_2tall": "Тропическое брусковое высокое штульповое окно",
+
+	"block.mcwwindows.acacia_window2_2tall": "Акациевое брусковое высокое окно",
+	"block.mcwwindows.acacia_plank_window2_2tall": "Акациевое брусковое высокое штульповое окно",
+
+	"block.mcwwindows.dark_oak_window2_2tall": "Тёмно-дубовое высокое окно",
+	"block.mcwwindows.dark_oak_plank_window2_2tall":"Тёмно-дубовое брусковое высокое штульповое окно",
+
+	"block.mcwwindows.andesite_window": "Андезитовое брусковое окно",
+	"block.mcwwindows.andesite_window2": "Андезитовое окно",
+	"block.mcwwindows.andesite_window2_2tall": "Андезитовое брусковое высокое окно",
+	"block.mcwwindows.andesite_win_2tall": "Андезитовое высокое окно",
+
+	"block.mcwwindows.diorite_window": "Диоритовое брусковое окно",
+	"block.mcwwindows.diorite_window2": "Диоритовое окно",
+	"block.mcwwindows.diorite_window2_2tall": "Диоритовое брусковое высокое окно",
+	"block.mcwwindows.diorite_win_2tall": "Диоритовое высокое окно",
+
+	"block.mcwwindows.granite_window": "Гранитное брусковое окно",
+	"block.mcwwindows.granite_window2": "Гранитное окно",
+	"block.mcwwindows.granite_window2_2tall": "Гранитное брусковое высокое окно",
+	"block.mcwwindows.granite_win_2tall": "Гранитное высокое окно",
+
+	"block.mcwwindows.stone_window": "Каменное брусковое окно",
+	"block.mcwwindows.stone_window2": "Каменное окно",
+	"block.mcwwindows.stone_window2_2tall": "Каменное брусковое высокое окно",
+	"block.mcwwindows.stone_win_2tall": "Каменное высокое окно",	
+
+	"block.mcwwindows.stripped_oak_log_window": "Брусковое окно из обтёсанной дубовой древесины",
+	"block.mcwwindows.stripped_oak_log_window2_2tall": "Брусковое высокое окно из обтёсанной дубовой древесины",
+	"block.mcwwindows.stripped_oak_log_window2": "Окно из обтёсанной дубовой древесины",
+	"block.mcwwindows.stripped_oak_log_win_2tall": "Высокое окно из обтёсанной дубовой древесины",
+
+	"block.mcwwindows.stripped_spruce_log_window": "Брусковое окно из обтёсанной еловой древесины",
+	"block.mcwwindows.stripped_spruce_log_window2_2tall": "Брусковое высокое окно из обтёсанной еловой древесины",
+	"block.mcwwindows.stripped_spruce_log_window2": "Окно из обтёсанной еловой древесины",
+	"block.mcwwindows.stripped_spruce_log_win_2tall": "Высокое окно из обтёсанной еловой древесины",
+
+	"block.mcwwindows.stripped_birch_log_window": "Брусковое окно из обтёсанной берёзовой древесины",
+	"block.mcwwindows.stripped_birch_log_window2_2tall": "Брусковое высокое окно из обтёсанной берёзовой древесины",
+	"block.mcwwindows.stripped_birch_log_window2": "Окно из обтёсанной берёзовой древесины",
+	"block.mcwwindows.stripped_birch_log_win_2tall": "Высокое окно из обтёсанной берёзовой древесины",
+
+	"block.mcwwindows.stripped_jungle_log_window": "Брусковое окно из обтёсанной тропической древесины",
+	"block.mcwwindows.stripped_jungle_log_window2_2tall": "Брусковое высокое окно из обтёсанной тропической древесины",
+	"block.mcwwindows.stripped_jungle_log_window2": "Окно из обтёсанной тропической древесины",
+	"block.mcwwindows.stripped_jungle_log_win_2tall": "Высокое окно из обтёсанной тропической древесины",
+
+	"block.mcwwindows.stripped_acacia_log_window": "Брусковое окно из обтёсанной акациевой древесины",
+	"block.mcwwindows.stripped_acacia_log_window2_2tall": "Брусковое высокое окно из обтёсанной акациевой древесины",
+	"block.mcwwindows.stripped_acacia_log_window2": "Окно из обтёсанной акациевой древесины",
+	"block.mcwwindows.stripped_acacia_log_win_2tall": "Высокое окно из обтёсанной акациевой древесины",
+
+	"block.mcwwindows.stripped_dark_oak_log_window": "Брусковое окно из обтёсанной тёмно-дубовой древесины",
+	"block.mcwwindows.stripped_dark_oak_log_window2_2tall": "Брусковое высокое окно из обтёсанной тёмно-дубовой древесины",
+	"block.mcwwindows.stripped_dark_oak_log_window2": "Окно из обтёсанной тёмно-дубовой древесины",
+	"block.mcwwindows.stripped_dark_oak_log_win_2tall": "Высокое окно из обтёсанной тёмно-дубовой древесины",
+
+	"block.mcwwindows.crimson_stem_window": "Брусковое окно из багровой ножки",
+	"block.mcwwindows.crimson_stem_window2_2tall": "Брусковое высокое окно из багровой ножки",
+	"block.mcwwindows.crimson_stem_window2": "Окно окно из багровой ножки",
+	"block.mcwwindows.crimson_stem_win_2tall": "Высокое окно из багровой ножки",
+
+	"block.mcwwindows.warped_stem_window": "Брусковое окно из искажённой ножки",
+	"block.mcwwindows.warped_stem_window2_2tall": "Брусковое высокое окно из искажённой ножки",
+	"block.mcwwindows.warped_stem_window2": "Окно окно из искажённой ножки",
+	"block.mcwwindows.warped_stem_win_2tall": "Высокое окно из искажённой ножки",
+
+	"block.mcwwindows.stripped_crimson_stem_window": "Брусковое окно из обтёсанной багровой ножки",
+	"block.mcwwindows.stripped_crimson_stem_window2_2tall": "Брусковое высокое окно из обтёсанной багровой ножки",
+	"block.mcwwindows.stripped_crimson_stem_window2": "Окно окно из обтёсанной багровой ножки",
+	"block.mcwwindows.stripped_crimson_stem_win_2tall": "Высокое окно из обтёсанной багровой ножки",
+
+	"block.mcwwindows.stripped_warped_stem_window": "Брусковое окно из обтёсанной искажённой ножки",
+	"block.mcwwindows.stripped_warped_stem_window2_2tall": "Брусковое высокое окно из обтёсанной искажённой ножки",
+	"block.mcwwindows.stripped_warped_stem_window2": "Окно окно из обтёсанной искажённой ножки",
+	"block.mcwwindows.stripped_warped_stem_win_2tall": "Высокое окно из обтёсанной искажённой ножки",
+
+	"block.mcwwindows.crimson_planks_window": "Брусковое окно из багровых досок",
+	"block.mcwwindows.crimson_planks_window2_2tall": "Брусковое высокое окно из багровых досок",
+	"block.mcwwindows.crimson_planks_window2": "Окно из багровых досок",
+	"block.mcwwindows.crimson_planks_win_2tall": "Высокое окно из багровых досок",
+
+	"block.mcwwindows.warped_planks_window": "Брусковое окно из искажённых досок",
+	"block.mcwwindows.warped_planks_window2_2tall": "Брусковое высокое окно из искажённых досок",
+	"block.mcwwindows.warped_planks_window2": "Окно из искажённых досок",
+	"block.mcwwindows.warped_planks_win_2tall": "Высокое окно из искажённых досок",
+
+	"block.mcwwindows.oak_log_parapet": "Дубовые перила",
+	"block.mcwwindows.spruce_log_parapet": "Еловые перила",
+	"block.mcwwindows.birch_log_parapet": "Берёзовые перила",
+	"block.mcwwindows.jungle_log_parapet": "Тропические перила",
+	"block.mcwwindows.acacia_log_parapet": "Акациевые перила",
+	"block.mcwwindows.dark_oak_log_parapet": "Тёмно-дубовые перила",
+	"block.mcwwindows.oak_plank_parapet": "Перила из дубовых досок",
+	"block.mcwwindows.spruce_plank_parapet": "Перила из еловых досок",
+	"block.mcwwindows.birch_plank_parapet": "Перила из берёзовых досок",
+	"block.mcwwindows.jungle_plank_parapet": "Перила из тропических досок",
+	"block.mcwwindows.acacia_plank_parapet": "Перила из акациевых досок",
+	"block.mcwwindows.dark_oak_plank_parapet": "Перила из тёмно-дубовых досок",
+	"block.mcwwindows.andesite_parapet": "Андезитовые перила",
+	"block.mcwwindows.diorite_parapet": "Диоритовые перила",
+	"block.mcwwindows.granite_parapet": "Гранитовые перила",
+	"block.mcwwindows.warped_stem_parapet": "Перила из багровой ножки",
+	"block.mcwwindows.crimson_stem_parapet": "Перила из искажённой ножки",
+	"block.mcwwindows.warped_plank_parapet": "Перила из искажённых досок",
+	"block.mcwwindows.crimson_plank_parapet": "Перила из багровых досок",
+
+	"block.mcwwindows.stone_brick_gothic": "Готическое окно из каменного кирпича",
+	"block.mcwwindows.end_brick_gothic": "Готическое окно из кирпича края",
+	"block.mcwwindows.nether_brick_gothic": "Готическое окно из незер-кирпича",
+	"block.mcwwindows.prismarine_brick_gothic": "Готическое окно из призмаринового кирпича",
+
+	"block.mcwwindows.stone_brick_gothic_tall": "Готическое высокое окно из каменного кирпича",
+	"block.mcwwindows.end_brick_gothic_tall": "Готическое высокое окно из кирпича края",
+	"block.mcwwindows.nether_brick_gothic_tall": "Готическое высокое окно из незер-кирпича",
+	"block.mcwwindows.prismarine_brick_gothic_tall": "Готическое высокое окно из призмаринового кирпича",
+
+	"block.mcwwindows.oak_blinds": "Дубовые ставни",
+	"block.mcwwindows.spruce_blinds": "Еловые ставни",
+	"block.mcwwindows.birch_blinds": "Берёзовые ставни",
+	"block.mcwwindows.jungle_blinds": "Тропические ставни",
+	"block.mcwwindows.acacia_blinds": "Акациевые ставни",
+	"block.mcwwindows.dark_oak_blinds": "Тёмно-дубовые ставни",
+	"block.mcwwindows.crimson_blinds": "Багровые ставни",
+	"block.mcwwindows.warped_blinds": "Искажённые ставни",
+
+	"block.mcwwindows.oak_blinds_tall": "Дубовые высокие ставни",
+	"block.mcwwindows.spruce_blinds_tall": "Еловые высокие ставни",
+	"block.mcwwindows.birch_blinds_tall": "Берёзовые высокие ставни",
+	"block.mcwwindows.jungle_blinds_tall": "Тропические высокие ставни",
+	"block.mcwwindows.acacia_blinds_tall": " Акациевые высокие ставни",
+	"block.mcwwindows.dark_oak_blinds_tall": "Тёмно-дубовые высокие ставни",
+	"block.mcwwindows.crimson_blinds_tall": "Багровые высокие ставни",
+	"block.mcwwindows.warped_blinds_tall": "Искажённые высокие ставни",
+
+	"block.mcwwindows.stone_brick_arrow_slit": "Бойница из каменного кирпича",
+	"block.mcwwindows.cobblestone_arrow_slit": "Бойница из булыжника",
+	"block.mcwwindows.nether_brick_arrow_slit": "Бойница из незер-кирпича",
+	"block.mcwwindows.ender_brick_arrow_slit": "Бойница из кирпича края"
+}
