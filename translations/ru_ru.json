@@ -1,0 +1,79 @@
+	{
+		
+		"itemGroup.mcwfences.fencesgroup": "Macaw's fences & walls",
+     
+
+
+
+"block.mcwfences.spruce_picket_fence":"Еловый штакетник",
+"block.mcwfences.spruce_stockade_fence":"Еловый частокол",
+"block.mcwfences.spruce_horse_fence":"Еловая изгородь",
+"block.mcwfences.spruce_wired_fence":"Еловая колючая проволка",
+
+"block.mcwfences.birch_picket_fence":"Берёзовый штакетник",
+"block.mcwfences.birch_stockade_fence":"Берёзовый частокол",
+"block.mcwfences.birch_horse_fence":"Берёзовая изгородь",
+"block.mcwfences.birch_wired_fence":"Берёзовая колючая проволка",
+
+"block.mcwfences.jungle_picket_fence":"Тропический штакетник",
+"block.mcwfences.jungle_stockade_fence":"Тропический частокол",
+"block.mcwfences.jungle_horse_fence":"Тропическая изгородь",
+"block.mcwfences.jungle_wired_fence":"Тропическая колючая проволка",
+
+"block.mcwfences.acacia_picket_fence":"Акациевый штакетник",
+"block.mcwfences.acacia_stockade_fence":"Акациевый частокол",
+"block.mcwfences.acacia_horse_fence":"Акациевая изгородь",
+"block.mcwfences.acacia_wired_fence":"Акациевая колючая проволка",
+
+"block.mcwfences.dark_oak_picket_fence":"Темный дубовый штакетник",
+"block.mcwfences.dark_oak_stockade_fence":"Темный дубовый частокол",
+"block.mcwfences.dark_oak_horse_fence":"Темная дубовая изгородь",
+"block.mcwfences.dark_oak_wired_fence":"Темная дубовая колючая проволка",
+
+"block.mcwfences.crimson_picket_fence":"Багровый штакетник",
+"block.mcwfences.crimson_stockade_fence":"Багровый частокол",
+"block.mcwfences.crimson_horse_fence":"Багровая изгородь",
+"block.mcwfences.crimson_wired_fence":"Багровая колючая проволка",
+
+"block.mcwfences.warped_picket_fence":"Искаженный штакетник",
+"block.mcwfences.warped_stockade_fence":"Искаженный частокол",
+"block.mcwfences.warped_horse_fence":"Искаженная изгородь",
+"block.mcwfences.warped_wired_fence":"Искаженная колючая проволка",
+
+
+
+"block.mcwfences.oak_picket_fence":"Дубовый штакетник",
+"block.mcwfences.oak_stockade_fence":"Дубовый частокол",
+"block.mcwfences.oak_horse_fence":"Дубовая изгородь",
+"block.mcwfences.oak_wired_fence":"Дубовая колючая проволка",
+
+"block.mcwfences.modern_stone_brick_wall":"Современный забор из каменного кирпича",
+"block.mcwfences.modern_andesite_wall":"Современный забор из андезита",
+"block.mcwfences.modern_diorite_wall":"Современный забор из диорита",
+"block.mcwfences.modern_granite_wall":"Современный забор из гранита",
+"block.mcwfences.modern_blackstone_wall":"Современный забор из чернита",
+"block.mcwfences.modern_sandstone_wall":"Современный забор из песчаника",
+"block.mcwfences.modern_red_sandstone_wall":"Современный забор из красного песчаника",
+"block.mcwfences.modern_nether_brick_wall":"Современный забор из незерского кирпича",
+"block.mcwfences.modern_end_brick_wall":"Современный забор из ендерняковых кирпичей",
+
+"block.mcwfences.railing_stone_brick_wall":"Прутья из каменного кирпича",
+"block.mcwfences.railing_andesite_wall":"Прутья из андезита",
+"block.mcwfences.railing_diorite_wall":"Прутья из диорита",
+"block.mcwfences.railing_granite_wall":"Прутья из гранита",
+"block.mcwfences.railing_blackstone_wall":"Прутья из чернита",
+"block.mcwfences.railing_sandstone_wall":"Прутья из песчаника",
+"block.mcwfences.railing_red_sandstone_wall":"Прутья из красного песчаника",
+"block.mcwfences.railing_nether_brick_wall":"Прутья из незерского кирпича",
+"block.mcwfences.railing_end_brick_wall":"Прутья из ендерняковых кирпичей",
+
+"block.mcwfences.oak_highley_gate":"Дубовые высокие ворота",      
+"block.mcwfences.spruce_highley_gate":"Еловые высокие ворота",     
+"block.mcwfences.birch_highley_gate":"Берёзовые высокие ворота",     
+"block.mcwfences.jungle_highley_gate":"Тропические высокие ворота",     
+"block.mcwfences.acacia_highley_gate":"Акациевые высокие ворота",     
+"block.mcwfences.dark_oak_highley_gate":"Темные дубовые высокие ворота",     
+"block.mcwfences.crimson_highley_gate":"Багровые высокие ворота",     
+"block.mcwfences.warped_highley_gate":"Искаженные высокие ворота"                                                     
+	}
+	
