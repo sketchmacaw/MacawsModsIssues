@@ -6,11 +6,13 @@
  -  Macaw's Roofs 
  -  Macaw's Furniture 
  -  Macaw's Windows
-  - Macaw's Doors
+ -  Macaw's Doors
+ -  Macaw's Trapdoors
+ -  Macaw's Paintings
+ -  Macaw's Light & Lamps
+ -  Macaw's Fences & Walls
+ -  Macaw's Paths & Pavings
 
-## Issue Tracker Labels
-
-There is a lot of **Labels** in the issues, please use them so I can sort the issues quickly. Insert the label for the Mod you want to create an issues, the Minecraft version etc..
 
 ## Join the official Macaw's Mods Discord
 
