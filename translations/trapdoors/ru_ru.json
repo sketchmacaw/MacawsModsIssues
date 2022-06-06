@@ -1,0 +1,123 @@
+	{
+		
+		"itemgroup.mcwtrpdoors.trapdoorsgroup": "Пальмовые люки",
+     
+		"item.mcwtrpdoors.item":"Крафт компонент",
+	 
+		"item.mcwtrpdoors.print_classic":"Принт для люка в классическом стиле",
+        "item.mcwtrpdoors.print_cottage":"Принт для люка в коттеджном стиле",
+        "item.mcwtrpdoors.print_paper":"Принт для люка в бумажном стиле",
+        "item.mcwtrpdoors.print_beach":"Принт для люка в пляжном стиле",
+        "item.mcwtrpdoors.print_tropical":"Принт для люка в тропическом стиле",
+        "item.mcwtrpdoors.print_four_panel":"Принт для люка с четырьмя панелями",
+        "item.mcwtrpdoors.print_barred":"Принт для люка в багровом стиле",
+        "item.mcwtrpdoors.print_mystic":"Принт для люка в искажённом стиле",
+
+"block.mcwtrpdoors.oak_barn_trapdoor":"Дубовый сарайный люк",
+"block.mcwtrpdoors.oak_barred_trapdoor":"Дубовый люк с решёткой",
+"block.mcwtrpdoors.oak_beach_trapdoor":"Дубовый пляжный люк",
+"block.mcwtrpdoors.oak_classic_trapdoor":"Дубовый классический люк",
+"block.mcwtrpdoors.oak_cottage_trapdoor":"Дубовый коттеджный люк",
+"block.mcwtrpdoors.oak_four_panel_trapdoor":"Дубовый четырёхпанельный люк",
+"block.mcwtrpdoors.oak_glass_trapdoor":"Дубовый стеклянный люк",
+"block.mcwtrpdoors.oak_mystic_trapdoor":"Дубовый мистический люк",
+"block.mcwtrpdoors.oak_paper_trapdoor":"Дубовый бумажный люк",
+"block.mcwtrpdoors.oak_tropical_trapdoor":"Дубовый тропический люк",
+"block.mcwtrpdoors.spruce_barn_trapdoor":"Еловый сарайный люк",
+"block.mcwtrpdoors.spruce_barred_trapdoor":"Еловый люк с решёткой",
+"block.mcwtrpdoors.spruce_beach_trapdoor":"Еловый пляжный люк",
+"block.mcwtrpdoors.spruce_classic_trapdoor":"Еловый классический люк",
+"block.mcwtrpdoors.spruce_cottage_trapdoor":"Еловый коттеджный люк",
+"block.mcwtrpdoors.spruce_four_panel_trapdoor":"Еловый четырёхпанельный люк",
+"block.mcwtrpdoors.spruce_glass_trapdoor":"Еловый стеклянный люк",
+"block.mcwtrpdoors.spruce_mystic_trapdoor":"Еловый мистический люк",
+"block.mcwtrpdoors.spruce_paper_trapdoor":"Еловый бумажный люк",
+"block.mcwtrpdoors.spruce_tropical_trapdoor":"Еловый тропический люк",
+"block.mcwtrpdoors.birch_barn_trapdoor":"Берёзовый сарайный люк",
+"block.mcwtrpdoors.birch_barred_trapdoor":"Берёзовый люк с решёткой",
+"block.mcwtrpdoors.birch_beach_trapdoor":"Берёзовый пляжный люк",
+"block.mcwtrpdoors.birch_classic_trapdoor":"Берёзовый классический люк",
+"block.mcwtrpdoors.birch_cottage_trapdoor":"Берёзовый коттеджный люк",
+"block.mcwtrpdoors.birch_four_panel_trapdoor":"Берёзовый четырёхпанельный люк",
+"block.mcwtrpdoors.birch_glass_trapdoor":"Берёзовый стеклянный люк",
+"block.mcwtrpdoors.birch_mystic_trapdoor":"Берёзовый мистический люк",
+"block.mcwtrpdoors.birch_paper_trapdoor":"Берёзовый бумажный люк",
+"block.mcwtrpdoors.birch_tropical_trapdoor":"Берёзовый тропический люк",
+"block.mcwtrpdoors.jungle_barn_trapdoor":"Джунглевый сарайный люк",
+"block.mcwtrpdoors.jungle_barred_trapdoor":"Джунглевый люк с решёткой",
+"block.mcwtrpdoors.jungle_beach_trapdoor":"Джунглевый пляжный люк",
+"block.mcwtrpdoors.jungle_classic_trapdoor":"Джунглевый классический люк",
+"block.mcwtrpdoors.jungle_cottage_trapdoor":"Джунглевый коттеджный люк",
+"block.mcwtrpdoors.jungle_four_panel_trapdoor":"Джунглевый четырёхпанельный люк",
+"block.mcwtrpdoors.jungle_glass_trapdoor":"Джунглевый стеклянный люк",
+"block.mcwtrpdoors.jungle_mystic_trapdoor":"Джунглевый мистический люк",
+"block.mcwtrpdoors.jungle_paper_trapdoor":"Джунглевый бумажный люк",
+"block.mcwtrpdoors.jungle_tropical_trapdoor":"Джунглевый тропический люк",
+"block.mcwtrpdoors.acacia_barn_trapdoor":"Акациевый сарайный люк",
+"block.mcwtrpdoors.acacia_barred_trapdoor":"Акациевый люк с решёткой",
+"block.mcwtrpdoors.acacia_beach_trapdoor":"Акациевый пляжный люк",
+"block.mcwtrpdoors.acacia_classic_trapdoor":"Акациевый классический люк",
+"block.mcwtrpdoors.acacia_cottage_trapdoor":"Акациевый коттеджный люк",
+"block.mcwtrpdoors.acacia_four_panel_trapdoor":"Акациевый четырёхпанельный люк",
+"block.mcwtrpdoors.acacia_glass_trapdoor":"Акациевый стеклянный люк",
+"block.mcwtrpdoors.acacia_mystic_trapdoor":"Акациевый мистический люк",
+"block.mcwtrpdoors.acacia_paper_trapdoor":"Акациевый бумажный люк",
+"block.mcwtrpdoors.acacia_tropical_trapdoor":"Акациевый тропический люк",
+"block.mcwtrpdoors.dark_oak_barn_trapdoor":"Тёмный дубовый сарайный люк",
+"block.mcwtrpdoors.dark_oak_barred_trapdoor":"Тёмный дубовый люк с решёткой",
+"block.mcwtrpdoors.dark_oak_beach_trapdoor":"Тёмный дубовый пляжный люк",
+"block.mcwtrpdoors.dark_oak_classic_trapdoor":"Тёмный дубовый классический люк",
+"block.mcwtrpdoors.dark_oak_cottage_trapdoor":"Тёмный дубовый коттеджный люк",
+"block.mcwtrpdoors.dark_oak_four_panel_trapdoor":"Тёмный дубовый четырёхпанельный люк",
+"block.mcwtrpdoors.dark_oak_glass_trapdoor":"Тёмный дубовый стеклянный люк",
+"block.mcwtrpdoors.dark_oak_mystic_trapdoor":"ЗТёмный дубовый мистический люк",
+"block.mcwtrpdoors.dark_oak_paper_trapdoor":"Тёмный дубовый бумажный люк",
+"block.mcwtrpdoors.dark_oak_tropical_trapdoor":"Тёмный дубовый тропический люк",
+"block.mcwtrpdoors.crimson_barn_trapdoor":"Багровый сарайный люк",
+"block.mcwtrpdoors.crimson_barred_trapdoor":"Багровый люк с решёткой",
+"block.mcwtrpdoors.crimson_beach_trapdoor":"Багровый пляжный люк",
+"block.mcwtrpdoors.crimson_classic_trapdoor":"Багровый классический люк",
+"block.mcwtrpdoors.crimson_cottage_trapdoor":"Багровый коттеджный люк",
+"block.mcwtrpdoors.crimson_four_panel_trapdoor":"Багровый четырёхпанельный люк",
+"block.mcwtrpdoors.crimson_glass_trapdoor":"Багровый стеклянный люк",
+"block.mcwtrpdoors.crimson_mystic_trapdoor":"Багровый мистический люк",
+"block.mcwtrpdoors.crimson_paper_trapdoor":"Багровый бумажный люк",
+"block.mcwtrpdoors.crimson_tropical_trapdoor":"Багровый тропический люк",
+"block.mcwtrpdoors.warped_barn_trapdoor":"Искажённый сарайный люк",
+"block.mcwtrpdoors.warped_barred_trapdoor":"Искажённый люк с решёткой",
+"block.mcwtrpdoors.warped_beach_trapdoor":"Искажённый пляжный люк",
+"block.mcwtrpdoors.warped_classic_trapdoor":"Искажённый классический люк",
+"block.mcwtrpdoors.warped_cottage_trapdoor":"Искажённый коттеджный люк",
+"block.mcwtrpdoors.warped_four_panel_trapdoor":"Искажённый четырёхпанельный люк",
+"block.mcwtrpdoors.warped_glass_trapdoor":"Искажённый стекляный люк",
+"block.mcwtrpdoors.warped_mystic_trapdoor":"Искажённый мистический люк",
+"block.mcwtrpdoors.warped_paper_trapdoor":"Искажённый бумажный люк",
+"block.mcwtrpdoors.warped_tropical_trapdoor":"Искажённый тропический люк",
+
+"block.mcwtrpdoors.oak_bark_trapdoor":"Люк из дубовой коры",
+"block.mcwtrpdoors.spruce_bark_trapdoor":"Люк из еловой коры ",
+"block.mcwtrpdoors.birch_bark_trapdoor":"Люк из берёзовой коры ",
+"block.mcwtrpdoors.jungle_bark_trapdoor":"Люк из джунглевой коры",
+"block.mcwtrpdoors.acacia_bark_trapdoor":"Люк из акациевой коры",
+"block.mcwtrpdoors.dark_oak_bark_trapdoor":"Люк из темной дубовой коры",
+"block.mcwtrpdoors.crimson_bark_trapdoor":"Люк из багровой коры",
+"block.mcwtrpdoors.warped_bark_trapdoor":"Люк из искажённой коры",
+
+"block.mcwtrpdoors.metal_trapdoor":"Люк из металла с окном",
+
+"block.mcwtrpdoors.metal_full_trapdoor":"Цельнометаллический люк"
+
+
+
+
+        
+
+				
+		
+
+		
+		
+		
+                                                                     
+	}
+	
