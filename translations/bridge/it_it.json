@@ -1,0 +1,79 @@
+{
+		
+		"itemGroup.bridges": "Ponti di Macaw",
+		
+		 "block.mcwbridges.most1":"Centro del ponte di ferro",
+         "block.mcwbridges.most2":"Estremità del ponte di ferro",
+         "block.mcwbridges.oak_log_bridge_middle":"Centro el ponte di quercia",
+         "block.mcwbridges.oak_log_bridge_end":"Estremità del ponte di quercia",
+         "block.mcwbridges.birch_log_bridge_end":"Estremità del ponte di betulla",
+         "block.mcwbridges.birch_log_bridge_middle":"Centro del ponte di betulla",
+         "block.mcwbridges.acacia_log_bridge_end":"Estremità del ponte di acacia",
+         "block.mcwbridges.acacia_log_bridge_middle":"Centro del ponte di acacia",
+         "block.mcwbridges.spruce_log_bridge_end":"Estremità del ponte di abete",
+         "block.mcwbridges.spruce_log_bridge_middle":"Centro del ponte di abete",
+         "block.mcwbridges.jungle_log_bridge_end":"Estremità del ponte della giungla",
+         "block.mcwbridges.jungle_log_bridge_middle":"Centro del ponte della giungla",
+         "block.mcwbridges.dark_oak_log_bridge_end":"Estremità del ponte di quercia scura",
+         "block.mcwbridges.dark_oak_log_bridge_middle":"Centro del ponte di quercia scura",
+         "block.mcwbridges.crimson_log_bridge_end":"Estremità del ponte cremesi",
+         "block.mcwbridges.crimson_log_bridge_middle":"Centro del ponte cremesi",
+         "block.mcwbridges.warped_log_bridge_end":"Estremità del ponte distorto",
+         "block.mcwbridges.warped_log_bridge_middle":"Centro del ponte distorto",
+
+         "block.mcwbridges.rope_oak_bridge":"Ponte di corda in quercia",
+         "block.mcwbridges.rope_oak_bridge_end":"Estremità del ponte di corda in quercia",
+         "block.mcwbridges.rope_birch_bridge":"Ponte di corda in betulla",
+         "block.mcwbridges.rope_birch_bridge_end":"Estremità del ponte in corda di betulla",
+         "block.mcwbridges.rope_spruce_bridge":"Ponte in corda di abete",
+         "block.mcwbridges.rope_spruce_bridge_end":"Estremità del ponte in corda di abete",
+         "block.mcwbridges.rope_jungle_bridge":"Ponte in corda della giungla",
+         "block.mcwbridges.rope_jungle_bridge_end":"Etremità del ponte in corda della giungla",
+         "block.mcwbridges.rope_acacia_bridge":"Ponte in corda di acacia",
+         "block.mcwbridges.rope_acacia_bridge_end":"Estremità del ponte in corda di acacia",
+         "block.mcwbridges.rope_dark_oak_bridge":"Ponte in corda di quercia scura",
+         "block.mcwbridges.rope_dark_oak_bridge_end":"Estremità del ponte in corda di quercia scura",
+         "block.mcwbridges.rope_crimson_bridge":"Ponte in corda di legno cremesi",
+         "block.mcwbridges.rope_crimson_bridge_end":"Estremità del ponte in corda di legno cremesi",
+         "block.mcwbridges.rope_warped_bridge":"Ponte in corda di legno distorto",
+         "block.mcwbridges.rope_warped_bridge_end":"Estremità del ponte in corda di legno distorto",
+         
+         
+         
+
+         "block.mcwbridges.brick_bridge":"Ponte in mattone",
+         "block.mcwbridges.brick_bridge_end":"Estremità del ponte in mattoni",
+         "block.mcwbridges.stone_brick_bridge":"Ponte in mattone di pietra",
+         "block.mcwbridges.stone_brick_bridge_end":"Estremità del ponte in mattone di pietra",
+         "block.mcwbridges.sandstone_bridge":"Ponte in arenaria",
+         "block.mcwbridges.sandstone_bridge_end":"Estremità del ponte in arenaria",
+         "block.mcwbridges.orange_sandstone_bridge":"Ponte in arenaria rossa",
+         "block.mcwbridges.orange_sandstone_bridge_end":"Estremità del ponte in arenaria rossa",
+         
+ 	 	 "block.mcwbridges.blackstone_bridge":"Ponte di pietranera",
+         "block.mcwbridges.blackstone_bridge_end":"Etremità del ponte in pietra nera",
+         
+        "block.mcwbridges.oak_rail_bridge":"Ponte ferroviario di quercia",
+		"block.mcwbridges.spruce_rail_bridge":"Ponte ferroviario in abete",
+		"block.mcwbridges.birch_rail_bridge":"Ponte ferroviario in betulla",
+		"block.mcwbridges.jungle_rail_bridge":"Ponte ferroviario in legno della giungla",
+		"block.mcwbridges.acacia_rail_bridge":"Ponte ferroviario in acacia",
+		"block.mcwbridges.dark_oak_rail_bridge":"Ponte ferroviario in quercia scura",
+		"block.mcwbridges.crimson_rail_bridge":"Ponte ferroviario in legno cremesi",
+		"block.mcwbridges.warped_rail_bridge":"Ponte ferroviario in legno distorto",
+	
+		"block.mcwbridges.oak_rail_bridge_powered":"Ponte ferroviario alimentato di quercia",
+  		"block.mcwbridges.spruce_rail_bridge_powered":"Ponte ferroviario alimentato di abete",
+		"block.mcwbridges.birch_rail_bridge_powered":"Ponte ferroviario alimentato di betulla",
+		"block.mcwbridges.jungle_rail_bridge_powered":"Ponte ferroviario alimentato di legno della giungla",
+		"block.mcwbridges.acacia_rail_bridge_powered":"Ponte ferroviario alimentato di acacia",
+		"block.mcwbridges.dark_oak_rail_bridge_powered":"Ponte ferroviario alimentato di quercia scura",		
+		"block.mcwbridges.crimson_rail_bridge_powered":"Ponte ferroviario alimentato di cremesi",
+		"block.mcwbridges.warped_rail_bridge_powered":"Ponte ferroviario alimentato di legno distorto",
+		
+		
+		
+		
+		"block.mcwbridges.bamboo_bridge":"Ponte di Bamboo"
+		                                                                          
+	}
