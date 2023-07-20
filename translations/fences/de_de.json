@@ -1,8 +1,8 @@
 {
   "itemGroup.mcwfences": "Macaw's Zäune & Mauern",
 
-  "death.attack.wired_fence": "%1$s hat versucht einendrahtzaun zu überqueren",
-  "death.attack.wired_fence.player": "%1$s hat bei der Flucht vor %2$s versucht einendrahtzaun zu überqueren",
+  "death.attack.wired_fence": "%1$s hat versucht einen Drahtzaun zu überqueren",
+  "death.attack.wired_fence.player": "%1$s hat bei der Flucht vor %2$s versucht einen Drahtzaun zu überqueren",
 
   "block.mcwfences.spruce_picket_fence": "Fichtenholzlattenzaun",
   "block.mcwfences.birch_picket_fence": "Birkenholzlattenzaun",
