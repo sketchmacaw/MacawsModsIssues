@@ -1,5 +1,5 @@
 {
-		"itemGroup.mcwfurnitures": "Muebles de Macaw'",
+		"itemGroup.mcwfurnitures": "Muebles de Macaw",
 
 		"mcwfurnitures.container.threerows": "Muebles",
 
@@ -602,6 +602,72 @@
 		"block.mcwfurnitures.stripped_mangrove_counter": "Encimera de mangle sin corteza",
 		"block.mcwfurnitures.stripped_mangrove_drawer_counter": "Encimera con cajón de mangle sin corteza",
 		"block.mcwfurnitures.stripped_mangrove_double_drawer_counter": "Encimera con cajón doble de mangle sin corteza",
-		"block.mcwfurnitures.stripped_mangrove_cupboard_counter": "Encimera con alacena de mangle sin corteza"
+		"block.mcwfurnitures.stripped_mangrove_cupboard_counter": "Encimera con alacena de mangle sin corteza",
+		
+		"block.mcwfurnitures.cherry_wardrobe":"Armario de cerezo",
+		"block.mcwfurnitures.cherry_modern_wardrobe":"Armario moderno de cerezo",
+		"block.mcwfurnitures.cherry_double_wardrobe":"Armario doble de cerezo",
+		"block.mcwfurnitures.cherry_bookshelf":"Librería de cerezo",
+		"block.mcwfurnitures.cherry_bookshelf_cupboard":"Alacena librería de cerezo",
+	 
+		"block.mcwfurnitures.cherry_drawer":"Cajonera de cerezo",
+		"block.mcwfurnitures.cherry_double_drawer":"Cajonera doble de cerezo",
+		"block.mcwfurnitures.cherry_bookshelf_drawer":"Librería con cajón de cerezo",
+		"block.mcwfurnitures.cherry_lower_bookshelf_drawer":"Librería con cajón bajo de cerezo",
+		"block.mcwfurnitures.cherry_large_drawer":"Cajonera grande de cerezo",
+		"block.mcwfurnitures.cherry_lower_triple_drawer":"Cajonera triple baja de cerezo",
+		"block.mcwfurnitures.cherry_triple_drawer":"Cajonera triple de cerezo",
+	 
+		"block.mcwfurnitures.cherry_desk":"Escritorio de cerezo",
+		"block.mcwfurnitures.cherry_covered_desk":"Escritorio cerrado de cerezo",
+		"block.mcwfurnitures.cherry_modern_desk":"Escritorio moderno de cerezo",
+	 
+		"block.mcwfurnitures.cherry_table":"Mesa de cerezo",
+		"block.mcwfurnitures.cherry_end_table":"Mesa auxiliar de cerezo",
+		"block.mcwfurnitures.cherry_coffee_table":"Mesa de café de cerezo",
+		"block.mcwfurnitures.cherry_glass_table":"Mesa de cristal de cerezo",
+	 
+		"block.mcwfurnitures.cherry_chair":"Silla de cerezo",
+		"block.mcwfurnitures.cherry_modern_chair":"Silla moderna de cerezo",
+		"block.mcwfurnitures.cherry_striped_chair":"Silla de tablas de cerezo",
+		"block.mcwfurnitures.cherry_stool_chair":"Taburete de cerezo",
+	 
+		"block.mcwfurnitures.cherry_counter":"Encimera de cerezo",
+		"block.mcwfurnitures.cherry_drawer_counter":"Encimera con cajón de cerezo",
+		"block.mcwfurnitures.cherry_double_drawer_counter":"Encimera con cajón doble de cerezo",
+		"block.mcwfurnitures.cherry_cupboard_counter":"Encimera con alacena de cerezo",
+	 
+		"block.mcwfurnitures.stripped_cherry_wardrobe":"Armario de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_modern_wardrobe":"Armario moderno de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_double_wardrobe":"Armario doble de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_bookshelf":"Librería de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_bookshelf_cupboard":"Alacena librería de cerezo sin corteza",
+	 
+		"block.mcwfurnitures.stripped_cherry_drawer":"Cajonera de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_double_drawer":"Cajonera doble de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_bookshelf_drawer":"Librería con cajón bajo de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_lower_bookshelf_drawer":"Librería con cajón bajo de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_large_drawer":"Cajonera grande de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_lower_triple_drawer":"Cajonera triple baja de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_triple_drawer":"Cajonera triple de cerezo sin corteza",
+		
+		"block.mcwfurnitures.stripped_cherry_desk":"Escritorio de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_covered_desk":"Escritorio cerrado de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_modern_desk":"Escritorio moderno de cerezo sin corteza",
+		
+		"block.mcwfurnitures.stripped_cherry_table":"Mesa de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_end_table":"Mesa auxiliar de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_coffee_table":"Silla de tablas de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_glass_table":"Mesa de cristal de cerezo sin corteza",
+		
+		"block.mcwfurnitures.stripped_cherry_chair":"Silla de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_modern_chair":"Silla moderna de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_striped_chair":"Silla de tablas de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_stool_chair":"Taburete de cerezo sin corteza",
+		
+		"block.mcwfurnitures.stripped_cherry_counter":"Encimera de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_drawer_counter":"Encimera con cajón de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_double_drawer_counter":"Encimera con cajón doble de cerezo sin corteza",
+		"block.mcwfurnitures.stripped_cherry_cupboard_counter":"Encimera con alacena de cerezo sin corteza"
 
 	}
