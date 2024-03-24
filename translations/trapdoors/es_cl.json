@@ -1,5 +1,5 @@
 {		
-		 "itemGroup.mcwtrpdoors": "Macaw's Trapdoors",
+	"itemGroup.mcwtrpdoors": "Macaw's Trapdoors",
      
 	"item.mcwtrpdoors.print_classic":"Impresión de trampilla clásica",
 	"item.mcwtrpdoors.print_cottage":"Impresión de trampilla de cabaña",
@@ -187,16 +187,16 @@
 	"block.mcwtrpdoors.crimson_blossom_trapdoor": "Trampilla de gofre carmesí",
 	"block.mcwtrpdoors.bamboo_blossom_trapdoor": "Trampilla de gofre de bambú",
 	
-    "block.mcwtrpdoors.oak_barrel_trapdoor": "Trampilla de barril de roble",
-    "block.mcwtrpdoors.spruce_barrel_trapdoor": "Trampilla de barril de abeto",
-    "block.mcwtrpdoors.birch_barrel_trapdoor": "Trampilla de barril de abedul",
-    "block.mcwtrpdoors.jungle_barrel_trapdoor": "Trampilla de barril de jungla",
-    "block.mcwtrpdoors.acacia_barrel_trapdoor": "Trampilla de barril de acacia",
-    "block.mcwtrpdoors.dark_oak_barrel_trapdoor": "Trampilla de barril de roble oscuro",
-    "block.mcwtrpdoors.mangrove_barrel_trapdoor": "Trampilla de barril de mangle",
-    "block.mcwtrpdoors.warped_barrel_trapdoor": "Trampilla de barril distorsionada",
-    "block.mcwtrpdoors.crimson_barrel_trapdoor": "Trampilla de barril carmesí",
-    "block.mcwtrpdoors.bamboo_barrel_trapdoor": "Trampilla de barril de bambú",
+	"block.mcwtrpdoors.oak_barrel_trapdoor": "Trampilla de barril de roble",
+	"block.mcwtrpdoors.spruce_barrel_trapdoor": "Trampilla de barril de abeto",
+	"block.mcwtrpdoors.birch_barrel_trapdoor": "Trampilla de barril de abedul",
+	"block.mcwtrpdoors.jungle_barrel_trapdoor": "Trampilla de barril de jungla",
+	"block.mcwtrpdoors.acacia_barrel_trapdoor": "Trampilla de barril de acacia",
+	"block.mcwtrpdoors.dark_oak_barrel_trapdoor": "Trampilla de barril de roble oscuro",
+	"block.mcwtrpdoors.mangrove_barrel_trapdoor": "Trampilla de barril de mangle",
+	"block.mcwtrpdoors.warped_barrel_trapdoor": "Trampilla de barril distorsionada",
+	"block.mcwtrpdoors.crimson_barrel_trapdoor": "Trampilla de barril carmesí",
+	"block.mcwtrpdoors.bamboo_barrel_trapdoor": "Trampilla de barril de bambú",
 	"block.mcwtrpdoors.cherry_barrel_trapdoor": "Trampilla de barril de cerezo",
 
 	"block.mcwtrpdoors.bamboo_trapdoor": "Trampilla de malla",
