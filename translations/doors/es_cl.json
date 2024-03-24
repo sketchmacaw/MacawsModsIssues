@@ -7,6 +7,7 @@
 		"subtitle.mcwdoors.shoji": "Abrir puerta shoji",
 		"subtitle.mcwdoors.garage": "Abrir puerta garage",
 
+	    "item.mcwdoors.garage_remote":"Control de garage",
 		"item.mcwdoors.print_oak":"Impresión de puerta de roble",
 		"item.mcwdoors.print_spruce":"Impresión de puerta de abeto",
 		"item.mcwdoors.print_birch":"Impresión de puerta de abedul",
@@ -17,6 +18,7 @@
 		"item.mcwdoors.print_mystic": "Impresión de puerta mistica",
 		"item.mcwdoors.print_swamp": "Impresión de puerta pantanosa",
 		"item.mcwdoors.print_bamboo": "Impresión de puerta de bambú",
+		"item.mcwdoors.print_waffle":"Impresión de puerta de gofre",
 
 		"block.mcwdoors.oak_japanese_door":"Puerta Shoji de roble",
 		"block.mcwdoors.spruce_japanese_door":"Puerta Shoji de abeto",
@@ -28,6 +30,7 @@
 		"block.mcwdoors.warped_japanese_door":"Puerta Shoji distorsionada",
 		"block.mcwdoors.mangrove_japanese_door": "Puerta Shoji de mangle",
 		"block.mcwdoors.bamboo_japanese_door": "Puerta Shoji de bambú",
+		"block.mcwdoors.cherry_japanese_door":"Puerta Shoji de cerezo",
 
 		"block.mcwdoors.oak_japanese2_door":"Puerta Shoji entera de roble",
 		"block.mcwdoors.spruce_japanese2_door":"Puerta Shoji entera de abeto",
@@ -39,6 +42,7 @@
 		"block.mcwdoors.warped_japanese2_door":"Puerta Shoji entera distorsionada",
 		"block.mcwdoors.mangrove_japanese2_door": "Puerta Shoji entera de mangle",
 		"block.mcwdoors.bamboo_japanese2_door": "Puerta Shoji entera de bambú",
+		"block.mcwdoors.cherry_japanese2_door":"Puerta Shoji entera de cerezo",
 
 		"block.mcwdoors.oak_barn_door":"Puerta de granero de roble",
 		"block.mcwdoors.spruce_barn_door":"Puerta de granero de abeto",
@@ -50,6 +54,7 @@
 		"block.mcwdoors.warped_barn_door":"Puerta de granero distorsionada",
 		"block.mcwdoors.mangrove_barn_door": "Puerta de granero de mangle",
 		"block.mcwdoors.bamboo_barn_door": "Puerta de granero de bambú",
+		"block.mcwdoors.cherry_barn_door":"Puerta de granero de cerezo",
 
 		"block.mcwdoors.oak_modern_door":"Puerta moderna de roble",
 		"block.mcwdoors.spruce_modern_door":"Puerta moderna de abeto",
@@ -61,6 +66,7 @@
 		"block.mcwdoors.warped_modern_door":"Puerta moderna distorsionada",
 		"block.mcwdoors.mangrove_modern_door": "Puerta moderna de mangle",
 		"block.mcwdoors.bamboo_modern_door": "Puerta moderna de bambú",
+		"block.mcwdoors.cherry_modern_door":"Puerta moderna de cerezo",
 
 		"block.mcwdoors.oak_barn_glass_door":"Puerta de granero de vidrio de roble",
 		"block.mcwdoors.spruce_barn_glass_door":"Puerta de granero de vidrio de abeto",
@@ -72,6 +78,7 @@
 		"block.mcwdoors.warped_barn_glass_door":"Puerta de granero de vidrio distorsionada",
 		"block.mcwdoors.mangrove_barn_glass_door": "Puerta de granero de vidrio de mangle",
 		"block.mcwdoors.bamboo_barn_glass_door": "Puerta de granero de vidrio de bambú",
+		"block.mcwdoors.cherry_barn_glass_door":"Puerta de granero de vidrio de cerezo",
 
 		"block.mcwdoors.oak_cottage_door":"Puerta de cabaña de roble",
 		"block.mcwdoors.birch_cottage_door":"Puerta de cabaña de abedul",
@@ -82,6 +89,7 @@
 		"block.mcwdoors.warped_cottage_door":"Puerta de cabaña distorsionada",
 		"block.mcwdoors.mangrove_cottage_door": "Puerta de cabaña de mangle",
 		"block.mcwdoors.bamboo_cottage_door": "Puerta de cabaña de bambú",
+		"block.mcwdoors.cherry_cottage_door":"Puerta de cabaña de cerezo",
 
 		"block.mcwdoors.spruce_classic_door":"Puerta clásica de abeto",
 		"block.mcwdoors.birch_classic_door":"Puerta clásica de abedul",
@@ -92,6 +100,7 @@
 		"block.mcwdoors.warped_classic_door":"Puerta clásica distorsionada",
 		"block.mcwdoors.mangrove_classic_door": "Puerta clásica de mangle",
 		"block.mcwdoors.bamboo_classic_door": "Puerta clásica de bambú",
+		"block.mcwdoors.cherry_classic_door":"Puerta clásica de cerezo",
 
 		"block.mcwdoors.oak_beach_door":"Puerta playera de roble",
 		"block.mcwdoors.spruce_beach_door":"Puerta playera de abeto",
@@ -102,6 +111,7 @@
 		"block.mcwdoors.warped_beach_door":"Puerta playera distorsionada",
 		"block.mcwdoors.mangrove_beach_door": "Puerta playera de mangle",
 		"block.mcwdoors.bamboo_beach_door": "Puerta playera de bambú",
+		"block.mcwdoors.cherry_beach_door":"Puerta playera de cerezo",
 
 		"block.mcwdoors.oak_paper_door":"Puerta de papel de roble",
 		"block.mcwdoors.spruce_paper_door":"Puerta de papel de abeto",
@@ -112,6 +122,7 @@
 		"block.mcwdoors.warped_paper_door":"Puerta de papel distorsionada",
 		"block.mcwdoors.mangrove_paper_door": "Puerta de papel de mangle",
 		"block.mcwdoors.bamboo_paper_door": "Puerta de papel de bambú",
+		"block.mcwdoors.cherry_paper_door":"Puerta de papel de cerezo",
 
 		"block.mcwdoors.oak_four_panel_door":"Puerta de cuatro paneles de roble",
 		"block.mcwdoors.spruce_four_panel_door":"Puerta de cuatro paneles de abeto",
@@ -122,6 +133,7 @@
 		"block.mcwdoors.warped_four_panel_door":"Puerta de cuatro paneles distorsionada",
 		"block.mcwdoors.mangrove_four_panel_door": "Puerta de cuatro paneles de mangle",
 		"block.mcwdoors.bamboo_four_panel_door": "Puerta de cuatro paneles de bambú",
+		"block.mcwdoors.cherry_four_panel_door":"Puerta de cuatro paneles de cerezo",
 
 		"block.mcwdoors.oak_tropical_door":"Puerta tropical de roble",
 		"block.mcwdoors.spruce_tropical_door":"Puerta tropical de abeto",
@@ -132,6 +144,7 @@
 		"block.mcwdoors.warped_tropical_door":"Puerta tropical distorsionada",
 		"block.mcwdoors.mangrove_tropical_door": "Puerta tropical de mangle",
 		"block.mcwdoors.bamboo_tropical_door": "Puerta tropical de bambú",
+		"block.mcwdoors.cherry_tropical_door":"Puerta tropical de cerezo",
 
 		"block.mcwdoors.metal_door":"Puerta de metal",
 		"block.mcwdoors.metal_warning_door":"Puerta de metal con advertencia",
@@ -218,6 +231,14 @@
 		"block.mcwdoors.bamboo_stable_door": "Puerta de establo de bambú",
 		"block.mcwdoors.bamboo_stable_head_door": "Puerta de establo de caballo de bambú",
 		"block.mcwdoors.bamboo_western_door": "Puerta del oeste de bambú",
+		
+	 	"block.mcwdoors.cherry_glass_door":"Puerta de vidrio de cerezo",
+		"block.mcwdoors.cherry_mystic_door":"Puerta mística de cerezo",
+		"block.mcwdoors.cherry_nether_door":"Puerta del Nether de cerezo",
+		"block.mcwdoors.cherry_stable_door":"Puerta de establo de cerezo",
+		"block.mcwdoors.cherry_stable_head_door":"Puerta de establo de caballo de cerezo",
+		"block.mcwdoors.cherry_western_door":"Puerta del oeste de cerezo",
+		"block.mcwdoors.cherry_bamboo_door":"Puerta de bambú de cerezo",
 
 		"block.mcwdoors.oak_swamp_door": "Puerta pantanosa de roble",
 		"block.mcwdoors.birch_swamp_door": "Puerta pantanosa de abedul",
@@ -228,6 +249,7 @@
 		"block.mcwdoors.crimson_swamp_door": "Puerta pantanosa carmesí",
 		"block.mcwdoors.warped_swamp_door": "Puerta pantanosa distorsionada",
 		"block.mcwdoors.bamboo_swamp_door": "Puerta pantanosa de bambú",
+		"block.mcwdoors.cherry_swamp_door":"Puerta pantanosa de cerezo",
 
 		"block.mcwdoors.garage_white_door": "Puerta de garaje blanca",
 		"block.mcwdoors.garage_silver_door": "Puerta de garaje plateada",
@@ -244,9 +266,23 @@
 		"block.mcwdoors.warped_stem_glass_door": "Puerta de vidrio de corteza distorsionada",
 		"block.mcwdoors.mangrove_bark_glass_door": "Puerta de vidrio de corteza de mangle",
 		"block.mcwdoors.bamboo_bark_glass_door": "Puerta de vidrio de corteza de bambú",
+		"block.mcwdoors.cherry_bark_glass_door":"Puerta de vidrio de corteza de cerezo",
+		
+		"block.mcwdoors.oak_waffle_door":"Puerta de gofre de roble",
+		"block.mcwdoors.spruce_waffle_door":"Puerta de gofre de abeto",
+		"block.mcwdoors.birch_waffle_door":"Puerta de gofre de abedul",
+		"block.mcwdoors.jungle_waffle_door":"Puerta de gofre de jungla",
+		"block.mcwdoors.acacia_waffle_door":"Puerta de gofre de acacia",
+		"block.mcwdoors.dark_oak_waffle_door":"Puerta de gofre de roble oscuro",
+		"block.mcwdoors.crimson_waffle_door":"Puerta de gofre carmesí",
+		"block.mcwdoors.warped_waffle_door":"Puerta de gofre distorsionada",
+		"block.mcwdoors.mangrove_waffle_door":"Puerta de gofre de mangle",
+		"block.mcwdoors.bamboo_waffle_door":"Puerta de gofre de bambú",
+		"block.mcwdoors.cherry_waffle_door":"Puerta de gofre de cerezo",
 
 		"block.mcwdoors.wooden_portcullis": "Rastrillo de madera",
 		"block.mcwdoors.iron_portcullis": "Rastrillo de hierro",
 		"block.mcwdoors.store_door": "Puerta de tienda",
 		"block.mcwdoors.sliding_glass_door": "Puertas corrediza de cristal"
+                                                                     
 }
