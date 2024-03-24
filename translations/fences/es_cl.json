@@ -1,6 +1,6 @@
 	{
 
-	    "itemGroup.mcwfences": "Macaw's Fences & Walls",
+	    "itemGroup.mcwfences": "Vallas y Paredes de Macaw",
 		
 		"death.attack.wired_fence": "%1$s estaba intentando cruzar una valla alambrada",
 		"death.attack.wired_fence.player": "%1$s estaba intentando cruzar una valla alambrada mientras intentaba escapar de %2$s",
@@ -123,7 +123,7 @@
 	    "block.mcwfences.acacia_hedge": "Seto de acacia",
 	    "block.mcwfences.dark_oak_hedge": "Seto de roble oscuro",
 	    "block.mcwfences.azalea_hedge": "Seto de azalea",
-	    "block.mcwfences.flowering_azalea_hedge": "Seto de azalea florecida",
+	    "block.mcwfences.flowering_azalea_hedge": "Seto de azalea florida",
 	    "block.mcwfences.mangrove_hedge": "Seto de mangle",
 		"block.mcwfences.cherry_hedge": "Seto de cerezo",
 			
