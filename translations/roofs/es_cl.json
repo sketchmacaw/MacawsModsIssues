@@ -1,8 +1,8 @@
 {
 "item.mcwroofs.rain_gutter": "Canalón de lluvia base",
-"item.mcwroofs.roofing_hammer":"Martillo para techos",
+"item.mcwroofs.roofing_hammer": "Martillo para techos",
 		
-"itemGroup.mcwroofs": "Macaw's Roofs",      
+"itemGroup.mcwroofs": "Techos de Macaw",      
 
 "mcwroofs.hammer.desc": "Clic derecho en el techo superior para alternar entre estados",
 "mcwroofs.roofitem.desc": "Ingrediente de crafteo",
