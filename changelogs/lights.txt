@@ -1,0 +1,99 @@
+----------------------------------------------------------------
+1.0.6b
+
+- Fixed bug : Slabs, Torches, Wall Lanterns not emitting light with Optifine installed
+----------------------------------------------------------------
+1.0.6
+
+Added:
+
+Wall Lanterns
+- Just like the name states, these are lanterns with a hanging to the side.
+- They come in the Macaw's Lantern variations and also the vanila variant
+
+Wall Lamp & Square Wall Lamp
+- They have only one crafting recipe, and can be colored with right clicking them with a dye
+- Can be turned on/off
+
+Torches
+- 5 New Torches
+- Made for those players who really want to up the level in their medieval builds
+
+Light Slabs
+- Redstone Lamp Slab, Glowstone Slab, Shroomlight Slab, Sea Lantern Slab
+- These slabs cannot be turned off
+- They can not only be placed on the ceiling/floor but also on sides.
+- Warning: They do not merge into a full block
+
+Changes:
+- Redstone Compatiblity ( If you notice any bugs let me know )
+- Tiki torches no longer can float, they now break if there is no block underneath them
+- Removed Waterlogging (Performance improvements)
+
+Fixed Bugs:
+- No light from lanterns in some occasions
+- All recipes unlock instantly
+----------------------------------------------------------------
+1.0.5
+
+New Stuff:
+- Added Bamboo Tiki Torch, Soul Bamboo Tiki Torch
+- Added 7 vanila style lanterns
+
+Changes:
+- Reverted some models from earlier versions
+- Revert 3D models as items, remove 2D items
+( As requested by a lot of feedback )
+
+Fixed Issues:
+- Fixed : Clutter in recipe book, now grouped
+- Fixed: Villagers can't pathfind some lights/lamps
+- Fixed: Fabric: Mixin Log Spam
+- Fixed: Recipes with wooden fences are causing issues
+- Fix: Updating worlds to 1.18.2 issue
+
+----------------------------------------------------------------
+1.0.4
+
+Changes:
+- Menu mod image has been changed
+- Tiki Torches, Lamps, Ceiling lights now have a 2d icon in the menu instead of the 3d model
+- Ceiling light, Lamp, Tiki torches have a changed model
+- Garden light & Lava lamp now have the same hitbox
+- If you are placing the lamp it will not toggle until you have a different item/block in your hand. This way it is easier to make them taller.
+
+Added:
+- Paper lamps in all 16 colors
+- They can be toggled on/off
+
+Sounds:
+- Custom sounds have been removed instead:
+- Tiki Torches use the flint & steel / fire exstinguish sound
+- Ceiling, Lamps, Paper Lamps, Street Lamps use Lever sound
+
+Performance:
+- Code optimisation
+- Models and blockstates are more lightweight
+
+Bug Fixes:
+- Breaking particles not showing on most lights
+- Removed uneccessary dependency
+
+----------------------------------------------------------------
+1.0.3
+
+Fixed : Wrong texture on turned off Lime Lamp
+Fixed : Server crashing
+
+Added : Wooden/Wool Lamps can be used as fuel in furnace
+
+----------------------------------------------------------------
+1.0.2
+
+- Fixed: Lights and Lamps take too long to break
+- Small model optimizations
+
+----------------------------------------------------------------
+1.0.0
+
+- First Release

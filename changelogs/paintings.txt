@@ -1,0 +1,36 @@
+----------------------------------------------------------------
+1.0.5
+
+- Added new Paintings (10)
+
+----------------------------------------------------------------
+1.0.4
+
+Changes:
+- Changed logo to be smaller
+- Optimised painting textures
+
+Fixes
+- Removed uneccessary dependency
+
+----------------------------------------------------------------
+1.0.3
+
+- Added 13 new paintings
+
+----------------------------------------------------------------
+1.0.2
+
+- Improved old paintings
+- Added new 3 block wide and 1 block tall paintings
+- Added new small paintings
+
+----------------------------------------------------------------
+1.0.1
+
+- Added 5 new animal paintings!
+
+----------------------------------------------------------------
+1.0.0
+
+- Added 20 paintings

@@ -1,0 +1,206 @@
+----------------------------------------------------------------
+3.2.2
+
+Fixed Bugs: - Lower triple drawer has incorrect height for the drawers - The lower bookshelf drawer block texture is upside-down.
+
+----------------------------------------------------------------
+3.2.1
+
+Fixed - Counter has bad shading
+
+----------------------------------------------------------------
+3.2.0
+
+Warning:
+Due to the performance improvements, some placed connected furniture may not be connected, to fix this, just update one of the connected furniture by breaking/placing it again.
+
+Changes:
+- Performance Improvements
+- Added Hinges for Drawer Counters (Their handle can now be on both sides)
+- Counters Slight Remodel
+
+Translation:
+- es_es by phampyk
+- de_de by PatrickK01
+- uk_ua by Moonvvell
+
+Removed:
+- Waterlogging
+
+Technical Changes:
+Desks, Drawers - Removed boolean states North,East,South,West, instead using an enum, connection (single,middle,left,right)
+
+Tall Furniture - Removed boolean states North,East,South,West, instead using an enum
+connection (base. middle, bottom, top)
+
+Counters - Now have a custom code instead of extending stairs
+
+
+Removed hinge from Drawers and Bookshelf & Double Wardrobe ( since they had no use for this)
+
+Fixed Issues:
+- Texture issue when placing multiple tables together (facing)
+- Z-Fighting texture on handles
+- All recipes unlock instantly
+- Spruce Glass Tables are not transparent
+- Server crash when using a hopper
+- Exception in server tick loop with the "Spoiled" mod installed.
+- When rightclicking with a block and sometimes even weapons/tools on any furniture it might instead place the block or just don't open the box.
+
+----------------------------------------------------------------
+3.1.0
+
+Changes:
+- Massive performance improvements
+
+Bug Fixes:
+- Several Mods Causing Slower Loading Times
+- Game Crashing After Putting Furniture Mod in Mods Folder
+- Corner and Cap Desks Do Not Render Legs/Walls
+- When connecting the desks furniture in an L-shape and/or with more than 3, some of the textures go missing
+- When connecting one kind of the desks with 3 or more, in a straight line, theres some mis-texturing happening
+- Some squeezed pixels in the texture of the chairs
+- Fixed mob pathfinding issues
+- Furniture connecting when facing another way
+- Dark top shadow on striped chairs
+- Model texture issues
+
+----------------------------------------------------------------
+3.0.2
+
+Changes/Improvements:
+- Tall Furniture now automatically decides the "hinge" from the block below
+- Recipe_Book Item Clutter improvements
+- Some small performance improvements
+- Chairs are no longer a two blockl
+( Warning this will make appear a chair above your placed chair if you update from older versions, just break it with an axe and thats it )
+
+Fixed Issues:
+- Some transparent furniture facing east and west will not render blocks behind them
+- Furniture chairs cant be placed by a contraption (from create)
+- Removed unnecessary dependency
+
+----------------------------------------------------------------
+3.0.1
+
+- Fixed Dark oak furniture has an underscore in the furniture name
+
+----------------------------------------------------------------
+3.0.0
+
+Attention!!
+- All ID's have been changed ( This is due to my beginners mistake of calling them dresser_1,dresser_2,dresser_3 etc...
+- They now have the correct ID for example "Oak Lower Triple Drawer" has the ID oak_lower_triple_drawer
+- This means that ONLY in 1.16.5 you should make a backup of your save, remove the stored stuff in your furniture and only then upgrade to this version, I'm sorry but this had to be done.
+
+Removed:
+- Multiblock Furniiture
+
+- Wooden plates 
+- Some furniture, which can be readded later if there will be requests
+- Left/Right furniture parts they now work as one
+
+Added:
+- Stripped variations for all furniture ( Just change log to stripped log in crafting )
+- Bookshelves, New Desks, New Tables,
+
+Changes:
+- Wardrobes & Bookshelves can be stacked on top of each other to create/merge tall furniture
+- Drawers & Desks can be placed next to each other to create/merde wide furniture
+- Tables can be resized into any size by placing them next to each other
+- Massively improved crafting recipes
+- Counters have a new model
+- Hoppers now work correctly
+- While holding a furniture and right clicking on the same placed one, it will not open. This way you can easily build on top of it when holding that furniture.
+- Comparators now work with storage furniture
+- Drawers and Wardrobes model, no longer has a gap when placed next to each other
+- Furniture can now be used as fuel (if you don't want them anymore well.. )
+- Tooltips are now formatted correctly
+- Furniture with books in the recipe will emmit enchant power for the enchantment table
+- Changes with some of the furniture names
+- Cabinet Door tiny texture change
+
+Bugs Fixed:
+- Unable to place two dressers next to each other
+- Wardrobes don't cancel use action
+- Crash when trying to pull from furniture inventory with a chute from "Create Mod"
+- Wierd game crash when placing warped furniture
+- Quark issue with crafting book furniture
+- Cannot place some furniture with a block on the right face
+- Vein mining duplicates multiblock furniture
+- If you try to put the bacinet without shifting, block bites off
+- Placing spruce cabinet crashes the game
+- Breaking furniture causes server crash
+- Tile entity not correctly removing itself
+- Duplication Glitch with the multiblock furniture
+- When right clicking on the dresser with a placeable block, there is a momentary animation before it opens
+- When accessing Dresser container with a held weapon or item, player consumes item/fires weapon while accesing the container.
+- Some furniture spawned by command is waterlogged
+- Chairs and tables have blockstate waterlogged=true by default
+- Furniture Mod bad URL in mods.toml
+- Dependency mistake removed from mods.toml
+ 
+----------------------------------------------------------------
+2.0.1
+
+- Code Improvements
+- Recipes now show in recipe book, when you have the needed material
+
+- Added quark modded chest compatibility
+
+----------------------------------------------------------------
+2.0.0
+
+Added:
+- Warped and Crimson Variations
+- Working Chairs (4)
+- Added new Part Blocks which can be added to a nightstand or combined to make an old style dresser
+- Added storage functionality
+
+Changes:
+- Updated for 1.16.4
+- Furniture now places correctly on blocks, collision box changes too
+- Counters have new models
+- Counters have working cornering
+- Some counters now have working storage
+- Some furniture can now be placed in both directions, if you want the furniture door on the left aim on the left side of the block
+- Improved hitboxes (not final)
+- Desks are now a part block they can be added to a nightstand or they can be combined to make a table
+- Renamed a few blocks
+- Crafting ingredients now have a tooltip
+
+Other less relevant changes:
+- ID Changes
+- Improved/optimized mod performance
+
+Removed:
+- A lot of models, since they can now be placed in the remaining ones (so technically they are not removed totally, just as a different item
+- Removed facing from blocks which don't need it
+
+Fixed:
+- There's troubles with uv maps
+- Fix Shading issues
+----------------------------------------------------------------
+1.0.1
+
+- Added wood variants
+- Added waterlogging
+- Added Update Json
+- Added 17 new furniture
+- Added Resourcepack support
+
+- Changed crafting materials
+- Model changes
+- Code improvements
+- A few changes in lang
+
+- Fixed: Dark texture after placing a solid block next to furniture
+- Fixed: Bounding Box just bottom side for tall furniture
+- Fixed: Unable to place blocks on tall furniture
+- Fixed: Wrong breaking particles on some furniture
+- Fixed: A few mistakes in model.json files. Spams the console.
+
+----------------------------------------------------------------
+1.0.0
+
+- First released version

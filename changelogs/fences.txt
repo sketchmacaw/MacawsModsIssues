@@ -1,0 +1,78 @@
+----------------------------------------------------------------
+1.1.1
+
+- Fixed crash at startup
+- Fixed server crash
+- Removed automatic leaves & grass color in biome, for now it will use a custom
+texture and will be revisited later and re-implemented
+
+----------------------------------------------------------------
+1.0.7
+
+Added:
+- Added Hedges ( can be crafted by putting leaves in 2x2 pattern )
+- Added prismarine variation
+
+Fixes:
+- Fixed fence model bug, when using Diagonal Fences mod
+- Fixed recipe book clutter
+- Fixed slower breaking time
+- Fixed some fences lose part of their textures when connecting to other blocks
+
+----------------------------------------------------------------
+1.0.6
+
+Changes:
+- Non Wooden Fence/Walls/Gates now show the correct map color while using map
+- Pickaxe is now required to get the item drop from Stone,Andesite... walls/gates
+- Bamboo Fence is now easier to break and it is using the Scaffolding sound instead of wooden
+- Fence Gates now use the tag fence_gates
+- Wired fences now have their own damage message
+- Optimized textures
+
+Code Changes:
+- WoodenFence & StoneWall objects have been removed, they now use the vanila FenceBlock
+- GateFence object has been removed, it uses the vanila FenceGateBlock instead
+
+Bug Fixes:
+- Wired Fences deal cactus damage
+- Changed bamboo fence recipe so it won't overlap with the bamboo trapdoor from Macaw's Trapdoors
+
+----------------------------------------------------------------
+1.0.5
+
+- Fixed Recipe for horse fence
+- Added Quartz walls
+- Stone recipes now work in stonecutter too
+----------------------------------------------------------------
+1.0.4
+
+- Added cullfacing for models
+- Fixed: Razor wire on Oak Wired Fences renders solid
+- Fixed: Unecessary dependency in mods.toml
+
+- Added: Bamboo Fence
+- Added: Wooden Pyramid Gate (8)
+- Added: Stone Railing Gate (12)
+
+----------------------------------------------------------------
+1.0.3
+
+Added : Wooden Fences/Gates work as furnace fuel
+
+----------------------------------------------------------------
+1.0.2
+
+- Fixed debug log spam with 150k lines
+- Fixed: Fences missing side texture when connected to fence gate
+
+----------------------------------------------------------------
+1.0.1
+
+- Fixed recipe overlapping for Horse Fence with Crayfish's Upgraded fence
+
+----------------------------------------------------------------
+1.0.0
+
+- Initial Release
+- Adds new Fences, Walls and Gates

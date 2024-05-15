@@ -1,0 +1,250 @@
+----------------------------------------------------------------
+2.2.1
+
+- Added One Way Glass & Pane
+- Added 10 more curtain options (Can be cycled through)
+
+Quality of Life Changes:
+- Curtains can now be cycled backwards while crouching
+- Curtains no longer have a collision box (because they are curtains after all)
+- Windows are no longer opening both sides, but just one whole side
+
+Fixed Issues:
+- Shutters Curtain Waterlogging issue
+- Panes are connecting to Blinds
+- Shutters have wrong color
+- Removed unecessary files
+- Connected windows are resetting with hammer next to them
+- All crafting components not showing in workbench correctly
+- When blinds are raised up and there is no model, it has
+purple/black particles breaking
+
+----------------------------------------------------------------
+2.2.0
+
+Added:
+- Key, right clicking a window will close its state so it can't be opened or closed
+- Half Pane Window Item, to simplify crafting
+- Openable Classic Windows, the Two and Four Pane windows can now be opened again
+- Impermeable tag for Mosaic Glass Blocks
+
+Removed:
+- Waterlogging
+
+Changes:
+- Windows can be opened again, except for resizeable windows
+- All Window recipes have been slightly changed
+- Window base recipe now uses glass instead of glass pane
+- Recipes for Window Half Bar Base & Window Center Bar Base are
+now shapeless
+- Curtains now break when trying to move by piston
+- Some Performance improvements
+
+Translations:
+- de_de by PatrickK01
+- uk_ua by Moonvvell
+
+Fixed Issues:
+- "Window" type lacking recipe "Pane" type having two recipes ( Fix by Lovatic )
+- Fixed placing issue with a few "four windows"
+- Fixed recipe advancements ( unlock with recipe book )
+- No recipe for Andesite Windows (and some others)
+- Pushing curtain with piston crashes client
+- Some recipes are in wrong groups
+- Can't open windows (Macaw's Windows)
+- Can't place gothic windows on top of another without shifting
+
+----------------------------------------------------------------
+2.1.1
+
+Translation:
+- Added italian translation by gabgat
+- Added russian translation by DrHesperus
+
+Bug Fixes:
+- Textures for Prismarine and Blackstone Parapets are switched
+- Textures for mangrove & crimson louvered shutters are switched
+
+----------------------------------------------------------------
+2.1.0
+
+Classic Windows:
+- They have a new model
+- They can be resized to any shape
+
+Oak Pane Windows:
+- They are the old Grilled windows, but they have a new model
+
+Oak Four Windows:
+- A new window which comes in 34 variations
+
+Mosaic Glass Panes:
+- You will have to break the old ones and place new ones.
+- They now work as glass panes
+- They have one texture which won't change by neighbour placement ( for now )
+- They now have the following tags:
+#forge:glass_panes
+#forge:glass_panes/purple
+#forge:stained_glass_panes
+
+Added Shutters:
+- 11 Vanila styled Shutters
+- 12 Louvered Shutters
+- They can be opened by right click
+- They can be placed left/right sided
+
+Added Curtains:
+- Added 16 color variations
+- By right click they will be "knotted" left or right sided
+- They break instantly
+
+Blinds:
+- Have a slightly changed model
+- If crouching and right clicking on them, they will be raised up/down
+
+Parapets / Sills:
+- They have a new model
+- If a flower pot is placed on them, they will show up a wooden support pillar
+- Changed recipe to fix identical recipe issue
+- Also they now grant 5 instead of 4 Parapets/Slits
+
+Other Changes:
+- Windows cannot be opened ( for now )
+- Recipe book : Group stuff, less clutter in the book
+- Sounds have been adjusted
+- Removed recipe book advancements
+
+Fixed Issues:
+- Parapet recipe identical to "roller" in Pas Harvestcraft
+- The Gothic window can be placed only every second time
+- Double high Gothic window issue / server has an expectation (no crash)
+- Windows not syncing properly
+- Mosaic Windows don't connect to walls
+- Parapets/Sills have a very small hitbox
+- Seam between mosaic glass panes
+- Many Windows blocks dont have breaking particles
+- Two block tall gothic window, when the top half was right-clicked, the block disappeared.
+- Blinds tend to close whenever a block update happens next to them
+
+----------------------------------------------------------------
+2.0.3
+
+- Fixed dependency mistake in mods.toml
+- wooden blocks now work as  fuel in furnace
+- added option to not open window when holding the blockitem
+
+----------------------------------------------------------------
+2.0.2
+
+- Fixed: Crafting "Grille Windows" using Granite, Diorite, Andesite,
+and Stone requires normal window base instead of the grille version
+(and vice versa when crafting normal windows).
+
+----------------------------------------------------------------
+2.0.0
+
+Added:
+- New placing system which enables to make 1x1 windows/blinds/slits as tall as desired.
+- Mosaic Glass Blocks (16 Colors, they can interact with beacon)
+- Mosaic Glass Panes (16 Colors, they can interact with beacon)
+
+Sounds added:
+- Window open/close
+- Blinds toggle
+- Gothic Window open/close
+
+Changed:
+- Windows now have a full hitbox when opened, projectiles can still go through it.
+- Hammer is no longer needed to toggle the iron bars on gothic windows, instead
+just shift+click an empty hand to toggle it.
+- When you right click with a hammer, the windows state will toggle to the basic 1x1,
+which can be useful if don't want your windows to connect all the way up.
+- Everything attached to the block you are aiming will toggle on right click, meaning
+you can toggle multiple blinds/windows by one click.
+- Improved the texture for the two window items, so you can better see them using JEI
+- Renamed Bar windows to Grille windows
+
+Removed:
+- Tall Blocks, they are no longer needed since from now on you can just stack up the
+window to any size you want.
+
+Fixed Issues:
+- Windows glitch from distance (optifine)
+- Door opening bug (now a feature)
+- Bad description for some windows
+- Tall blinds drop as items when breaking them in creative mode
+
+----------------------------------------------------------------
+1.0.3
+
+Added:
+- Window Blinds
+- Tall Window Blinds
+- Arrow Slits
+- Crimson & Nether Parapets/Sills
+
+- zh_tw by Pancakes0228
+- ko_kr by othuntgithub
+
+Changes:
+
+- Better Code
+- New Gui for window additions
+- Recipes now show in recipe book when you have the material for it
+- Windows now connect to walls & glass panes
+- Hardness and resistance changes
+- Added tooltips to crafting ingredients and hammer
+
+Fixes:
+- Gothic windows texture flickering on top fixed
+- When placing anything in 1x1 water, the water dissappears
+- Fixed a parapet/sill texture glitch
+- When tall window is opened the upper hitbox in not
+existing
+- Wrong glass texture when opened tall window (flipped)
+- Uncompatible datapacks
+- Make Hammer an Item instead of a tool, so the custom modpacks have it easier to balance tools
+
+----------------------------------------------------------------
+1.0.2
+
+Added
+- Stripped log windows
+
+Bugs fixed
+
+- Parapet / Sill black texture in sides - partially
+- Stone Gothic Tall Window Collision Missing?
+- 2x1 Stone window not stackable
+- Unable to stack the tall windows in area's like 1x4,2x4,4x4
+- Wrong recipes for some windows.
+
+----------------------------------------------------------------
+1.0.1
+
+Added 4 variants to existing windows:
+- Stone, Andesite, Granite, Diorite
+
+Improved the existing windows:
+- They have different hitbox/collision box for open/close variation
+- Hinges
+ 
+
+Added new Gothic Windows
+- They can be toggled with the Hammer
+
+Added Hammer
+- It is used to toggle gothic window bars
+
+Added Parapets/Window Sills
+- Decorate your windows to look even better!
+
+Fixed Bugs :
+
+- Arrows can fly through the upper window, even if it is closed.
+- You can't open the window if you aim at the upper window part.
+
+----------------------------------------------------------------
+1.0.0
+
+- First released version

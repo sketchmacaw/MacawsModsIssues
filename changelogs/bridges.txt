@@ -1,0 +1,299 @@
+
+----------------------------------------------------------------
+3.0.0
+Update Warning: Important Information
+We're thrilled to introduce the latest 3.0.0 update, which includes significant optimizations.
+If you are updating from an older version to this one and have already placed bridges or stairs, please note that they will look weird due to changes in the update. To resolve this issue, you'll need to perform a block update on affected bridges or stairs. Here's how:
+Place any block above/next to the affected bridge or stairs, or break and replace the affected bridge or stairs, which will trigger an update for neighboring bridges.
+We highly recommend creating backups of your existing game worlds before applying this update.
+
+ 
+Changelog:
+
+Performance:
+- Made many changes, to reduce the memory usage as much as I
+could, lowered memory usage by 80-90%.
+- Refactored code to be more efficient and optimized
+- Lowered the count of all blockstates by 85 - 89 %
+( From 13920 to 1516 )
+- Removed lots of model.jsons and made them more efficient
+
+Added :
+- Stone Bridges, Stairs, Piers have new variations
+( nether bricks, mossy cobblestone, cobblestone, end stone bricks,
+prismarine bricks, andesite, granite, diorite )
+- New Balustrade Stone Bridges ( 17 variations )
+- Red Asian Bridge, Support, Stairs
+- Glass Bridge, Support, Stairs
+
+Bridge Torch & Lantern:
+- Can be placed on bridge/bridge stairs railings ( They have a tooltip )
+- Cannot be placed in the middle
+- They break if there is no solid block below them
+
+Bridge Piers:
+- Can now be waterlogged (again!..)
+- Have a new model
+
+Changes:
+- Most bridges have an improved model
+- All Bridges have now the same height (base/railings), this change fixes the no step sounds whilst walking on a bridge
+- Removed Torches in bridges, made separate torches which can be placed on bridge/bridge stair railing ( to prevent doubling the states because of this..)
+- Rope Bridges have only 2 facing sides, north and east. Since west and south would be the same as north and east, we decided to merge it so it wont create redundant blockstates
+- Bridge handrails/handguards have been reworked, you can now toggle between all 4 sides or empty platform, with this change you can modify bridges like never before
+- Bridges have an updated placing mechanism, if you place a bridge while on a bridge, it will place down a bridge in the way you are facing ( Similar to the scaffolding )
+- Bridge Stairs have also an updated placing mechanism, if you place the stair on the stair, it will build another stair one block behind and above it, this way you can easily build bridge stairs upwards.
+- Shears can be used like pliers
+- Bridges now have a tooltip about Pliers/Shears
+- Bridges and Stairs cannot be placed directly above themselves, this makes it easier to build
+- Bridge Piers/Supports no longer connect but they have an improved model to make them look just as good as before
+- All Stone recipes can now be crafted in the stonecutter too
+- Bridges now have the tag Trapdoors, this is because entities are pathfinding it when it has the tag...
+
+New Translations:
+fr_fr by Calvineries
+ko_kr by spinodal23
+uk_ua by Moonvvell
+es_cl by Ganbare-Lucifer
+
+Updated Translations:
+ru_ru by mindryder
+de_de by PatrickK01
+es_es by Divinium115
+
+Issues Fixed:
+- Bridges have no step sound
+- Wrong breaking sounds on a few blocks
+- Wrong hardness on some blocks
+- Bridge Piers/Supports cannot be waterlogged
+- Two Wide Bridges don't connect to stairs
+- Stone and Log Bridges have wrong texture for bottom
+- Wrong texture UV size on some stairs
+- Iron Bridge can be used as fuel
+- Bridge stairs alignment is weird
+- Z-fighting on some bridges and stairs
+- Pliers do not appear in creative menu or JEI
+- Pliers unable to make a bridge fully open
+- Bamboo and Dry Bamboo Bridges and Stairs do not fully
+connect
+- Missing mcw tags from some blocks
+- Mobs Pathfinding get stuck on bridge ( They now walk correctly on the base bridge, but when there is a block with handrail they will jump-move, but they are now pathfinding bridges )
+- Bridge Support is not a full block
+
+----------------------------------------------------------------
+2.1.0
+
+Changes:
+- All Bridge Stairs have a new model, they now properly connect to bridges
+- Wood Log and Stone Bridges have a slightly changed end part
+- Bamboo Bridges have a slightly improved model
+- Dry Bamboo Bridge (base/platform) has been improved to look better when wider than 1 block
+- Rope Bridges have an improved model especially for wider bridges than 2 blocks
+- Bridge Stairs have a simplified collision/hitbox
+
+Performance:
+- Optimized memory usage (71-76% less memory usage)
+- Optimized light calculation for lit up bridges/stairs
+- Improved loading time
+
+Fixed Bugs:
+- All recipes unlock instantly
+- Texture misalignment on Bamboo Bridges
+
+Technical Changes:
+- Changed the blockstates from multipart to variant for rope bridges & bamboo bridges
+- Removed Waterlogging
+- Removed unused block states from Rail Bridges
+
+----------------------------------------------------------------
+2.0.7
+
+Fixed Issues:
+
+- Unknown item id 'mcwbridges:most1 in advancement for iron bridge
+- The texture of the wooden log stairs are mirrors compared to the actual bridge mod, making them look unconnected.
+
+----------------------------------------------------------------
+2.0.6
+Changes :
+- Bridges models have been slightly improved
+- Big performance improvements (40-50% less memory usage)
+
+Bug Fixes :
+- Rail Bridge has a top culling which causes the block on top of it to see through
+- Severely slower loading times
+- Game stuck on loading screen
+
+----------------------------------------------------------------
+2.0.5
+ Fixed: Couldn't load tag mcwbridges:stone_piers
+
+----------------------------------------------------------------
+2.0.4
+
+Changes :
+- Some code & model optimization
+- Taller Guardrails on bridges, so you can't jump off them
+- Recipes in the recipe book are now grouped
+- Rail bridges can now consume a redstone torch to be powered
+( You can remove it by right clicking with an empty hand on it )
+- Added a recipe to be able to revert stairs to normal bridges, for extra convienence
+
+Fixes :
+- Fixed render issue with bridge stairs and snow
+- Fixed Bridges acting as light source
+- Fixed Railbridges have a slight shading issue
+- Fixed All bridge blocks that can have a torch do not consume right click action, allowing the player to then place another block in the same action
+
+ 
+
+----------------------------------------------------------------
+2.0.3
+
+- Fixed : Stair model can't walk up with autojump on
+- Fixed : motd uneccessary dependency removed
+- performance improvements
+
+- ru_ru by DrHesperus
+- es_es by EdicionGamerYT
+- de_de by QuantumEX
+- it_it by ilBobo94
+- sk_sk
+
+----------------------------------------------------------------
+2.0.2
+
+ Added:
+- Wooden/Bamboo bridges/stairs/piers can be used as fuel in furnaces
+
+Fixed:
+- Cant place torch if you only have 1 in hand
+- Bottom of the bridge turns invisible when a platform is placed below
+- Bridge stair cullface messed up a bit
+- Bridge stair are messing up next to stairs
+- Walkways go invisible when solid block on top of them
+
+----------------------------------------------------------------
+2.0.1
+
+- Fixed Stone Bridge Do Not Let You Walk Up Them East and South
+- Some model optimizations
+- Fixed Dry rope and rope bridges have texture flickering at the end
+
+----------------------------------------------------------------
+2.0.0
+
+Added:
+- Bridge Stairs
+- Pliers
+
+Pliers:
+- They are used to toggle the bridge part, to the end part  ( only for 2 and wider bridges )
+ 
+Changed:
+- New placement which allows players to make corners and custom bridge width ( works with bridge supports and stairs too)
+- All models have been improved
+- Simpler model for bridges with torch 
+- Rail Bridges can no longer have the redstone torch put on them, instead just put a lever on the side to activate the powered rail on them
+- Retextured iron bridge texture
+- Better inventory models
+
+Fixed Bugs:
+- Unable to destroy bridge when aiming at the guardrail
+- Fly Kick Bug when standing on guardrails
+- Shaders Light Bug
+- Bridge Supports are not Waterloggable
+
+----------------------------------------------------------------
+1.0.6
+
+- Added Dried Bamboo & Mossy Stone Bridge
+- Added Rail and Bamboo Bridge End Parts
+- You can now place Redstone Torches on Rail Bridges to make them powered
+- You can now place a Torch on every bridge (except Rail) to make a Lighted up variation
+- End Bridge parts now automatically place themselves on the bridges
+- Added Support Pillars
+- Model Improvements
+
+- Removed Powered Rails
+- Removed Bridge End Blocks / they are now automatic
+
+- Fixed Iron Bridge Texture
+- Fixed Rope Bridge model texture
+- Fixed Bridge Render Issue
+
+----------------------------------------------------------------
+1.0.5
+
+- Code Improvements
+- Added tooltips for items
+- Recipes now show in recipe book, when you have the needed material
+
+Fixed:
+- Bridges are no longer tnt proof
+
+Changes:
+- Iron Bridge recipe simplified
+- Removed iron_platform, iron_rod, iron_armrest
+- Added zh_tw.lang by /Pancakes0228
+
+----------------------------------------------------------------
+1.0.4
+
+- Added Waterlogging
+- Fixed snow layer bug
+- Added Rail Bridges (6)
+- Powered Rail Bridges (6)
+- Vote Winner Bamboo Bridge
+- Iron Platform rename to Iron Plate
+- Added Update JSON
+- Removed unecessary code
+
+ 
+----------------------------------------------------------------
+1.0.3
+
+- Added (Fixed) guardrail collision
+- Fixed Rope Bridge Texture
+- Adjusted Iron Bridge Texture
+- A little changes to the Iron Bridge Model
+- A few crafting recipe changes
+- Added 4 Bridges (Stonebrick,Brick,Sandstone, Red Sandstone)
+- Textures are now used from your resourcepack
+- Adjusted In hand model display
+- Removed Curved HandRail
+
+----------------------------------------------------------------
+1.0.2
+
+Added :
+- New bridge type "rope"
+- It comes in all 6 wood variations
+- All bridges have its own Hardness, Resistance..
+
+Changed :
+- Sounds updated and fixed
+- Performance improvements
+
+Fixed :
+- Fixed black glitch in shaders
+
+----------------------------------------------------------------
+1.0.1
+
+New
+- Added new bridge type : Wood
+- Added all wood color variations
+- Added parent files to save space
+
+Changes
+- Fixed Iron bridge texture glitch into a block
+- Optimized textures for less space
+- Model Adjusments
+- Updated mcmod.info
+- Removed uneccesary recipe files
+
+----------------------------------------------------------------
+1.0.0
+
+- First released version

@@ -1,0 +1,162 @@
+----------------------------------------------------------------
+1.1.0
+
+Added:
+- Waffle Doors ( The cherry door from 1.20 but in other wood colors )
+
+Changes:
+- Walls & Iron Bars now connect to the Jail Door
+- Removed Waterlogging for Garage Doors, Portcullis, Stable Door, Shoji Door
+
+Fixed Issues:
+- Textures for the Bark Glass Doors don't align with the top and bottom halves
+- Spruce Bark Glass Door glitch
+- Portcullis & Garage door ignoring redstone power
+- Wrong texture for bark door, the item is yellow, it should be green
+- Recipe all unlock at the world start
+
+Translation:
+- Added uk_ua by Moonvvell
+- Added de_de by Padder
+
+----------------------------------------------------------------
+1.0.9
+
+- Updated language for zh_cn by WadjetSama
+- Villager interacting with wooden porticullis crashes the game
+- Crash with wooden portcullis with other mods, because of the tag wooden_doors
+
+----------------------------------------------------------------
+1.0.8b
+
+- Updated language for zh_cn by WadjetSama
+
+- Fixed Breaking Multiblock Doors Crashes World
+
+----------------------------------------------------------------
+1.0.8
+
+Added:
+- Bamboo Variants
+- Sliding Glass Door
+- Store Door
+- Wooden & Iron Portcullis
+
+Changes:
+- Removed some redundant model files
+- Optimized Bark door blockstates
+- Removed handles from shoji item textures to be more accurate to its block model
+
+Fixed Issues:
+- Collision issue with barn doors ( Fix by DiRtens )
+- Recipe book clutter fix
+- Mangrove doors have wrong hinge/knob color
+- Mangrove door items have a reddish tint to them
+- Opened garage door has purple/black break particles
+
+----------------------------------------------------------------
+1.0.7
+
+ Removed :
+- Garage Door remote
+- Now you can open it with anything, except when holding the garage door
+
+Added :
+- Added swamp print (crafted with seagrass instead of mangrove door)
+- Added mangrove door (1.19) variations for other wood types
+
+Changes:
+- Optimized textures
+- Code optimization
+- Changed the menu logo ( smaller size by a lot )
+- Redstone now works with the Garage Doors
+- Iron doors now require pickaxe to get the item drop
+- Improved sliding doors to be very easy to open/close
+
+Code changes:
+- JapaneseDoorsMetal.java class has been removed, now using JapaneseDoors.java for Jail Doors
+- Removed Door, DoorMetal, Western classes. Replaced by the vanila DoorBlock class
+
+Fixed Issues:
+- Fixed garage doors having no break particles
+- Removed uneccessary dependency
+- Fixed jail door top texture glitching issue
+- Fixed Villagers cannot go through opened sliding doors
+
+----------------------------------------------------------------
+1.0.6
+
+Added :
+- pt_br by clustermage
+- pl_pl by Vakarian89
+- Wooden Doors/Prints can now be used as fuel in furnace
+
+Changed:
+- Barn Door recipe adjusted (Glass no longer needed)
+
+----------------------------------------------------------------
+1.0.5
+
+- Fixed lower western door is different than upper on one side
+- Fixed Garage door has no breaking sound
+- Small model optimizations
+
+- Performance improvements
+----------------------------------------------------------------
+1.0.3
+
+Added :
+- New garage doors in 4 variations
+- Garage Remote, use this item to open/close the garage door
+- Bark Doors, resourcepack compatible doors
+- Sounds for Shoji, Stable and Garage Doors
+- Tooltips can now be translated
+ 
+Changes:
+- Texture updated by 16N1C0, they fit the vanila style a lot better
+
+Bug Fixes:
+- Duplication of doors #10
+- Shoji doors have no sound #74
+- Some Doors Don't have sounds #81
+- Doors duplication #88
+- Incorrect Map Colors for Warped and Crimson Doors and Trapdoors #89
+- Swapped items for crimson shoji doors
+
+Translation:
+es_es - EdicionGamerYT
+ko_kr - othuntgithub
+zh_cn - chesterccj305
+ru_ru - Krill and Shirom
+cs_cz - Me
+
+----------------------------------------------------------------
+1.0.2
+
+- Code Improvements
+- Added tooltips for items
+- Recipes now show in recipe book, when you have the needed material
+
+Fixed:
+- Doors texture rendering trouble on one side
+- Lang improvements
+- Crimson Tropical Door item wrong color
+- jungle item doors all color wrong
+- X-ray bug on metal doors
+- Reinforced metal door from Macaw's Doors causing crash
+
+- Added es_ar.lang es_es.lang /kevinggg1
+- Added zh_tw.lang by /Pancakes0228
+
+----------------------------------------------------------------
+1.0.1
+
+- Added western, glass, stable, stable head doors
+
+- Fixed transparent x-ray door bug
+- Fixed villagers can't open the doors
+
+----------------------------------------------------------------
+1.0.0
+
+- First released version

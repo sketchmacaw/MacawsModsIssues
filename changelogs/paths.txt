@@ -1,0 +1,55 @@
+----------------------------------------------------------------
+1.0.5
+
+Added Translations:
+- de_de by PatrickK01
+- uk_ua by Moonvvell
+- es_cl by Ganbare-Lucifer
+- ru_ru by cutiegin
+
+Fixed Issues :
+Double slabs drop only one slab instead of two
+----------------------------------------------------------------
+1.0.4
+
+Added:
+- Strewn Rocky Paths ( They have 3 randomized models to look more naturally )
+- Windmill Weave Path, Slab, Block
+- Flagstone Path, Slab, Block
+- Crystal Floor Path, Slab, Block
+
+Changes:
+- Removed Waterlogged
+- Lowered the paths model height by half ( Looks better )
+
+----------------------------------------------------------------
+1.0.3
+
+Added:
+- New "Running Bond" Path ( includes a block/slab/path, because they look good for building too! )
+
+Changes:
+- Planks Path now require only one slab in the recipe, and it is shapeless
+
+Fixed Issues:
+- Fix Recipe instant unlocks
+- Fixed a recipe conflict between Vanilla Tweaks - Crafting Tweaks "Back to Blocks."
+- FixedFabric Example mixin spam
+
+----------------------------------------------------------------
+1.0.2
+
+Changes:
+- Added Blackstone & Dark Prismarine variations
+- Paths are now a 3D model instead of 2D
+- Fixed: Wrong Mapcolor for paths
+
+----------------------------------------------------------------
+1.0.1
+
+- Optimized textures
+
+----------------------------------------------------------------
+1.0.0
+
+- First Release
