@@ -1,3 +1,28 @@
+1.1.1
+
+Changes:
+- All doors now have correct properties like vanilla doors (excluding sliding doors and special doors)
+- Added tooltip for metal doors to show that they need redstone power
+- Sliding Glass Door & Store Door no longer requires redstone power
+
+Translations:
+es_cl by Ganbare-Lucifer
+updated ru_ru by cutiegin
+
+Fixed Issues:
+- Suggested Lang Fixes, Bamboo Doors are not Mesh Doors, and
+prints are no longer called by woodtype but by doortype so Oak Door Print is now called Classic Door Print
+- Wrong and Unneeded Recipes found for Macaw Doors, warped mystic door and crimson nether door
+- In the en_us.json file exists an not existing Item  block.mcwdoors.cherry_waffle_door
+- sliding doors have incorrect sounds when opened with redstone
+- Sliding door won't open without redstone power
+- Fixed nullpointerexception for prints
+- waffle print door missing
+- add missing prints like cherry advancement
+
+Fabric
+- Added sounds for doors (Garage/Sliding/Shoji)
+- Removed example mixins (1.19-)
 ----------------------------------------------------------------
 1.1.0
 
