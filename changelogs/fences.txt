@@ -1,3 +1,36 @@
+1.1.2
+
+If you are updating from an older version to this one and have already placed grass topped walls or hedges, please note that they will look weird due to performance changes in the update. To resolve this issue, you'll need to perform a block update on affected hedges or grass topped walls. Here's how:
+Place any block above/next to the affected wall or hedge, or break and replace the affected wall or hedge, which will trigger an update for neighboring hedges/walls.
+
+
+Performance
+- Reduced states from around 11000 to around 4600
+- This causes lower memory usage by 40-50%
+
+
+Changes
+- Hedges, Grass topped walls will have an adjusted newer model
+- Hedges & Grass Topped Walls are no longer coded as Walls but as   Fences ( so instead of 324 states for one wall there is just 32 )
+- Modern walls placed on top of each other now don't leave an open space
+
+
+Translations added:
+es_cl by Ganbare-Lucifer
+de_de by PatrickK01
+uk_ua by Moonvvell
+ru_ru by cutiegin
+
+
+Fixed Issues:
+- Grass Topped Walls have a transparent pixel
+- Carpet placed on Grass Topped Walls is z-fighting
+- Grass Topped Walls & Pillar Walls have invisible side when placed
+  next to transparent blocks
+1.20+
+- Cherry and Bamboo fences don't have axe as its mining tool
+
+
 ----------------------------------------------------------------
 1.1.1
 
