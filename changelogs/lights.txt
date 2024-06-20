@@ -1,3 +1,34 @@
+1.1.0
+
+Added:
+- Ceiling Fan Lights ( They come in all wood variants )
+- Golden, Copper, Iron Candle Holders and Chandeliers
+- Golden & Copper Chains
+
+
+Changes:
+- Slabs now act as slabs ( After feedback I decided to change it )
+- Most Lights now have a POWERED state now, to fix an issue
+- Slabs & Lanterns now use the vanila block class
+- Adjusted block properties
+
+
+Translations:
+ru_ru by cutiegin
+de_de by Padder
+es_cl by Ganbare-Lucifer
+pl_pl by Vakarian89
+uk_ua by Moonvvell
+
+
+Fixed Issues:
+- The sound of glowstone and sea lantern slab is mismatched
+- Top of fence not rendered under Tiki torches and garden light
+- Can't have paper lamps turned on and surrounded by blocks - will always be OFF
+- Slabs are not Waterloggable
+- Soul Lamps & Lights are thawing ice & Spawning mobs
+- Block Updates turn lights and lamps on
+
 ----------------------------------------------------------------
 1.0.6b
 
