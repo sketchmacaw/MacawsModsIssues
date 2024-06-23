@@ -1,3 +1,11 @@
+3.0.1 - Only for affected 1.16.5 to 1.19.4 Forge Versions
+
+Changes:
+- Bamboo, Dry Bamboo, Red Asian Bridges have the same
+  properties like planks
+
+Fixed Issues : 
+-  No Collision for Bamboo & Dry Bamboo & Red Asian Bridges/Stairs  
 
 ----------------------------------------------------------------
 3.0.0
