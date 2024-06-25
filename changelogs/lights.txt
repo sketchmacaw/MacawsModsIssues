@@ -1,3 +1,7 @@
+1.1.1
+Fixed Issue: Many of the lights are not craftable as the recipes reference an item from tag forge:fences/wooden which doesn't exist.
+----------------------------------------------------------------
+
 1.1.0
 
 Added:
