@@ -118,8 +118,44 @@
 		 "block.mcwlights.wall_lamp":"Lámpara de pared",
 		 "block.mcwlights.square_wall_lamp":"Lámpara de pared cuadrada",
 		 
-		 "block.mcwlights.garden_light":"Luz de jardín"
+		 "block.mcwlights.garden_light":"Luz de jardín", 
 		 
-	                                                                          
+		 "block.mcwlights.oak_ceiling_fan_light":"Luz del ventilador de techo de roble",
+		 "block.mcwlights.spruce_ceiling_fan_light":"Luz del ventilador de techo de abeto",
+		 "block.mcwlights.birch_ceiling_fan_light":"Luz del ventilador de techo de abedul",
+		 "block.mcwlights.jungle_ceiling_fan_light":"Luz del ventilador de techo de jungla",
+		 "block.mcwlights.acacia_ceiling_fan_light":"Luz del ventilador de techo de acacia",
+		 "block.mcwlights.dark_oak_ceiling_fan_light":"Luz del ventilador de techo de roble oscuro",
+		 "block.mcwlights.crimson_ceiling_fan_light":"Luz del ventilador de techo carmesí",
+		 "block.mcwlights.warped_ceiling_fan_light":"Luz del ventilador de techo distorsionada",
+		 "block.mcwlights.mangrove_ceiling_fan_light":"Luz del ventilador de techo de mangle",
+		 "block.mcwlights.cherry_ceiling_fan_light":"Luz del ventilador de techo de cerezo",
+		 
+		 "block.mcwlights.golden_chain":"Cadena de oro",
+		 "block.mcwlights.copper_chain":"Cadena de cobre",
+		 
+		 "block.mcwlights.golden_low_candle_holder":"Candelero bajo de oro",
+		 "block.mcwlights.golden_candle_holder":"Candelero de oro",
+		 "block.mcwlights.golden_wall_candle_holder":"Candelero en muro de oro",
+		 "block.mcwlights.golden_double_candle_holder":"Candelero doble de oro",
+		 "block.mcwlights.golden_triple_candle_holder":"Candelero triple de oro",
+		 "block.mcwlights.golden_small_chandelier":"Candelabro pequeño de oro",
+		 "block.mcwlights.golden_chandelier":"Candelabro de oro",
+		 
+		 "block.mcwlights.copper_low_candle_holder":"Candelero bajo de cobre",
+		 "block.mcwlights.copper_candle_holder":"Candelero de cobre",
+		 "block.mcwlights.copper_wall_candle_holder":"Candelero en muro de cobre",
+		 "block.mcwlights.copper_double_candle_holder":"Candelero doble de cobre",
+		 "block.mcwlights.copper_triple_candle_holder":"Candelero triple de cobre",
+		 "block.mcwlights.copper_small_chandelier":"Candelabro pequeño de cobre",
+		 "block.mcwlights.copper_chandelier":"Candelabro de cobre",
+		 
+		 "block.mcwlights.iron_low_candle_holder":"Candelero bajo de hierro",
+		 "block.mcwlights.iron_candle_holder":"Candelero de hierro",
+		 "block.mcwlights.iron_wall_candle_holder":"Candelero en muro de hierro",
+		 "block.mcwlights.iron_double_candle_holder":"Candelero doble de hierro",
+		 "block.mcwlights.iron_triple_candle_holder":"Candelero triple de hierro",
+		 "block.mcwlights.iron_small_chandelier":"Candelabro pequeño de hierro",
+		 "block.mcwlights.iron_chandelier":"Candelabro de hierro"                                                                                    
 	}
 	
