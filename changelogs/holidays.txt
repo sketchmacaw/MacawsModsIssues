@@ -1,0 +1,57 @@
+---------------------------------------------------------------
+1.1.0
+
+Added Christmas Decorations:
+
+- Christmas Tree with no decorations (Top, Middle, Bottom, Base)
+( Colorful, Blue, Green, Red, Yellow, Purple)
+- Snowy Oak Leaves + Carpet
+- Snowy Spruce Leaves + Carpet
+- White Grass/Fern Small/Tall
+- Snowy Grass Block
+- Garland ( Classic, Red Ornaments, Blue, Golden, Silver)
+- White Garland ( Classic, Red Ornaments, Blue, Golden, Silver)
+- Garland with Lights (Colorful, Red, Blue, Green, Purple, Orange, Yellow)
+- White Garland with Lights (Colorful, Red, Blue, Green, Purple, Orange, Yellow)
+- Candy Cane Blocks/Stair/Slab (Red, Blue, Green, Yellow)
+- Slim Candy Canes (Red, Blue, Green, Yellow)
+- Pine Trees (3 Part Buildable, Classic, Snowy, Snow Covered)
+- String Lights (Colorful, Red, Blue, Green, Purple, Orange, Yellow)
+- Cube String Lights (Colorful, Red, Blue, Green, Purple, Orange, Yellow)
+- Tiny String Lights (Colorful, Red, Blue, Green, Purple, Orange, Yellow)
+- Snowman Bottom Base with 7 unique snowman tops
+- Doormats ( Present, Reindeer, Tree, Sock)
+- Balloons (White, Red, Green, Golden, Candy Cane, Tree, Santa)
+- Presents : They come in 3 shapes ( Classic, Couple, Big) & 8 Colors
+- Ornaments (12 Colors)
+- Single Bell + Couples Bells
+- Wooden Sled
+- Standing Shovel
+- Stockings & Couple Stockings ( Red, White, Blue, Green, Brown)
+- Piles of Wood ( Oak, Spruce, Birch)
+- Mistletoe
+- Icicles (5)
+- 42 Wall Decorations
+- Candy Cane
+
+----------------------------------------------------------------
+Macaw's Holidays 1.0.0 - Halloween release
+
+- 5 Carved & Lit Pumpkins
+- Yellow, Orange, Red, Brown, Mixed colored oak leaves & leaves carpets
+- 5 Pumpkin decorations
+- 3 Potions decorations
+- 9 Graveyard themed decorations
+- 3 Ghost decorations
+- Witch Hat
+- 3 Doormats
+- 6 Balloons
+- A standing Rake and Broom
+- Laying and Standing Hay Bale
+- Hay and Pumpkin Wheelbarrow
+- Scarecrow
+- Awake and Sleeping Bat decoration
+- Witch Cauldron
+- Two skeleton decorations
+- 8 Cobwebs
+- 12 Wall decorations

@@ -1,0 +1,266 @@
+----------------------------------------------------------------
+2.3.0
+Added:
+- Stone Bricks Roofs
+
+Changes:
+- Glass Roof model improvements
+- Roof Rain Gutter Lang improvements by Guinaro
+
+Bug Fixes:
+- Removed Waterlogging, (performance improvements)
+- Bottom rain gutter has wrong hitbox when there is another gutter above it
+- Roofing Hammer has some transparent pixels
+- Breaking the rain gutter (not the base and not dyed) it takes a while to break and does not drop anything
+- Inconsistencies in roof textures/UVs
+- Some Roofs can't be toggled with the roofing hammer
+- Lower top and base roofs are broken
+- I placed upside-down steep roofs over some stairs, and that made the top of the stairs disappear and show everything beyond.
+- When any block with complete upper surface is placed under any type of outer corner roof, the bottom of the roof become transparent, leaving annoying see-through gaps.
+- Roofing state just resetting to original state with roofing hammer. When using the hammer on any roof, it ends up just going back to its original state.
+----------------------------------------------------------------
+2.2.4
+Added:
+- Nether Bricks & Red Nether Bricks variations
+ 
+Changes:
+- Performance Improvenents
+- Top Roofs and Glass Roofs are no longer waterloggable
+
+Fixed Bugs:
+- All recipes unlock instantly
+- Steep top roofs have bottom clipping
+- Steep roofs have an invalid hitbox, floating when standing on them
+- Top Roofs have wrong south & west End Parts
+
+----------------------------------------------------------------
+2.2.3
+
+Fixed Issues:
+- Visual bug on awkwardly placed blackstone roofs
+- Non-Full Block Culling.
+
+----------------------------------------------------------------
+2.2.2
+
+Added:
+- Prismarine Brick & Dark Prismarine roof variations
+- Add Block/Slab for non vanilla roof texture blocks (white,base,light gray,gray, black)
+
+Fixes:
+- Fixed rain gutters hitbox
+- Fixed block culling by rain gutters
+- Fixed recipe book clutter ( they are now grouped )
+- Fixed attic windows are not transparent
+
+----------------------------------------------------------------
+2.2.1
+
+- Optimization, fixed a big issue with "top roofs".
+- Also more optimized rain gutters
+
+We highly recommend to use this version, instead of 2.2.0 and lower
+
+----------------------------------------------------------------
+2.2.0
+
+ Removed:
+- Cube Roofs ( The new models work well with classic blocks )
+
+Added:
+- Thatch Roof, can be crafted like a wooden roof, using hay bales
+
+Changes:
+- Almost every model has been changed / improved
+- When clicked on a top roof with the roofing hammer, it will now first rotate
+- Some hitbox/collision changes to make life easier? ( Waiting for your feedback on this )
+
+Optimization:
+- Added cullfacing for models
+- Code improvements
+- New roof models are better in terms of performance
+- Textures have been optimized
+- Smaller Roofs Logo for the menu
+
+Fixed:
+- Top roofs aren't able to switch direction unless connected to another roof of the same type
+- Directional lighting glitch with several of the roof blockstates
+- Cyan Concrete Lower Base Roof is brown
+- Lower Top Roof reversed when used for exterior corner
+- Attic windows texture slightly changes when opened
+- Issue with update roof.json
+- Fixed small model issues where there would be very small gaps and inperfections
+
+----------------------------------------------------------------
+2.1.2
+
+- Added Deepslate and Blackstone Variant
+- Fixed awning wrong collision box
+- Fixed Roofs cannot climb up
+- Fixed uneccessary dependency in mods.toml
+
+
+Translations:
+- fr_fr by dracnis
+- ru_ru by DrHesperus
+- de_de by QuantumEX
+
+----------------------------------------------------------------
+2.1.1
+
+Added:
+- Wooden/Wool roofs can now be used as furnace fuel
+
+Changed:
+- Upper Steep Roofs Renamed to Top Steep Roofs
+- Lower Roofs Renamed to Base Lower Roofs
+- Cube Roof Recipe (Conflict with Tinkers Construct Pattern)
+
+Fixed Issues:
+- Game crash when right click on rain gutter with a full bucket
+- Enchanted Tools have no effect
+- No required tool for breaking roofs/gutters/awnings
+- Hammer no longer works on some roofs
+- Some roofs are cullfacing stairs next to them
+- Top and Lower Roofs are cullfacing slabs next to them
+
+----------------------------------------------------------------
+2.1.0
+
+Changes
+- Ported to 1.17.1 and 1.18.1
+- Added upside down placing for roof/steep roofs/lower roofs
+- Crafting recipes have been changed
+- Steep and lower roofs have been split up in two parts, total 4
+- Steep and lower roofs now have the correct placing
+- Lower roof now has corners
+- Model Improvements
+- Attic roofs now use the open/close sound of trapdoors
+- Added item & tool description to .lang they are no longer hardcoded
+- Top roof now automatically changes the model to three_way/four_way
+- Attic roof now has a better open hitbox, arrows can still go through them.
+- Using a map will now show the correct colors for every block in mcw roofs
+- Gutter Downspout now automatically changes the model to middle/bot/center
+- You can now right click with a bucket or glass bottle to a watered gutter to fill
+them up.
+- Outer corners for roofs and awning have been hugely improved
+- Roofing hammer now applies to the top roof, by right clicking it can make
+a special top roof variation.
+- Awnings are now in the second creative tab with gutters
+- Second roofs creative tab has been renamed to Macaw's Awnings & Gutters
+- Gutter Middle has been renamed to Gutter Downspout
+- Performance improvements
+
+Removed
+- Tile Roof items have been removed
+- Three way, four way roof removed, they now place automatically with
+the top roof
+- Gutter Center and Gutter Bot have been removed, they now place automatically with Gutter Downspout
+
+Fixed Issues
+- Rain Gutters don't work correctly in 1.16.5
+- Roofs don't connect and different color corners
+- Brightness difference on opposite sides of a Lower Roof
+- Lower Roofs texture doesn't line up with other
+- Item Duplication with Mana and Artifice mod
+- GL error with shaders
+- Outer corners and lower roofs are brighter for some reason
+- Mobs can spawn on lower roof and steep roof blocks
+- Lower roof cannot be places if it has a block behind it
+- It's raining through some roofs
+
+----------------------------------------------------------------
+2.0.1
+
+- Small Code Improvements
+- Tooltip color change
+- Recipes now show in recipe book, when you have the needed material
+
+- Added Crimson and Warped Roofs
+- Added roofing hammer, to change states of roofs
+
+Fixed:
+- Placing the gutter middle and bottom will delete the water and then become waterlogged only if there is more water nearby
+- With an open attic roof, you can get stuck if you jump on top
+- Iron lamps can't be placed under roofs fixed
+- Brighter Texture on lower roofs fixed
+ 
+----------------------------------------------------------------
+2.0.0
+
+Added
+- 3 Way roof
+- Automatic Roof, Top Roof, Gutter, Awning and Steep roof cornering
+- Waterlogging
+- Resource-pack support
+- Colored Gutter
+- Terracotta and Concrete Roofs
+- Tooltips for crafting ingredients
+
+Changes
+- Rain gutter now fill with water during rain, and
+empty when the rain stops ( cosmetic )
+- Every recipe except the wooden roofs and gutter is
+now crafted in the stonecutter
+- Recipes have been changed too
+- Blockstate, ID changes, since a lot of new features
+were introduced this version is not compatible with
+the older roofs versions. That's why I decided to call it
+2.0.0 instead of 1.0.3 update.
+- Attic roofs can now be opened/closed
+- Every model was remade to look a lot better
+- Not supported for 1.12.2, but ported for 1.16.1
+- Slight property changed for blocks
+- Lang changes/improvements
+
+Removed
+"They are now placed automatically when cornering roofs or gutters"
+- Gutter Corners
+- Outer, Inner Roof
+- Steep Inner Roof
+- Clay Tiles Items
+
+Fixes
+- Wrong url in description
+- Lower Roof/Steep fly kick
+- Unable to craft 2x2 recipes in in
+
+----------------------------------------------------------------
+1.0.2
+
+- Added (6) attic windows
+- Added new corner gutters
+- Added inner steep roof corners
+- Added 4 way top roof
+- Added Awnings
+- Every item texture changed
+- Added : New creative tab (items & g)
+- Texture improvements
+- Code improvements
+- Tweaked every block class properties
+- Model improvements
+- Removed unecessary files
+- Added updatejson
+
+- Fixed straight roof placing ( ofset texture)
+
+- Fixed : collision boxes
+- Fixed : texture issues
+- Fixed : non organized inventory
+
+- Fixed all ID mismatches
+- Fixed : blockstates contain superflous "up" variant.
+
+----------------------------------------------------------------
+1.0.1
+
+- Added 3 new roof types ( Steep, Lower, Straight)
+- Added all Log And Planks variations
+- Added Rain Gutter
+- Rain gutters come in 5 color variations
+- Added properties to all blocks / models
+
+----------------------------------------------------------------
+1.0.0
+
+- First released version

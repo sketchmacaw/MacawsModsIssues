@@ -1,0 +1,133 @@
+----------------------------------------------------------------
+
+1.1.3
+
+Changes:
+- All Trapdoors now have correct properties like vanilla trapdoors
+
+Translations:
+- de_de by PatrickK01
+- es_cl by Ganbare-Lucifer
+- pl_pl by Vakarian89
+- ru_ru by DrHesperus & cutiegin
+- uk_ua by Moonvvell
+- es_es by Semyon Budyonnyy
+
+Fixed Issues:
+- Lang Fix ( Cherry Bamboo Trapdoor -> Cherry Mesh Trapdoor )
+- Waffle/Barrel Trapdoors do not have a special tag
+- Mangrove Classic trapdoor has Mangrove Four Panel texture
+
+
+----------------------------------------------------------------
+1.1.2
+
+New:
+- Added Barrel Trapdoors
+
+Fixed Issues:
+- Jungle, Dark Oak, Birch Trapdoors are red-tinted
+- Bamboo Trapdoor has incorrect name
+- Renamed Blossom to Waffle so it has not the same name as the wood type ( Cherry Blossom )
+
+----------------------------------------------------------------
+1.1.1
+
+- Added Blossom Trapdoors
+
+----------------------------------------------------------------
+1.1.0
+
+Changes:
+- Bamboo Trapdoors have been renamed to Mesh Trapdoors
+
+Parity with Forge version of Macaw's Trapdoors:
+- Wooden Trapdoors & Prints can now be used as fuel in furnaces
+
+Fix : Warped Ranch Trapdoor Shows Acacia Top
+Fix : Oak Ranch trapdoor exception crash
+Fix : Recipe Unlock
+Fix : Some Recipes in the recipe book are not shown grouped
+
+----------------------------------------------------------------
+1.0.9
+
+Fixed Issues:
+- Bamboo Swamp Trapdoor and Bamboo Tropical Trapdoor have identical recipe ( Tropical coudln't be crafted )
+
+----------------------------------------------------------------
+1.0.8
+
+- Added new bamboo variants
+
+Fixes:
+- Recipe Book clutter fixed
+- Warped bark trapdoor has acacia texture instead in unopened state
+
+----------------------------------------------------------------
+1.0.7
+
+- Optimised textures
+- Crimson, Warped Trapdoors now show correct color on maps
+- Metal trapdoors now require a pickaxe to get the item drop
+- Fixed: Removed uneccessary dependency
+
+----------------------------------------------------------------
+1.0.6
+
+- Added new ranch trapdoors
+- Added metal warning trapdoor
+- Added bamboo trapdoor
+- Added mangrove trapdoor variations 
+
+- Fixed bark trapdoor culling issue
+
+----------------------------------------------------------------
+1.0.5
+
+Fixed : Four Panel Trapdoors have mirrored texture
+Fixed : Wooden Trapdoors now break faster
+
+Added : Wooden Trapdoors and Trapdoor prints now work as fuel for furnace
+Changed: Trapdoor print tooltip can now be changed in .lang file
+
+----------------------------------------------------------------
+1.0.4
+
+- Fixed Four Panel Trapdoor side textures are upside down
+- Performance improvements
+
+----------------------------------------------------------------
+1.0.3 
+
+- Textures improved to fit better with planks/doors colors by 16N1C0
+
+- Translations added
+es_es - 16N1C0
+fr_fr - BlackJamesYT
+pl_pl - Vakarian89
+
+- Fixed jungle doors and jungle trapdoors have different color
+
+----------------------------------------------------------------
+1.0.2
+
+- Added resourcepack compatible trapdoors
+- Added two metal trapdoors
+
+Translations
+
+- Korean by othuntgithub
+- Chinese by Aemande123
+- Slovak by Sketch Macaw
+- Czech by Sketch Macaw
+
+----------------------------------------------------------------
+1.0.1
+
+- Code Improvements
+- Added tooltips for items
+- Recipes now show in recipe book, when you have the needed material
+
+- Added es_ar.lang es_es.lang /kevinggg1
+- Added zh_tw.lang by /Pancakes0228
