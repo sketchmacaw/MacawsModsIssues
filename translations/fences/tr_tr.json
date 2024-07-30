@@ -141,7 +141,39 @@
 		"block.mcwfences.deepslate_brick_railing_gate": "Kayrak Taşı Tuğlası Korkuluklu Kapı",
 		"block.mcwfences.quartz_railing_gate": "Kuvars Korkuluklu Kapı",
 		"block.mcwfences.prismarine_railing_gate": "Prizmarin Korkuluklu Kapı",
-		"block.mcwfences.mud_brick_railing_gate": "Kerpiç Korkuluklu Kapı"
-
+		"block.mcwfences.mud_brick_railing_gate": "Kerpiç Korkuluklu Kapı",
+		
+		"block.mcwfences.stone_pillar_wall": "Taş Sütun Duvar",
+		"block.mcwfences.andesite_pillar_wall": "Andezit Sütun Duvar",
+		"block.mcwfences.diorite_pillar_wall": "Diyorit Sütun Duvar",
+		"block.mcwfences.granite_pillar_wall": "Granit Sütun Duvar",
+		"block.mcwfences.sandstone_pillar_wall": "Kumtaşı Sütun Duvar",
+		"block.mcwfences.red_sandstone_pillar_wall": "Kırmızı Kumtaşı Sütun Duvar",
+		"block.mcwfences.blackstone_pillar_wall": "Kara Taş Sütun Duvar",
+		"block.mcwfences.nether_brick_pillar_wall": "Nether Tuğlası Sütun Duvar",
+		"block.mcwfences.end_brick_pillar_wall": "End Tuğlası Sütun Duvar",
+		"block.mcwfences.deepslate_pillar_wall": "Kayrak Taşı Sütun Duvar",
+		"block.mcwfences.deepslate_brick_pillar_wall": "Kayrak Taşı Tuğlası Sütun Duvar",
+		"block.mcwfences.quartz_pillar_wall": "Kuvars Sütun Duvar",
+		"block.mcwfences.mud_brick_pillar_wall": "Kerpiç Sütun Duvar",
+		"block.mcwfences.prismarine_pillar_wall": "Prizmarin Sütun Duvar",
+		
+		"block.mcwfences.stone_grass_topped_wall": "Taş Üstü Çimli Duvar",
+		"block.mcwfences.andesite_grass_topped_wall": "Andezit Üstü Çimli Duvar",
+		"block.mcwfences.diorite_grass_topped_wall": "Diyorit Üstü Çimli Duvar",
+		"block.mcwfences.granite_grass_topped_wall": "Granit Üstü Çimli Duvar",
+		"block.mcwfences.sandstone_grass_topped_wall": "Kumtaşı Üstü Çimli Duvar",
+		"block.mcwfences.red_sandstone_grass_topped_wall": "Kırmızı Kumtaşı Üstü Çimli Duvar",
+		"block.mcwfences.blackstone_grass_topped_wall": "Kara Taş Üstü Çimli Duvar",
+		"block.mcwfences.nether_brick_grass_topped_wall": "Nether Tuğlası Üstü Çimli Duvar",
+		"block.mcwfences.end_brick_grass_topped_wall": "End Tuğlası Üstü Çimli Duvar",
+		"block.mcwfences.deepslate_grass_topped_wall": "Kayrak Taşı Üstü Çimli Duvar",
+		"block.mcwfences.deepslate_brick_grass_topped_wall": "Kayrak Taşı Tuğlası Üstü Çimli Duvar",
+		"block.mcwfences.quartz_grass_topped_wall": "Kuvars Üstü Çimli Duvar",
+		"block.mcwfences.mud_brick_grass_topped_wall": "Kerpiç Üstü Çimli Duvar",
+		"block.mcwfences.prismarine_grass_topped_wall": "Prizmarin Üstü Çimli Duvar",
+		
+		"block.mcwfences.wooden_cheval_de_frise": "Ahşap Cheval De Frise",
+		"block.mcwfences.iron_cheval_de_frise": "Demir Cheval De Frise"
 
 	}

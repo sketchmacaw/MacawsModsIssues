@@ -52,13 +52,13 @@
 		"painting.mcwpaintings.swamp_land.title": "Bataklık Arazisi",
 		"painting.mcwpaintings.swamp_land.author": "Peachy",
 		
-		"painting.mcwpaintings.warped_forest.title": "Warped Forest",
+		"painting.mcwpaintings.warped_forest.title": "Çarpık Orman",
 		"painting.mcwpaintings.warped_forest.author": "Peachy",
 		
 		"painting.mcwpaintings.panda.title": "Panda",
 		"painting.mcwpaintings.panda.author": "Peachy",
 		
-		"painting.mcwpaintings.sunset_forest.title": "Çarpık Orman",
+		"painting.mcwpaintings.sunset_forest.title": "Günbatımı Ormanı",
 		"painting.mcwpaintings.sunset_forest.author": "Peachy",
 		
 		"painting.mcwpaintings.cherry_tree.title": "Kiraz Ağacı",
@@ -134,7 +134,37 @@
 		"painting.mcwpaintings.arctic_sky.author": "Peachy",
 		
 		"painting.mcwpaintings.island.title": "Ada",
-		"painting.mcwpaintings.island.author": "Peachy"
+		"painting.mcwpaintings.island.author": "Peachy",
+		
+		"painting.mcwpaintings.autumn.title": "Sonbahar",
+		"painting.mcwpaintings.autumn.author": "Peachy",
+
+		"painting.mcwpaintings.autumn_feel.title": "Sonbahar Hissi",
+		"painting.mcwpaintings.autumn_feel.author": "Peachy",
+		
+		"painting.mcwpaintings.bat.title": "Yarasa",
+		"painting.mcwpaintings.bat.author": "Peachy",
+
+		"painting.mcwpaintings.cat.title": "Kedi",
+		"painting.mcwpaintings.cat.author": "Peachy",
+
+		"painting.mcwpaintings.fox_view.title": "Tilki Görüşü",
+		"painting.mcwpaintings.fox_view.author": "Peachy",
+
+		"painting.mcwpaintings.ghost.title": "Hayalet",
+		"painting.mcwpaintings.ghost.author": "Peachy",
+
+		"painting.mcwpaintings.jack_o_lantern.title": "Bal Kabağı Lambası",
+		"painting.mcwpaintings.jack_o_lantern.author": "Peachy",
+
+		"painting.mcwpaintings.pumpkin.title": "Bal Kapağı",
+		"painting.mcwpaintings.pumpkin.author": "Peachy",
+
+		"painting.mcwpaintings.raccoon_view.title": "Rakun Görüşü",
+		"painting.mcwpaintings.raccoon_view.author": "Peachy",
+		
+		"painting.mcwpaintings.swamp.title": "Bataklık",
+		"painting.mcwpaintings.swamp.author": "Peachy"
 
 		
 	}

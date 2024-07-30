@@ -48,6 +48,7 @@
 		"block.mcwlights.warped_tiki_torch": "Çarpık Tiki Meşalesi",
 		"block.mcwlights.mangrove_tiki_torch": "Mangrov Tiki Meşalesi",
 		"block.mcwlights.bamboo_tiki_torch": "Bambu Tiki Meşalesi",
+		"block.mcwlights.cherry_tiki_torch":"Kiraz Ağacı Tiki Meşalesi",
 
 		"block.mcwlights.soul_oak_tiki_torch": "Ruh Meşe Tiki Meşalesi",
 		"block.mcwlights.soul_spruce_tiki_torch": "Ruh Ladin Tiki Meşalesi",
@@ -59,6 +60,7 @@
 		"block.mcwlights.soul_warped_tiki_torch": "Ruh Çarpık Tiki Meşalesi",
 		"block.mcwlights.soul_mangrove_tiki_torch": "Ruh Mangrov Tiki Meşalesi",
 		"block.mcwlights.soul_bamboo_tiki_torch": "Ruh Bambu Tiki Meşalesi",
+		"block.mcwlights.soul_cherry_tiki_torch":"Ruh Kiraz Ağacı Tiki Meşalesi",
 
 		"block.mcwlights.white_paper_lamp": "Beyaz Kağıt Lamba",
 		"block.mcwlights.light_gray_paper_lamp": "Açık Gri Kağıt Lamba",
@@ -92,8 +94,67 @@
 		"block.mcwlights.festive_lantern": "Şenlik Feneri",
 		"block.mcwlights.cross_lantern": "Çapraz Fener",
 		"block.mcwlights.bell_lantern": "Çanlı Fener",
+		
+		"block.mcwlights.wall_lantern":"Duvar Feneri",
+		"block.mcwlights.striped_wall_lantern":"Çizgili Duvar Feneri",
+		"block.mcwlights.covered_wall_lantern":"Kapalı Duvar Feneri",
+		"block.mcwlights.chain_wall_lantern":"Zincirli Duvar Feneri",
+		"block.mcwlights.tavern_wall_lantern":"Taverna Duvar Feneri",
+		"block.mcwlights.festive_wall_lantern":"Şenlik Duvar Feneri",
+		"block.mcwlights.cross_wall_lantern":"Çapraz Duvar Feneri",
+		"block.mcwlights.bell_wall_lantern":"Çanlı Duvar Feneri",
+		 
+		"block.mcwlights.framed_torch":"Çerçevelenmiş Meşale",
+		"block.mcwlights.iron_framed_torch":"Demir Çerçevelenmiş Meşale",
+		"block.mcwlights.reinforced_torch":"Güçlendirilmiş Meşale",
+		"block.mcwlights.rustic_torch":"Rustik Meşale",
+		"block.mcwlights.upgraded_torch":"Geliştirilmiş Meşale",
+		 
+		"block.mcwlights.redstone_lamp_slab":"Redstone Lambası Basamak",
+		"block.mcwlights.glowstone_slab":"Işık Taşı Basamak",
+		"block.mcwlights.shroomlight_slab":"Mantarışığı Basamak",
+		"block.mcwlights.sea_lantern_slab":"Deniz Feneri Basamak",
+		 
+		"block.mcwlights.wall_lamp":"Duvar Lambası",
+		"block.mcwlights.square_wall_lamp":"Kare Duvar Lambası",
 
-		"block.mcwlights.garden_light": "Bahçe Aydınlatması"
+		"block.mcwlights.garden_light": "Bahçe Aydınlatması",
 
-
+		"block.mcwlights.oak_ceiling_fan_light":"Meşe Işıklı Tavan Vantilatörü",
+		"block.mcwlights.spruce_ceiling_fan_light":"Ladin Işıklı Tavan Vantilatörü",
+		"block.mcwlights.birch_ceiling_fan_light":"Huş Işıklı Tavan Vantilatörü",
+		"block.mcwlights.jungle_ceiling_fan_light":"Orman Ağacı Işıklı Tavan Vantilatörü",
+		"block.mcwlights.acacia_ceiling_fan_light":"Akasya Işıklı Tavan Vantilatörü",
+		"block.mcwlights.dark_oak_ceiling_fan_light":"Koyu Meşe Işıklı Tavan Vantilatörü",
+		"block.mcwlights.crimson_ceiling_fan_light":"Kızıl Işıklı Tavan Vantilatörü",
+		"block.mcwlights.warped_ceiling_fan_light":"Çarpık Işıklı Tavan Vantilatörü",
+		"block.mcwlights.mangrove_ceiling_fan_light":"Mangrov Işıklı Tavan Vantilatörü",
+		"block.mcwlights.cherry_ceiling_fan_light":"Kiraz Ağacı Işıklı Tavan Vantilatörü",
+		
+		"block.mcwlights.golden_chain":"Altın Zincir",
+		"block.mcwlights.copper_chain":"Bakır Zincir",
+		
+		"block.mcwlights.golden_low_candle_holder":"Altın Alçak Mumluk",
+		"block.mcwlights.golden_candle_holder":"Altın Mumluk",
+		"block.mcwlights.golden_wall_candle_holder":"Altın Duvar Mumluğu",
+		"block.mcwlights.golden_double_candle_holder":"Altın İkili Mumluk",
+		"block.mcwlights.golden_triple_candle_holder":"Altın Üçlü Mumluk",
+		"block.mcwlights.golden_small_chandelier":"Altın Küçük Avize",
+		"block.mcwlights.golden_chandelier":"Altın Avize",
+		
+		"block.mcwlights.copper_low_candle_holder":"Bakır Alçak Mumluk",
+		"block.mcwlights.copper_candle_holder":"Bakır Mumluk",
+		"block.mcwlights.copper_wall_candle_holder":"Bakır Duvar Mumluğu",
+		"block.mcwlights.copper_double_candle_holder":"Bakır İkili Mumluk",
+		"block.mcwlights.copper_triple_candle_holder":"Bakır Üçlü Mumluk",
+		"block.mcwlights.copper_small_chandelier":"Bakır Küçük Avize",
+		"block.mcwlights.copper_chandelier":"Bakır Avize",
+		
+		"block.mcwlights.iron_low_candle_holder":"Demir Alçak Mumluk",
+		"block.mcwlights.iron_candle_holder":"Demir Mumluk",
+		"block.mcwlights.iron_wall_candle_holder":"Demir Duvar Mumluğu",
+		"block.mcwlights.iron_double_candle_holder":"Demir İkili Mumluk",
+		"block.mcwlights.iron_triple_candle_holder":"Demir Üçlü Mumluk",
+		"block.mcwlights.iron_small_chandelier":"Demir Küçük Avize",
+		"block.mcwlights.iron_chandelier":"Demir Avize"
 	}

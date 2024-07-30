@@ -186,6 +186,18 @@
 	"block.mcwtrpdoors.warped_blossom_trapdoor": "Çarpık Çiçekli Tuzak Kapısı",
 	"block.mcwtrpdoors.crimson_blossom_trapdoor": "Kızıl Çiçekli Tuzak Kapısı",
 	"block.mcwtrpdoors.bamboo_blossom_trapdoor": "Bambu Çiçekli Tuzak Kapısı",
+	
+	"block.mcwtrpdoors.oak_barrel_trapdoor": "Meşe Varil Tuzak Kapısı",
+    "block.mcwtrpdoors.spruce_barrel_trapdoor": "Ladin Varil Tuzak Kapısı",
+    "block.mcwtrpdoors.birch_barrel_trapdoor": "Huş Varil Tuzak Kapısı",
+    "block.mcwtrpdoors.jungle_barrel_trapdoor": "Orman Ağacı Varil Tuzak Kapısı",
+    "block.mcwtrpdoors.acacia_barrel_trapdoor": "Akasya Varil Tuzak Kapısı",
+    "block.mcwtrpdoors.dark_oak_barrel_trapdoor": "Koyu Meşe Varil Tuzak Kapısı",
+    "block.mcwtrpdoors.mangrove_barrel_trapdoor": "Mangrov Varil Tuzak Kapısı",
+    "block.mcwtrpdoors.warped_barrel_trapdoor": "Çarpık Varil Tuzak Kapısı",
+    "block.mcwtrpdoors.crimson_barrel_trapdoor": "Kızıl Varil Tuzak Kapısı",
+    "block.mcwtrpdoors.bamboo_barrel_trapdoor": "Bambu Varil Tuzak Kapısı",
+	"block.mcwtrpdoors.cherry_barrel_trapdoor": "Kiraz Ağacı Varil Tuzak Kapısı",
 
 	"block.mcwtrpdoors.bamboo_trapdoor": "Örgülü Tuzak Kapısı",
 
