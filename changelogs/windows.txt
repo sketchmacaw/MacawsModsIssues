@@ -1,3 +1,52 @@
+2.3.0
+
+Warning:
+- Resizeable Windows placed facing south, will need to be broken and placed again, since we optimized the hell out of them, only the ones placed like that will need to be placed again to adjust to the optimized code
+
+
+Added:
+- Deepslate, Sandstone, Red Sandstone, Bricks, quartz, Metal variations for windows
+- Curtain Rods, you can place curtains below them to make them look even better! ( Wooden + Metal, Golden )
+
+
+Changes:
+- Windows no longer have a placement HINGE like doors, from now one one click opens them to the left, then right, then closes. Making the opening more user friendly
+- Windows from now on when locked, they close
+- Blinds no londer need sneaking for raising them up,
+  from now on you can just right click to all states (closed,open,raised)
+- Shutters are no longer redstone compatible (mistake)
+- ConnectedWindows no longer have the state Toggled, the hammer changing the block is now the same as in Roofs mod
+- ConnectedWindows no longer has Facing West & South, instead just North & East ( since East & West / North & South used the same models
+- Curtains now have collisions
+- Blinds light physics
+- Shutters now open all connected shutters, like windows/blinds
+- Curtains no longer have the gray rod texture in them, instead they can be placed under the new curtain rods
+- Curtains have new two variations for a single window
+
+
+Performance:
+- In total the mod used to have around 15k blockstates, in this version it uses around 7.5k
+- Blinds instead of 32 states use 24
+- Shutters instead of 32 states use 16
+- Connected Windows instead of 128 states use 32 
+- WindowBarred instead of 32 states use 16 states
+- Window instead of 128 states use 64 states                
+
+
+Translations:
+- ru_ru by cutiegin
+- es_cl by Ganbare-Lucifer
+- es_es by BroxyZF
+- tr_tr by RuyaSavascisi
+
+
+Bug Fixes:
+- Culling between resizeable window, and a different type when on top/below of each other
+- Open Macaw's Windows & Curtains don't move on Create Mod contraptions
+- Mosaic Glass Blocks do not let light go through
+- Suggested Language File Fixes
+
+
 ----------------------------------------------------------------
 2.2.1
 
