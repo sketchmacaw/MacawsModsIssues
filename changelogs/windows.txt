@@ -1,3 +1,12 @@
+2.3.2
+
+- Hotfix for all 1.20.6 / 1.21 crashing when placing arrow slits / gothic windows
+----------------------------------------------------------------
+2.3.1
+
+- Hotfix for fabric 1.20.4, wrong dependency
+
+----------------------------------------------------------------
 2.3.0
 
 Warning:
