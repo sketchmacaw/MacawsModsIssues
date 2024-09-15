@@ -123,7 +123,7 @@
  "block.mcwbridges.diorite_bridge_pier": "Опора диоритового моста",
  "block.mcwbridges.prismarine_bricks_bridge_pier": "Опора моста из призмариновых кирпичей",
  "block.mcwbridges.nether_bricks_bridge_pier": "Опора моста из незерских кирпичей",
- "block.mcwbridges.end_stone_bricks_bridge_pier": "Опора моста из эндерняковых кирпичей"
+ "block.mcwbridges.end_stone_bricks_bridge_pier": "Опора моста из эндерняковых кирпичей",
  "block.mcwbridges.cobblestone_bridge_stair": "Лестница булыжного моста",
  "block.mcwbridges.mossy_cobblestone_bridge_stair": "Лестница замшелого булыжного моста",
  "block.mcwbridges.andesite_bridge_stair": "Лестница андезитового моста",
@@ -131,7 +131,7 @@
  "block.mcwbridges.diorite_bridge_stair": "Лестница диоритового моста",
  "block.mcwbridges.prismarine_bricks_bridge_stair": "Лестница моста из призмариновых кирпичей",
  "block.mcwbridges.nether_bricks_bridge_stair": "Лестница моста из незерских кирпичей",
- "block.mcwbridges.end_stone_bricks_bridge_stair": "Лестница моста из эндерняковых кирпичей"
+ "block.mcwbridges.end_stone_bricks_bridge_stair": "Лестница моста из эндерняковых кирпичей",
  "block.mcwbridges.balustrade_stone_bricks_bridge": "Балюстрада моста из каменных кирпичей",
  "block.mcwbridges.balustrade_sandstone_bridge": "Балюстрада песчаникового моста",
  "block.mcwbridges.balustrade_bricks_bridge": "Балюстрада кирпичного моста",
@@ -142,7 +142,7 @@
  "block.mcwbridges.balustrade_deepslate_tiles_bridge": "Балюстрада моста из глубинносланцевого плитняка",
  "block.mcwbridges.balustrade_mud_bricks_bridge": "Балюстрада саманного моста",
  "block.mcwbridges.balustrade_cobblestone_bridge": "Балюстрада булыжного моста",
- "block.mcwbridges.balustrade_mossy_cobblestone_bridge": "Балюстрада замшелого булыжного моста"
+ "block.mcwbridges.balustrade_mossy_cobblestone_bridge": "Балюстрада замшелого булыжного моста",
  "block.mcwbridges.balustrade_andesite_bridge": "Балюстрада андезитового моста",
  "block.mcwbridges.balustrade_granite_bridge": "Балюстрада гранитного моста",
  "block.mcwbridges.balustrade_diorite_bridge": "Балюстрада диоритового моста",
