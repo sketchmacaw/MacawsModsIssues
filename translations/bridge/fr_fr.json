@@ -19,8 +19,7 @@
 		 "mcwbridges.pliers.desc":"Cliquer avec le bouton droit de la souris sur un pont pour créer une entrée, ne fonctionne que pour les ponts de plus de 2 mètres de large.",
 		 "mcwbridges.bridges.desc":"Utiliser une Pince/Cisailles pour ajuster l'entrée",
 		 "mcwbridges.light.desc":"Utilisation sur les rampes des Ponts/Escaliers",
-		 
-		 //WOOD / BOIS
+
 		"block.mcwbridges.oak_log_bridge_middle":"Pont en chêne",
 		"block.mcwbridges.oak_bridge_pier":"Support de pont en chêne",
 		"block.mcwbridges.rope_oak_bridge":"Pont en chêne avec corde",
@@ -82,7 +81,6 @@
 		"block.mcwbridges.cherry_rope_bridge_stair":"Escalier en pont de corde en cerisier",
 		"block.mcwbridges.cherry_rail_bridge":"Pont ferroviaire en cerisier",
 		 
-		 //STONE / PIERRE
 		"block.mcwbridges.brick_bridge":"Pont en briques",
 		"block.mcwbridges.brick_bridge_pier": "Support de pont en briques",
 		"block.mcwbridges.brick_bridge_stair": "Escalier en briques",
