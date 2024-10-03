@@ -4,7 +4,15 @@
 		
 		"death.attack.wired_fence": "%1$s was trying to cross a wired fence",
 		"death.attack.wired_fence.player": "%1$s was trying to cross a wired fence whilst trying to escape %2$s",
-
+	
+	"block.mcwfences.pale_oak_picket_fence":"Pale Oak Picket Fence",
+	"block.mcwfences.pale_oak_stockade_fence":"Pale Oak Stockade Fence",
+	"block.mcwfences.pale_oak_horse_fence":"Pale Oak Horse Fence",
+	"block.mcwfences.pale_oak_wired_fence":"Pale Oak Wired Fence",
+	"block.mcwfences.pale_oak_highley_gate":"Pale Oak Highley Gate",
+	"block.mcwfences.pale_oak_pyramid_gate":"Pale Oak Pyramid Gate",
+	"block.mcwfences.pale_oak_hedge":"Pale Oak Hedge",
+		
 	    "block.mcwfences.spruce_picket_fence": "Spruce Picket Fence",
 	    "block.mcwfences.spruce_stockade_fence": "Spruce Stockade Fence",
 	    "block.mcwfences.spruce_horse_fence": "Spruce Horse Fence",
