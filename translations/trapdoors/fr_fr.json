@@ -15,6 +15,23 @@
    
    "mcwtrpdoors.crafting.desc":"Ingrédient de fabrication",
 
+   "block.mcwtrpdoors.pale_oak_barn_trapdoor":"Trappe de grange en chêne pale",
+   "block.mcwtrpdoors.pale_oak_barred_trapdoor":"Trappe à barreaux en chêne pale",
+   "block.mcwtrpdoors.pale_oak_beach_trapdoor":"Trappe de plage en chêne pale",
+   "block.mcwtrpdoors.pale_oak_classic_trapdoor":"Trappe classique en chêne pale",
+   "block.mcwtrpdoors.pale_oak_cottage_trapdoor":"Trappe de chalet en chêne pale",
+   "block.mcwtrpdoors.pale_oak_four_panel_trapdoor":"Trappe à quatre panneaux en chêne pale",
+   "block.mcwtrpdoors.pale_oak_glass_trapdoor":"Trappe vitré en chêne pale",
+   "block.mcwtrpdoors.pale_oak_mystic_trapdoor":"Trappe mystique en chêne pale",
+   "block.mcwtrpdoors.pale_oak_paper_trapdoor":"Trappe à papier en chêne pale",
+   "block.mcwtrpdoors.pale_oak_tropical_trapdoor":"Trappe tropicale en chêne pale",
+   "block.mcwtrpdoors.pale_oak_swamp_trapdoor":"Trappe de marécage en chêne pale",
+   "block.mcwtrpdoors.pale_oak_bamboo_trapdoor":"Trappe de maille en chêne pale",
+"block.mcwtrpdoors.pale_oak_bark_trapdoor":"Trappe écorcer en chêne pale",
+"block.mcwtrpdoors.pale_oak_ranch_trapdoor":"Trappe de ranch en chêne pale",
+"block.mcwtrpdoors.pale_oak_blossom_trapdoor": "Trappe gaufrée en chêne pale",
+"block.mcwtrpdoors.pale_oak_barrel_trapdoor": "Trappe à tonneau en chêne pale",
+   
    "block.mcwtrpdoors.bamboo_barn_trapdoor":"Trappe de grange en bamboo",
    "block.mcwtrpdoors.bamboo_barred_trapdoor":"Trappe à barreaux en bamboo",
    "block.mcwtrpdoors.bamboo_beach_trapdoor":"Trappe de plage en bamboo",
