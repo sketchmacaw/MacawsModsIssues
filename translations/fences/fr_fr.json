@@ -16,7 +16,15 @@
 		"block.mcwfences.iron_cheval_de_frise": "Cheval de frise en fer",
 	    "block.mcwfences.azalea_hedge": "Haie d'azalée",
 	    "block.mcwfences.flowering_azalea_hedge": "Haie d'azalée fleurie",
-		
+
+		"block.mcwfences.pale_oak_picket_fence":"Clôture à piquets en chêne pale",
+		"block.mcwfences.pale_oak_stockade_fence":"Clôture à palissade en chêne pale",
+		"block.mcwfences.pale_oak_horse_fence":"Clôture pour chevaux en chêne pale",
+		"block.mcwfences.pale_oak_wired_fence":"Clôture grillagée en chêne pale",
+		"block.mcwfences.pale_oak_highley_gate":"Grand portillon en chêne pale",
+		"block.mcwfences.pale_oak_pyramid_gate":"Portillon pyramidal en chêne pale",
+		"block.mcwfences.pale_oak_hedge":"Haie de chêne pale",
+	
 		"block.mcwfences.oak_picket_fence":"Clôture à piquets en chêne",
 		"block.mcwfences.oak_stockade_fence":"Clôture à palissade en chêne",
 		"block.mcwfences.oak_horse_fence":"Clôture pour chevaux en chêne",
