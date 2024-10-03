@@ -1,14 +1,14 @@
-	{	
-	     "itemGroup.mcwbridges": "Macaw's Bridges",
+{	
+	"itemGroup.mcwbridges": "Macaw's Bridges",
 		
-		 "block.mcwbridges.iron_bridge":"Iron Bridge",
+	"block.mcwbridges.iron_bridge":"Iron Bridge",
 		 
-		 "item.mcwbridges.pliers":"Pliers",
-		 "block.mcwbridges.bridge_torch":"Bridge Torch",
-		 "block.mcwbridges.bridge_lantern":"Bridge Lantern",
-		 "mcwbridges.pliers.desc":"Right click on a bridge to make an entrance, works only for 2+ wider bridges",
-		 "mcwbridges.bridges.desc":"Use Pliers/Shears to adjust the entrance",
-		 "mcwbridges.light.desc":"Use on Bridges/Stairs handrails",
+	"item.mcwbridges.pliers":"Pliers",
+	"block.mcwbridges.bridge_torch":"Bridge Torch",
+	"block.mcwbridges.bridge_lantern":"Bridge Lantern",
+	"mcwbridges.pliers.desc":"Right click on a bridge to make an entrance, works only for 2+ wider bridges",
+	"mcwbridges.bridges.desc":"Use Pliers/Shears to adjust the entrance",
+	"mcwbridges.light.desc":"Use on Bridges/Stairs handrails",
 		 
          "block.mcwbridges.oak_log_bridge_middle":"Oak Bridge",
          "block.mcwbridges.birch_log_bridge_middle":"Birch Bridge",
@@ -18,9 +18,10 @@
          "block.mcwbridges.dark_oak_log_bridge_middle":"Dark Oak Bridge",
          "block.mcwbridges.crimson_log_bridge_middle":"Crimson Bridge",
          "block.mcwbridges.warped_log_bridge_middle":"Warped Bridge",
-		 "block.mcwbridges.mangrove_log_bridge_middle":"Mangrove Bridge",
-		 "block.mcwbridges.cherry_log_bridge_middle":"Cherry Bridge",
-
+	 "block.mcwbridges.mangrove_log_bridge_middle":"Mangrove Bridge",
+	 "block.mcwbridges.cherry_log_bridge_middle":"Cherry Bridge",
+	 "block.mcwbridges.pale_oak_log_bridge_middle":"Pale Oak Bridge",
+		
          "block.mcwbridges.rope_oak_bridge":"Rope Oak Bridge",
          "block.mcwbridges.rope_birch_bridge":"Rope Birch Bridge",
          "block.mcwbridges.rope_spruce_bridge":"Rope Spruce Bridge",
@@ -31,7 +32,8 @@
          "block.mcwbridges.rope_warped_bridge":"Rope Warped Bridge",
 		 "block.mcwbridges.rope_mangrove_bridge":"Rope Mangrove Bridge",
 		 "block.mcwbridges.rope_cherry_bridge":"Rope Cherry Bridge",
-
+	 "block.mcwbridges.rope_pale_oak_bridge":"Rope Pale Oak Bridge",
+	
          "block.mcwbridges.brick_bridge":"Brick Bridge",
          "block.mcwbridges.stone_brick_bridge":"Stone Brick Bridge",
 		 "block.mcwbridges.mossy_stone_brick_bridge":"Mossy Stone Brick Bridge",
@@ -52,6 +54,7 @@
 		"block.mcwbridges.warped_rail_bridge":"Warped Rail Bridge",
 		"block.mcwbridges.mangrove_rail_bridge":"Mangrove Rail Bridge",
 		"block.mcwbridges.cherry_rail_bridge":"Cherry Rail Bridge",
+		"block.mcwbridges.pale_oak_rail_bridge":"Pale Oak Rail Bridge",
 	
 		"block.mcwbridges.dry_bamboo_bridge":"Dry Bamboo Bridge",
 		"block.mcwbridges.bamboo_bridge":"Bamboo Bridge",
@@ -68,7 +71,8 @@
 		"block.mcwbridges.warped_bridge_pier":"Warped Bridge Support",
 		"block.mcwbridges.mangrove_bridge_pier":"Mangrove Bridge Support",
 		"block.mcwbridges.cherry_bridge_pier":"Cherry Bridge Support",
-		
+		"block.mcwbridges.pale_oak_bridge_pier":"Pale Oak Bridge Support",
+	
 		"block.mcwbridges.brick_bridge_pier":"Brick Bridge Support",
 		"block.mcwbridges.sandstone_bridge_pier":"Sandstone Bridge Support",
 		"block.mcwbridges.stone_bridge_pier":"Stone Bridge Support",
@@ -95,6 +99,7 @@
          "block.mcwbridges.warped_log_bridge_stair":"Warped Bridge Stair",
 		 "block.mcwbridges.mangrove_log_bridge_stair":"Mangrove Bridge Stair",
 		 "block.mcwbridges.cherry_log_bridge_stair":"Cherry Bridge Stair",
+	 "block.mcwbridges.pale_oak_log_bridge_stair":"Pale Oak Bridge Stair",
 
          "block.mcwbridges.oak_rope_bridge_stair":"Rope Oak Bridge Stair",
          "block.mcwbridges.spruce_rope_bridge_stair":"Rope Spruce Bridge Stair",
@@ -106,7 +111,8 @@
          "block.mcwbridges.warped_rope_bridge_stair":"Rope Warped Bridge Stair",
 		 "block.mcwbridges.mangrove_rope_bridge_stair":"Rope Mangrove Bridge Stair",
 		 "block.mcwbridges.cherry_rope_bridge_stair":"Rope Cherry Bridge Stair",
-
+	 "block.mcwbridges.pale_oak_rope_bridge_stair":"Pale Oak Rope Bridge Stair",
+	
          "block.mcwbridges.stone_brick_bridge_stair":"Stone Brick Bridge Stair",
          "block.mcwbridges.sandstone_bridge_stair":"Sandstone Bridge Stair",
 		 "block.mcwbridges.brick_bridge_stair":"Brick Bridge Stair",
