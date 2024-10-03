@@ -20,6 +20,13 @@
 		 "mcwbridges.bridges.desc":"Utiliser une Pince/Cisailles pour ajuster l'entrée",
 		 "mcwbridges.light.desc":"Utilisation sur les rampes des Ponts/Escaliers",
 
+		"block.mcwbridges.pale_oak_log_bridge_middle":"Pont en chêne pale",
+		"block.mcwbridges.pale_oak_bridge_pier":"Support de pont en chêne pale",
+		"block.mcwbridges.rope_pale_oak_bridge":"Pont en chêne pale avec corde",
+		"block.mcwbridges.pale_oak_log_bridge_stair":"Escalier en chêne pale",
+		"block.mcwbridges.pale_oak_rope_bridge_stair":"Escalier en pont de corde en chêne pale",
+		"block.mcwbridges.pale_oak_rail_bridge":"Pont ferroviaire en chêne pale",
+	
 		"block.mcwbridges.oak_log_bridge_middle":"Pont en chêne",
 		"block.mcwbridges.oak_bridge_pier":"Support de pont en chêne",
 		"block.mcwbridges.rope_oak_bridge":"Pont en chêne avec corde",
