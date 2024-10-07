@@ -1,3 +1,33 @@
+3.3.0
+
+Added:
+- Kitchen Cabinets
+- Double Kitchen Cabinets
+- Glass Kitchen Cabinets
+
+
+Changes:
+- End Tables now have a new model
+- Wardrobes, Cupboards, Drawers now have legs
+
+
+Performance:
+- Coffee Tables uses only 2 states, instead of 16
+
+
+Translation:
+- tr_tr by RuyaSavascisi
+- es_cl by Ganbare-Lucifer
+- es_es by phampyk
+- ko_kr by kirito5572
+- ru_ru by cutiegin
+- uk_ua by Moonvvell
+
+
+Fixed Bugs:
+- Fixed weird looking model for tables when there are 3 sides
+- Glass Table now looks like it should
+
 ----------------------------------------------------------------
 3.2.2
 

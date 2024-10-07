@@ -1,3 +1,19 @@
+2.3.1
+
+Added:
+- Grass Roofs ( Can be made with grassblock in stonecutter )
+
+Changes:
+- Performance improvements 
+- Top Roofs have a better code to handle less blockstates, in game placed one will require a block update ( Place a block next to the roof, or break/place it)
+
+Fixed Issues:
+- When a slab is placed in front of a roof, the face of the slab is invisible
+
+Translations
+- es_cl by Ganbare-Lucifer
+- uk_ua by Moonvvell
+- ru_ru by cutiegin
 ----------------------------------------------------------------
 2.3.0
 Added:
