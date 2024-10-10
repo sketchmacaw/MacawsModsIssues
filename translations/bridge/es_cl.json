@@ -3,7 +3,7 @@
 
 		 "block.mcwbridges.iron_bridge":"Puente de hierro",
 		 "block.mcwbridges.bridge_torch":"Antorcha de puente",
-		 "block.mcwbridges.bridge_lantern":"Linterna de puente",
+		 "block.mcwbridges.bridge_lantern":"Farol de puente",
 		 "item.mcwbridges.pliers":"Alicate",
 		 "mcwbridges.pliers.desc":"Haz clic derecho en la parte inicial del puente para hacer la entrada. solo funciona para puentes de 2 de ancho.",
 		 "mcwbridges.bridges.desc":"Usa alicates/tijeras para ajustar la entrada.",
