@@ -160,7 +160,7 @@
 		"block.mcwdoors.oak_stable_door": "Puerta de establo de roble",
 		"block.mcwdoors.oak_stable_head_door": "Puerta de establo de caballo de roble",
 		"block.mcwdoors.oak_western_door": "Puerta del oeste de roble",
-		"block.mcwdoors.oak_bamboo_door": "Puerta de bambú de roble",
+		"block.mcwdoors.oak_bamboo_door": "Puerta de malla de roble",
 
 		"block.mcwdoors.spruce_glass_door": "Puerta de vidrio de abeto",
 		"block.mcwdoors.spruce_mystic_door": "Puerta mística de abeto",
@@ -168,7 +168,7 @@
 		"block.mcwdoors.spruce_stable_door": "Puerta de establo de abeto",
 		"block.mcwdoors.spruce_stable_head_door": "Puerta de establo de caballo de abeto",
 		"block.mcwdoors.spruce_western_door": "Puerta del oeste de abeto",
-		"block.mcwdoors.spruce_bamboo_door": "Puerta de bambú de abeto",
+		"block.mcwdoors.spruce_bamboo_door": "Puerta de malla de abeto",
 
 		"block.mcwdoors.birch_glass_door": "Puerta de vidrio de abedul",
 		"block.mcwdoors.birch_mystic_door": "Puerta mística de abedul",
@@ -176,7 +176,7 @@
 		"block.mcwdoors.birch_stable_door": "Puerta de establo de abedul",
 		"block.mcwdoors.birch_stable_head_door": "Puerta de establo de caballo de abedul",
 		"block.mcwdoors.birch_western_door": "Puerta del oeste de abedul",
-		"block.mcwdoors.birch_bamboo_door": "Puerta de bambú de abedul",
+		"block.mcwdoors.birch_bamboo_door": "Puerta de malla de abedul",
 
 		"block.mcwdoors.jungle_glass_door": "Puerta de vidrio de jungla",
 		"block.mcwdoors.jungle_mystic_door": "Puerta mística de jungla",
@@ -184,7 +184,7 @@
 		"block.mcwdoors.jungle_stable_door": "Puerta de establo de jungla",
 		"block.mcwdoors.jungle_stable_head_door": "Puerta de establo de caballo de jungla",
 		"block.mcwdoors.jungle_western_door": "Puerta del oeste de jungla",
-		"block.mcwdoors.jungle_bamboo_door": "Puerta de bambú de jungla",
+		"block.mcwdoors.jungle_bamboo_door": "Puerta de malla de jungla",
 
 		"block.mcwdoors.acacia_glass_door": "Puerta de vidrio de acacia",
 		"block.mcwdoors.acacia_mystic_door": "Puerta mística de acacia",
@@ -192,7 +192,7 @@
 		"block.mcwdoors.acacia_stable_door": "Puerta de establo de acacia",
 		"block.mcwdoors.acacia_stable_head_door": "Puerta de establo de caballo de acacia",
 		"block.mcwdoors.acacia_western_door": "Puerta del oeste de acacia",
-		"block.mcwdoors.acacia_bamboo_door": "Puerta de bambú de acacia",
+		"block.mcwdoors.acacia_bamboo_door": "Puerta de malla de acacia",
 
 		"block.mcwdoors.dark_oak_glass_door": "Puerta de vidrio de oscuro",
 		"block.mcwdoors.dark_oak_mystic_door": "Puerta mística de roble oscuro",
@@ -200,7 +200,7 @@
 		"block.mcwdoors.dark_oak_stable_door": "Puerta de establo de roble oscuro",
 		"block.mcwdoors.dark_oak_stable_head_door": "Puerta de establo de caballo de roble oscuro",
 		"block.mcwdoors.dark_oak_western_door": "Puerta del oeste de roble oscuro",
-		"block.mcwdoors.dark_oak_bamboo_door": "Puerta de bambú de roble oscuro",
+		"block.mcwdoors.dark_oak_bamboo_door": "Puerta de malla de roble oscuro",
 
 		"block.mcwdoors.warped_glass_door": "Puerta de vidrio distorsionada",
 		"block.mcwdoors.warped_mystic_door": "Puerta mística distorsionada",
@@ -208,7 +208,7 @@
 		"block.mcwdoors.warped_stable_door": "Puerta de establo distorsionada",
 		"block.mcwdoors.warped_stable_head_door": "Puerta de establo de caballo distorsionada",
 		"block.mcwdoors.warped_western_door": "Puerta del oeste distorsionada",
-		"block.mcwdoors.warped_bamboo_door": "Puerta de bambú de distorsionada",
+		"block.mcwdoors.warped_bamboo_door": "Puerta de malla de distorsionada",
 
 		"block.mcwdoors.crimson_glass_door": "Puerta de vidrio carmesí",
 		"block.mcwdoors.crimson_mystic_door": "Puerta mística carmesí",
@@ -216,7 +216,7 @@
 		"block.mcwdoors.crimson_stable_door": "Puerta de establo carmesí",
 		"block.mcwdoors.crimson_stable_head_door": "Puerta de establo de caballo carmesí",
 		"block.mcwdoors.crimson_western_door": "Puerta del oeste carmesí",
-		"block.mcwdoors.crimson_bamboo_door": "Puerta de bambú carmesí",
+		"block.mcwdoors.crimson_bamboo_door": "Puerta de malla carmesí",
 
 		"block.mcwdoors.mangrove_glass_door": "Puerta de vidrio de mangle",
 		"block.mcwdoors.mangrove_mystic_door": "Puerta mística de mangle",
@@ -224,7 +224,7 @@
 		"block.mcwdoors.mangrove_stable_door": "Puerta de establo de mangle",
 		"block.mcwdoors.mangrove_stable_head_door": "Puerta de establo de caballo de mangle",
 		"block.mcwdoors.mangrove_western_door": "Puerta del oeste de mangle",
-		"block.mcwdoors.mangrove_bamboo_door": "Puerta de bambú de mangle",
+		"block.mcwdoors.mangrove_bamboo_door": "Puerta de malla de mangle",
 
 		"block.mcwdoors.bamboo_glass_door": "Puerta de vidrio de bambú",
 		"block.mcwdoors.bamboo_mystic_door": "Puerta mística de bambú",
@@ -239,7 +239,7 @@
 		"block.mcwdoors.cherry_stable_door":"Puerta de establo de cerezo",
 		"block.mcwdoors.cherry_stable_head_door":"Puerta de establo de caballo de cerezo",
 		"block.mcwdoors.cherry_western_door":"Puerta del oeste de cerezo",
-		"block.mcwdoors.cherry_bamboo_door":"Puerta de bambú de cerezo",
+		"block.mcwdoors.cherry_bamboo_door":"Puerta de malla de cerezo",
 
 		"block.mcwdoors.oak_swamp_door": "Puerta pantanosa de roble",
 		"block.mcwdoors.birch_swamp_door": "Puerta pantanosa de abedul",
