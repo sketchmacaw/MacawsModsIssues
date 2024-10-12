@@ -14,7 +14,24 @@
    "item.mcwtrpdoors.print_blossom":"Waffle Trapdoor Print",
    
    "item.mcwtrpdoors.item":"Crafting Ingredient",
-   
+
+	"block.mcwtrpdoors.pale_oak_barn_trapdoor":"Pale Oak Barn Trapdoor",
+   "block.mcwtrpdoors.pale_oak_barred_trapdoor":"Pale Oak Barred Trapdoor",
+   "block.mcwtrpdoors.pale_oak_beach_trapdoor":"Pale Oak Beach Trapdoor",
+   "block.mcwtrpdoors.pale_oak_classic_trapdoor":"Pale Oak Classic Trapdoor",
+   "block.mcwtrpdoors.pale_oak_cottage_trapdoor":"Pale Oak Cottage Trapdoor",
+   "block.mcwtrpdoors.pale_oak_four_panel_trapdoor":"Pale Oak Four Panel Trapdoor",
+   "block.mcwtrpdoors.pale_oak_glass_trapdoor":"Pale Oak Glass Trapdoor",
+   "block.mcwtrpdoors.pale_oak_mystic_trapdoor":"Pale Oak Mystic Trapdoor",
+   "block.mcwtrpdoors.pale_oak_paper_trapdoor":"Pale Oak Paper Trapdoor",
+   "block.mcwtrpdoors.pale_oak_tropical_trapdoor":"Pale Oak Tropical Trapdoor",
+   "block.mcwtrpdoors.pale_oak_swamp_trapdoor":"Pale Oak Swamp Trapdoor",
+   "block.mcwtrpdoors.pale_oak_bamboo_trapdoor":"Pale Oak Mesh Trapdoor",
+"block.mcwtrpdoors.pale_oak_bark_trapdoor":"Pale Oak Bark Trapdoor",
+"block.mcwtrpdoors.pale_oak_ranch_trapdoor":"Pale Oak Ranch Trapdoor",
+"block.mcwtrpdoors.pale_oak_blossom_trapdoor": "Pale Oak Waffle Trapdoor",
+"block.mcwtrpdoors.pale_oak_barrel_trapdoor": "Pale Oak Barrel Trapdoor",
+	
    "block.mcwtrpdoors.oak_barn_trapdoor":"Oak Barn Trapdoor",
    "block.mcwtrpdoors.oak_barred_trapdoor":"Oak Barred Trapdoor",
    "block.mcwtrpdoors.oak_beach_trapdoor":"Oak Beach Trapdoor",
