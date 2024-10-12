@@ -2,13 +2,13 @@
 		"itemGroup.mcwwindows": "Ventanas de Macaw",
 		"itemGroup.windows2": "Ventanas Adicional de Macaw",
      
-   	    	"item.mcwwindows.window_base":"Base de ventana",
+   	    "item.mcwwindows.window_base":"Base de ventana",
 		"item.mcwwindows.window_centre_bar_base":"Base de ventana de cuatro paneles",
 		"item.mcwwindows.window_half_bar_base":"Base de ventana de medio panel",
 		"item.mcwwindows.hammer":"Martillo de ventana",
 		"item.mcwwindows.key":"Llave de ventana",
 		
-	    	"subtitle.mcwwindows.bars_close":"Barras de hierro se cierran",
+	    "subtitle.mcwwindows.bars_close":"Barras de hierro se cierran",
 		"subtitle.mcwwindows.bars_open":"Barras de hierro se abren",
 		"subtitle.mcwwindows.blinds_close":"Persianas se cierran",
 		"subtitle.mcwwindows.blinds_open":"Persianas se abren",
@@ -160,7 +160,7 @@
 		"block.mcwwindows.dark_prismarine_parapet":"Parapeto de prismarina oscura",
 		"block.mcwwindows.warped_stem_parapet":"Parapeto de tallo distorsionado",
 		"block.mcwwindows.crimson_stem_parapet":"Parapeto de tallo carmesí",
-		"block.mcwwindows.warped_plank_parapet":"Parapeto de tablas distorsionados",
+		"block.mcwwindows.warped_plank_parapet":"Parapeto de tablas distorsionadas",
 		"block.mcwwindows.crimson_plank_parapet":"Parapeto de tablas carmesí",
 		
 		"block.mcwwindows.stone_brick_gothic":"Ventana de ladrillos de piedra gótica",
@@ -301,11 +301,11 @@
 		
 		"block.mcwwindows.crimson_pane_window":"Ventana de panel carmesí",
 		"block.mcwwindows.stripped_crimson_pane_window":"Ventana de panel carmesí sin corteza",
-		"block.mcwwindows.crimson_plank_pane_window":"Ventana de panel tablas carmesí",
+		"block.mcwwindows.crimson_plank_pane_window":"Ventana de panel de tablas carmesí",
 		
 		"block.mcwwindows.warped_pane_window":"Ventana de panel distorsionado",
 		"block.mcwwindows.stripped_warped_pane_window":"Ventana de panel distorsionado sin corteza",
-		"block.mcwwindows.warped_plank_pane_window":"Ventana de panel tablas distorsionados",
+		"block.mcwwindows.warped_plank_pane_window":"Ventana de panel tablas distorsionadas",
 		
 		"block.mcwwindows.mangrove_pane_window":"Ventana de panel de mangle",
 		"block.mcwwindows.stripped_mangrove_pane_window":"Ventana de panel de mangle sin corteza",
