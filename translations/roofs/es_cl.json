@@ -7,6 +7,21 @@
 "mcwroofs.hammer.desc": "Clic derecho en el techo superior para alternar entre estados",
 "mcwroofs.roofitem.desc": "Ingrediente de crafteo",
 
+"block.mcwroofs.pale_oak_roof":"Techo de roble pálido",
+"block.mcwroofs.pale_oak_attic_roof":"Techo de ático de roble pálido",
+"block.mcwroofs.pale_oak_top_roof":"Techo superior de roble pálido",
+"block.mcwroofs.pale_oak_lower_roof":"Techo inferior de roble pálido",
+"block.mcwroofs.pale_oak_steep_roof":"Techo empinado de roble pálido",
+"block.mcwroofs.pale_oak_upper_lower_roof":"Techo superior inferior de roble pálido",
+"block.mcwroofs.pale_oak_upper_steep_roof":"Techo superior empinado de roble pálido",
+"block.mcwroofs.pale_oak_planks_roof":"Techo de tablas de roble pálido",
+"block.mcwroofs.pale_oak_planks_attic_roof":"Techo de ático de tablas de roble pálido",
+"block.mcwroofs.pale_oak_planks_top_roof":"Techo superior de tablas de roble pálido",
+"block.mcwroofs.pale_oak_planks_lower_roof":"Techo inferior de tablas de roble roble pálido",
+"block.mcwroofs.pale_oak_planks_steep_roof":"Techo empinado de tablas de roble roble pálido",
+"block.mcwroofs.pale_oak_planks_upper_lower_roof":"Techo superior inferior de tablas de roble roble pálido",
+"block.mcwroofs.pale_oak_planks_upper_steep_roof":"Techo superior empinado de tablas de roble roble pálido",
+	
 "block.mcwroofs.oak_roof":"Techo de roble",
 "block.mcwroofs.oak_attic_roof":"Techo de ático de roble",
 "block.mcwroofs.oak_top_roof":"Techo superior de roble",
@@ -685,6 +700,14 @@
 "block.mcwroofs.bamboo_mosaic_lower_roof":"Techo inferior de mosaico de bambú",
 "block.mcwroofs.bamboo_mosaic_steep_roof":"Techo empinado de mosaico de bambú",
 "block.mcwroofs.bamboo_mosaic_upper_lower_roof":"Techo superior inferior de mosaico de bambú",
-"block.mcwroofs.bamboo_mosaic_upper_steep_roof":"Techo superior empinado de mosaico de bambú"
+"block.mcwroofs.bamboo_mosaic_upper_steep_roof":"Techo superior empinado de mosaico de bambú",
+
+"block.mcwroofs.grass_roof":"Techo de pasto",
+"block.mcwroofs.grass_attic_roof":"Techo de ático de pasto",
+"block.mcwroofs.grass_top_roof":"Techo superior de pasto",
+"block.mcwroofs.grass_lower_roof":"Techo inferior de pasto",
+"block.mcwroofs.grass_steep_roof":"Techo empinado de pasto",
+"block.mcwroofs.grass_upper_lower_roof":"Techo superior inferior de pasto",
+"block.mcwroofs.grass_upper_steep_roof":"Techo superior empinado de pasto"
 
 }
