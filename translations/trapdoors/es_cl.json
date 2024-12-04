@@ -15,6 +15,23 @@
 	
 	"mcwtrpdoors.crafting.desc": "Ingrediente de crafteo",
 
+	"block.mcwtrpdoors.pale_oak_barn_trapdoor":"Trampilla de granero de roble pálido",
+	"block.mcwtrpdoors.pale_oak_barred_trapdoor":"Trampilla enrejada de roble pálido",
+ 	"block.mcwtrpdoors.pale_oak_beach_trapdoor":"Trampilla playera de roble pálido",
+  	"block.mcwtrpdoors.pale_oak_classic_trapdoor":"Trampilla clásica de roble pálido",
+   	"block.mcwtrpdoors.pale_oak_cottage_trapdoor":"Trampilla de cabaña de roble pálido",
+	"block.mcwtrpdoors.pale_oak_four_panel_trapdoor":"Trampilla de cuatro paneles de roble pálido",
+	"block.mcwtrpdoors.pale_oak_glass_trapdoor":"Trampilla de vidrio de roble pálido",
+	"block.mcwtrpdoors.pale_oak_mystic_trapdoor":"Trampilla mística de roble pálido",
+	"block.mcwtrpdoors.pale_oak_paper_trapdoor":"Trampilla de papel de roble pálido",
+ 	"block.mcwtrpdoors.pale_oak_tropical_trapdoor":"Trampilla tropical de roble pálido",
+	"block.mcwtrpdoors.pale_oak_swamp_trapdoor":"Trampilla pantanosa de roble pálido",
+	"block.mcwtrpdoors.pale_oak_bamboo_trapdoor":"Trampilla de malla de roble pálido",
+	"block.mcwtrpdoors.pale_oak_bark_trapdoor":"Trampilla de corteza de roble pálido",
+	"block.mcwtrpdoors.pale_oak_ranch_trapdoor":"Trampilla de rancho de roble pálido",
+	"block.mcwtrpdoors.pale_oak_blossom_trapdoor": "Trampilla de gofre de roble pálido",
+	"block.mcwtrpdoors.pale_oak_barrel_trapdoor": "Trampilla de barril de roble pálido",
+	
 	"block.mcwtrpdoors.oak_barn_trapdoor":"Trampilla de granero de roble",
 	"block.mcwtrpdoors.oak_barred_trapdoor":"Trampilla enrejada de roble",
 	"block.mcwtrpdoors.oak_beach_trapdoor":"Trampilla playera de roble",
@@ -152,7 +169,6 @@
 	"block.mcwtrpdoors.crimson_bark_trapdoor": "Trampilla de corteza carmesí",
 	"block.mcwtrpdoors.warped_bark_trapdoor": "Trampilla de corteza distorsionada",
 	"block.mcwtrpdoors.mangrove_bark_trapdoor": "Trampilla de corteza de mangle",
-	"block.mcwtrpdoors.cherry_bark_trapdoor": "Trampilla de corteza de cerezo",
 
 	"block.mcwtrpdoors.oak_ranch_trapdoor": "Trampilla de rancho de roble",
 	"block.mcwtrpdoors.spruce_ranch_trapdoor": "Trampilla de rancho de abeto",

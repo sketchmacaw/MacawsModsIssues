@@ -1,7 +1,7 @@
 	{
 	    "itemGroup.mcwpaths": "Caminos y Pavimentos de Macaw",
 
-	    "block.mcwpaths.oak_planks_path": "Camino de tablas de roble",
+		"block.mcwpaths.oak_planks_path": "Camino de tablas de roble",
 		"block.mcwpaths.spruce_planks_path": "Camino de tablas de abeto",
 		"block.mcwpaths.birch_planks_path": "Camino de tablas de abedul",
 		"block.mcwpaths.jungle_planks_path": "Camino de tablas de jungla",
@@ -12,6 +12,7 @@
 		"block.mcwpaths.mangrove_planks_path": "Camino de tablas de mangle",
 		"block.mcwpaths.cherry_planks_path": "Camino de tablas de cerezo",
 		"block.mcwpaths.bamboo_planks_path": "Camino de tablas de bambú",
+		"block.mcwpaths.pale_oak_planks_path": "Camino de tablas de roble pálido",
 		
 		"block.mcwpaths.andesite_diamond_paving": "Pavimento de diamante de andesita",
 		"block.mcwpaths.andesite_basket_weave_paving": "Pavimento de tejido de cesta de andesita",
@@ -146,7 +147,7 @@
 		"block.mcwpaths.blackstone_running_bond_path": "Camino de vínculo de piedra negra",
 		"block.mcwpaths.dark_prismarine_running_bond_path": "Camino de vínculo de prismarina oscura",
 
-	"block.mcwpaths.andesite_strewn_rocky_path": "Camino rocoso sembrado de andesita",
+    "block.mcwpaths.andesite_strewn_rocky_path": "Camino rocoso sembrado de andesita",
     "block.mcwpaths.diorite_strewn_rocky_path": "Camino rocoso sembrado de diorita",
     "block.mcwpaths.granite_strewn_rocky_path": "Camino rocoso sembrado de granito",
     "block.mcwpaths.sandstone_strewn_rocky_path": "Camino rocoso sembrado de arenisca",
@@ -276,7 +277,6 @@
     "block.mcwpaths.dark_prismarine_crystal_floor_path": "Camino de piso de cristal de prismarina oscura",
     "block.mcwpaths.dark_prismarine_crystal_floor_slab": "Losa de piso de cristal de prismarina oscura",
     "block.mcwpaths.dark_prismarine_crystal_floor": "Piso de cristal de prismarina oscura"
-
 
 
 	}
