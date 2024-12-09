@@ -1,3 +1,37 @@
+――――――――――――――――――――――――――――――――――――――――――――――――――――
+Trapdoors 1.1.4
+
+Added:
+- Pale Oak variants for 1.21.4
+- Whispering variant
+- Bamboo Bark Trapdoor
+
+Changes:
+- All wooden textures have been updated/improved to better match colors
+Fabric :
+- Crafting item description now has the same text as in forge/neoforge
+- Item description is gray like in Forge/NeoForge
+
+Removed:
+- 342 json files ( Instead of using 3 model files, now using only one being rotated in the blockstate to be the same as with 3 )
+
+Fixed Issues:
+- No lang for cherry_bark_trapdoor 
+- Cherry classic trapdoor uses four panel trapdoor texture
+- Birch Cottage Trapdoors is gray, not brown
+- Removed 4 unused json files which spammed in log
+- Forge/NeoForge Cherry, Blossom and Barrel trapdoors can't be used as fuel
+
+NeoForge Fixed issue 
+- Item tooltip is not showing
+
+Translations:
+- Added fr_fr by Samlegamer
+- Added tr_tr by RuyaSavascisi
+- Updated es_cl by Ganbare-Lucifer
+- Updated ru_ru by cutiegin
+
+
 ----------------------------------------------------------------
 
 1.1.3
