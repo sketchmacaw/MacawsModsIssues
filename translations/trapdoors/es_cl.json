@@ -15,6 +15,37 @@
 	
 	"mcwtrpdoors.crafting.desc": "Ingrediente de crafteo",
 
+
+	"block.mcwtrpdoors.pale_oak_barn_trapdoor":"Trampilla de granero de roble pálido",
+	"block.mcwtrpdoors.pale_oak_barred_trapdoor":"Trampilla enrejada de roble pálido",
+ 	"block.mcwtrpdoors.pale_oak_beach_trapdoor":"Trampilla playera de roble pálido",
+  	"block.mcwtrpdoors.pale_oak_classic_trapdoor":"Trampilla clásica de roble pálido",
+   	"block.mcwtrpdoors.pale_oak_cottage_trapdoor":"Trampilla de cabaña de roble pálido",
+	"block.mcwtrpdoors.pale_oak_four_panel_trapdoor":"Trampilla de cuatro paneles de roble pálido",
+	"block.mcwtrpdoors.pale_oak_glass_trapdoor":"Trampilla de vidrio de roble pálido",
+	"block.mcwtrpdoors.pale_oak_mystic_trapdoor":"Trampilla mística de roble pálido",
+	"block.mcwtrpdoors.pale_oak_paper_trapdoor":"Trampilla de papel de roble pálido",
+ 	"block.mcwtrpdoors.pale_oak_tropical_trapdoor":"Trampilla tropical de roble pálido",
+	"block.mcwtrpdoors.pale_oak_swamp_trapdoor":"Trampilla pantanosa de roble pálido",
+	"block.mcwtrpdoors.pale_oak_bamboo_trapdoor":"Trampilla de malla de roble pálido",
+	"block.mcwtrpdoors.pale_oak_bark_trapdoor":"Trampilla de corteza de roble pálido",
+	"block.mcwtrpdoors.pale_oak_ranch_trapdoor":"Trampilla de rancho de roble pálido",
+	"block.mcwtrpdoors.pale_oak_blossom_trapdoor": "Trampilla de gofre de roble pálido",
+	"block.mcwtrpdoors.pale_oak_barrel_trapdoor": "Trampilla de barril de roble pálido",
+	
+	"block.mcwtrpdoors.oak_barn_trapdoor":"Trampilla de granero de roble",
+	"block.mcwtrpdoors.oak_barred_trapdoor":"Trampilla enrejada de roble",
+	"block.mcwtrpdoors.oak_beach_trapdoor":"Trampilla playera de roble",
+	"block.mcwtrpdoors.oak_classic_trapdoor":"Trampilla clásica de roble",
+	"block.mcwtrpdoors.oak_cottage_trapdoor":"Trampilla de cabaña de roble",
+	"block.mcwtrpdoors.oak_four_panel_trapdoor":"Trampilla de cuatro paneles de roble",
+	"block.mcwtrpdoors.oak_glass_trapdoor":"Trampilla de vidrio de roble",
+	"block.mcwtrpdoors.oak_mystic_trapdoor":"Trampilla mística de roble",
+	"block.mcwtrpdoors.oak_paper_trapdoor":"Trampilla de papel de roble",
+	"block.mcwtrpdoors.oak_tropical_trapdoor":"Trampilla tropical de roble",
+	"block.mcwtrpdoors.oak_swamp_trapdoor": "Trampilla pantanosa de roble",
+	"block.mcwtrpdoors.oak_bamboo_trapdoor": "Trampilla de malla de roble",
+
 	"item.mcwtrpdoors.oak_barn_trapdoor":"Trampilla de granero de roble",
 	"item.mcwtrpdoors.oak_barred_trapdoor":"Trampilla enrejada de roble",
 	"item.mcwtrpdoors.oak_beach_trapdoor":"Trampilla playera de roble",
@@ -27,7 +58,7 @@
 	"item.mcwtrpdoors.oak_tropical_trapdoor":"Trampilla tropical de roble",
 	"item.mcwtrpdoors.oak_swamp_trapdoor": "Trampilla pantanosa de roble",
 	"item.mcwtrpdoors.oak_bamboo_trapdoor": "Trampilla de malla de roble",
-	
+
 	"item.mcwtrpdoors.spruce_barn_trapdoor":"Trampilla de granero de abeto",
 	"item.mcwtrpdoors.spruce_barred_trapdoor":"Trampilla enrejada de abeto",
 	"item.mcwtrpdoors.spruce_beach_trapdoor":"Trampilla playera de abeto",
@@ -143,6 +174,17 @@
 	"item.mcwtrpdoors.bamboo_tropical_trapdoor": "Trampilla tropical de bambú",
 	"item.mcwtrpdoors.bamboo_swamp_trapdoor": "Trampilla tropical de bambú",
 	
+
+	"block.mcwtrpdoors.oak_bark_trapdoor": "Trampilla de corteza de roble",
+	"block.mcwtrpdoors.spruce_bark_trapdoor": "Trampilla de corteza de abeto",
+	"block.mcwtrpdoors.birch_bark_trapdoor": "Trampilla de corteza de abedul",
+	"block.mcwtrpdoors.jungle_bark_trapdoor": "Trampilla de corteza de jungla",
+	"block.mcwtrpdoors.acacia_bark_trapdoor": "Trampilla de corteza de acacia",
+	"block.mcwtrpdoors.dark_oak_bark_trapdoor": "Trampilla de corteza de roble oscuro",
+	"block.mcwtrpdoors.crimson_bark_trapdoor": "Trampilla de corteza carmesí",
+	"block.mcwtrpdoors.warped_bark_trapdoor": "Trampilla de corteza distorsionada",
+	"block.mcwtrpdoors.mangrove_bark_trapdoor": "Trampilla de corteza de mangle",
+
 	"item.mcwtrpdoors.oak_bark_trapdoor": "Trampilla de corteza de roble",
 	"item.mcwtrpdoors.spruce_bark_trapdoor": "Trampilla de corteza de abeto",
 	"item.mcwtrpdoors.birch_bark_trapdoor": "Trampilla de corteza de abedul",
@@ -152,6 +194,7 @@
 	"item.mcwtrpdoors.crimson_bark_trapdoor": "Trampilla de corteza carmesí",
 	"item.mcwtrpdoors.warped_bark_trapdoor": "Trampilla de corteza distorsionada",
 	"item.mcwtrpdoors.mangrove_bark_trapdoor": "Trampilla de corteza de mangle",
+
 	"item.mcwtrpdoors.cherry_bark_trapdoor": "Trampilla de corteza de cerezo",
 
 	"item.mcwtrpdoors.oak_ranch_trapdoor": "Trampilla de rancho de roble",
