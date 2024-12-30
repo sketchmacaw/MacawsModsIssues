@@ -12,7 +12,8 @@
    "item.mcwtrpdoors.print_swamp":"Impression de trappe de marécage",
    "item.mcwtrpdoors.print_bamboo":"Impression de trappe de maille",
    "item.mcwtrpdoors.print_blossom":"Impression de trappe gaufrée",
-   
+   "item.mcwtrpdoors.print_whispering":"Impression de trappe pâleuse",
+
    "mcwtrpdoors.crafting.desc":"Ingrédient de fabrication",
 
    "item.mcwtrpdoors.pale_oak_barn_trapdoor":"Trappe de grange en chêne pâle",
@@ -27,10 +28,22 @@
    "item.mcwtrpdoors.pale_oak_tropical_trapdoor":"Trappe tropicale en chêne pâle",
    "item.mcwtrpdoors.pale_oak_swamp_trapdoor":"Trappe de marécage en chêne pâle",
    "item.mcwtrpdoors.pale_oak_bamboo_trapdoor":"Trappe de maille en chêne pâle",
-"item.mcwtrpdoors.pale_oak_bark_trapdoor":"Trappe écorcer en chêne pâle",
-"item.mcwtrpdoors.pale_oak_ranch_trapdoor":"Trappe de ranch en chêne pâle",
-"item.mcwtrpdoors.pale_oak_blossom_trapdoor": "Trappe gaufrée en chêne pâle",
-"item.mcwtrpdoors.pale_oak_barrel_trapdoor": "Trappe à tonneau en chêne pâle",
+   "item.mcwtrpdoors.pale_oak_bark_trapdoor":"Trappe écorcer en chêne pâle",
+   "item.mcwtrpdoors.pale_oak_ranch_trapdoor":"Trappe de ranch en chêne pâle",
+   "item.mcwtrpdoors.pale_oak_blossom_trapdoor": "Trappe gaufrée en chêne pâle",
+   "item.mcwtrpdoors.pale_oak_barrel_trapdoor": "Trappe à tonneau en chêne pâle",
+
+   "item.mcwtrpdoors.oak_whispering_trapdoor": "Trappe pâleuse en chêne",
+   "item.mcwtrpdoors.spruce_whispering_trapdoor": "Trappe pâleuse en sapin",
+   "item.mcwtrpdoors.birch_whispering_trapdoor": "Trappe pâleuse en bouleau",
+   "item.mcwtrpdoors.jungle_whispering_trapdoor": "Trappe pâleuse en acajou",
+   "item.mcwtrpdoors.acacia_whispering_trapdoor": "Trappe pâleuse en acacia",
+   "item.mcwtrpdoors.dark_oak_whispering_trapdoor": "Trappe pâleuse en chêne noir",
+   "item.mcwtrpdoors.mangrove_whispering_trapdoor": "Trappe pâleuse en palétuvier",
+   "item.mcwtrpdoors.warped_whispering_trapdoor": "Trappe pâleuse biscornue",
+   "item.mcwtrpdoors.crimson_whispering_trapdoor": "Trappe pâleuse en carmin",
+   "item.mcwtrpdoors.bamboo_whispering_trapdoor": "Trappe pâleuse en bamboo",
+	"item.mcwtrpdoors.cherry_whispering_trapdoor": "Trappe pâleuse en cerisier",
    
    "item.mcwtrpdoors.bamboo_barn_trapdoor":"Trappe de grange en bamboo",
    "item.mcwtrpdoors.bamboo_barred_trapdoor":"Trappe à barreaux en bamboo",
