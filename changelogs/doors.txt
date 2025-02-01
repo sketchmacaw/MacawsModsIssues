@@ -1,3 +1,31 @@
+1.1.2 
+
+Added:
+- Whispering Variants
+- Pale Oak Variants
+
+Changes:
+- New Textures for Door Prints
+- Added custom tags for all types of doors (e.g. barn_doors, mystic_doors, garage_doors etc.. )
+
+Fabric Only:
+- Tooltips now show in gray color
+
+Fixed Bugs:
+- Portcullises not influencing NPC pathfinding 
+- Swamp Door items are 1px taller than other Door items
+
+Translations Added:
+- tr_tr by RuyaSavascisi
+
+Updated:
+- zh_cn by Monostar14
+- ru_ru by cutiegin
+- ko_kr by kirito5572
+- es_cl by Ganbare-Lucifer
+- en_us by Samlegamer
+
+----------------------------------------------------------------
 1.1.1
 
 Changes:
