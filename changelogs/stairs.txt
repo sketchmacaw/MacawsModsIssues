@@ -1,6 +1,9 @@
 ――――――――――――――――――――――――――――――――――――――――――――――――――――
 1.0.1
 
+Added:
+- 1.21.4 Pale Oak Variants
+
 Changes:
 - Fabric only : Descriptions are now gray like in Forge/NeoForge versions
 
