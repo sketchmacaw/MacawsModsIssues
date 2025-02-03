@@ -1,3 +1,23 @@
+――――――――――――――――――――――――――――――――――――――――――――――――――――
+1.0.1
+
+Changes:
+- Fabric only : Descriptions are now gray like in Forge/NeoForge versions
+
+Fixed Issues:
+- Skyline Stairs and Bulk Stairs have the same recipe
+- Platforms have the same recipe as Furniture Counter (Macaw's Furniture)
+- Entities completely ignore stairs and never try to path them
+- Balconies have invisible collision, making you able to float in air
+- Balcony Railings have a black shade when placed on solid blocks
+- Redundant model files removed from block/parent
+- Fabric only : The item descriptions go out of sight in GUI
+
+Lang:
+- Added es_cl by Ganbare-Lucifer
+- Added fr_fr by Samlegamer
+- Added ru_ru by cutiegin
+――――――――――――――――――――――――――――――――――――――――――――――――――――
 1.0.0
 
 
