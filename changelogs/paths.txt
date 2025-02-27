@@ -1,3 +1,30 @@
+1.1.0
+
+Added:
+- Pale Oak Wooden Path for 1.21.4
+- Stairs for the Path Blocks
+- Podzol, Dirt, Gravel, Sand, Red Sand Block Paths
+( They can be Flatted, when you right click them with any shovel they will be 1px smaller, resulting in a depth looking path. )
+
+Changes:
+- Stone Path Blocks can now be Engraved, when you right click them with any pickaxe they will be 1px smaller
+- Added a Tooltip to the blocks that can be Engraved/Flattened
+- Wooden Paths are now grouped in crafting gui
+- Creative Tab  Icon changed to Andesite Honeycomb Paving (Forge/Neoforge)
+
+Added Custom Tags: (wooden_paths,stone_paths,path_slabs,stone_pavings,stone_engraved_blocks)
+- Rebalanced fuel efficiency for planks paths ( now smelts only 0.25 item instead of 7.5 )
+
+Bug Fixes:
+- Wooden Paths Crashing Game (while using Carpets Core)
+only to 1.20.1
+
+Translations:
+- Updated es_cl by Ganbare-Lucifer
+- Updated ru_ru by cutiegin
+- Added tr_tr by RuyaSavascisi
+- Added fr_fr by Samlegamer
+
 ----------------------------------------------------------------
 1.0.5
 
