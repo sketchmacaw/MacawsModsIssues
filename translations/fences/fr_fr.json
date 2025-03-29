@@ -1,21 +1,21 @@
 {
 
-	    "itemGroup.mcwfences": "Macaw's Fences & Walls",
+	    	"itemGroup.mcwfences": "Macaw's Fences & Walls",
 		
 		"death.attack.wired_fence": "%1$s à essayait de franchir une clôture grillagée",
 		"death.attack.wired_fence.player": "%1$s à essayait de franchir une clôture grillagée pour échapper à %2$s",
 		
 		"block.mcwfences.bamboo_picket_fence": "Clôture à piquets en bamboo",
-	    "block.mcwfences.bamboo_stockade_fence": "Clôture à palissade en bamboo",
-	    "block.mcwfences.bamboo_horse_fence": "Clôture pour chevaux en bamboo",
-	    "block.mcwfences.bamboo_wired_fence": "Clôture grillagée en bamboo",
+	    	"block.mcwfences.bamboo_stockade_fence": "Clôture à palissade en bamboo",
+	    	"block.mcwfences.bamboo_horse_fence": "Clôture pour chevaux en bamboo",
+	   	"block.mcwfences.bamboo_wired_fence": "Clôture grillagée en bamboo",
 		"block.mcwfences.bamboo_pyramid_gate": "Grand portillon en bamboo",
 		"block.mcwfences.bamboo_highley_gate": "Portillon pyramidal en bamboo",
 		"block.mcwfences.bamboo_fence": "Barrière en bamboo",
 		"block.mcwfences.wooden_cheval_de_frise": "Cheval de frise en bois",
 		"block.mcwfences.iron_cheval_de_frise": "Cheval de frise en fer",
-	    "block.mcwfences.azalea_hedge": "Haie d'azalée",
-	    "block.mcwfences.flowering_azalea_hedge": "Haie d'azalée fleurie",
+	    	"block.mcwfences.azalea_hedge": "Haie d'azalée",
+	    	"block.mcwfences.flowering_azalea_hedge": "Haie d'azalée fleurie",
 
 		"block.mcwfences.pale_oak_picket_fence":"Clôture à piquets en chêne pâle",
 		"block.mcwfences.pale_oak_stockade_fence":"Clôture à palissade en chêne pâle",
@@ -96,7 +96,7 @@
 		"block.mcwfences.cherry_pyramid_gate":"Portillon pyramidal en cerisier",
 		"block.mcwfences.cherry_hedge":"Haie de cerisier",
 		
-	    "block.mcwfences.modern_stone_brick_wall": "Mur moderne en pierre taillée",
+	    	"block.mcwfences.modern_stone_brick_wall": "Mur moderne en pierre taillée",
 		"block.mcwfences.railing_stone_brick_wall": "Balustrade mur en pierre taillée",
 		"block.mcwfences.stone_brick_railing_gate": "Portail en pierre taillée",
 		"block.mcwfences.stone_pillar_wall": "Mur de piliers en pierre",
@@ -166,5 +166,39 @@
 		"block.mcwfences.railing_prismarine_wall": "Balustrade mur en prismarine",
 		"block.mcwfences.prismarine_railing_gate": "Portail en prismarine",
 		"block.mcwfences.prismarine_pillar_wall": "Mur de piliers en prismarine",
-		"block.mcwfences.prismarine_grass_topped_wall": "Mur en prismarine surmonté d'herbe"
+		"block.mcwfences.prismarine_grass_topped_wall": "Mur en prismarine surmonté d'herbe",
+
+		"block.mcwfences.acorn_metal_fence": "Barrière à pic en métal",
+		"block.mcwfences.panelled_metal_fence": "Barrière métallique à panneaux",
+		"block.mcwfences.mesh_metal_fence": "Barrière métallique en treillis",
+		"block.mcwfences.ornate_metal_fence": "Barrière métallique ornée",
+		"block.mcwfences.guardian_metal_fence": "Barrière métallique de garde",
+		"block.mcwfences.gothic_metal_fence": "Barrière métallique gothique",
+		"block.mcwfences.vintage_metal_fence": "Barrière en métal vintage",
+		"block.mcwfences.curved_metal_fence": "Barrière métallique courbée",
+		"block.mcwfences.twilight_metal_fence": "Barrière métallique crépusculaire",
+		"block.mcwfences.expanded_mesh_metal_fence": "Barrière métallique en treillis déployée",
+		"block.mcwfences.fortress_metal_fence": "Barrière métallique de forteresse",
+		"block.mcwfences.bastion_metal_fence": "Barrière métallique de bastion",
+		"block.mcwfences.double_curved_metal_fence": "Barrière métallique à double courbure",
+		"block.mcwfences.cathedral_metal_fence": "Barrière métallique de cathédrale",
+		
+		"block.mcwfences.majestic_metal_fence_gate": "Portillon métallique majestueux",
+		"block.mcwfences.curved_metal_fence_gate": "Portillon métallique courbée",
+		"block.mcwfences.mesh_metal_fence_gate": "Portillon métallique en treillis",
+		"block.mcwfences.panelled_metal_fence_gate": "Portillon métallique à panneaux",
+		"block.mcwfences.bastion_metal_fence_gate": "Portillon métallique de bastion",
+		
+		"block.mcwfences.oak_curved_gate": "Portail courbé en chêne",
+		"block.mcwfences.spruce_curved_gate": "Portail courbé en sapin",
+		"block.mcwfences.birch_curved_gate": "Portail courbé en bouleau",
+		"block.mcwfences.jungle_curved_gate": "Portail courbé en acajou",
+		"block.mcwfences.acacia_curved_gate": "Portail courbé en acacia",
+		"block.mcwfences.dark_oak_curved_gate": "Portail courbé en chêne noir",
+		"block.mcwfences.crimson_curved_gate": "Portail courbé en carmin",
+		"block.mcwfences.warped_curved_gate": "Portail courbé en biscornue",
+		"block.mcwfences.mangrove_curved_gate": "Portail courbé en palétuvier",
+		"block.mcwfences.cherry_curved_gate": "Portail courbé en cerisier",
+		"block.mcwfences.bamboo_curved_gate": "Portail courbé en bamboo",
+		"block.mcwfences.pale_oak_curved_gate": "Portail courbé en chêne pâle"	
 }
