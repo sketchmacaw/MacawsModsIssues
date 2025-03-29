@@ -1,3 +1,31 @@
+1.2.0
+
+Added:
+- Pale Oak Variants 1.21.4 +
+- 14 New Metal Fences, they can stack upwards to be taller
+- Curved Double Wooden Gates ( Work like doors, but can be stacked upwards )
+- 5 New Double Metal Gates ( Work like doors, but can be stacked upwards )
+
+Changed:
+- Added tooltips for the new stackable metal fences / gates
+- Added new custom block tags 
+
+Bugs Fixed:
+- Fence Gates don't have the item minecraft:fence_gates tag
+- Wooden fences don't have the item minecraft:wooden_fences tag
+- Wooden fences don't have the block minecraft:wooden_fences tag
+- Bamboo Advancement for recipe unlock is missing
+- Cherry Fences, Gates have no advancement for recipe unlock 1.20+
+
+Translations:
+- es_cl updated by Ganbare-Lucifer
+- ru_ru updated by cutiegin
+- es_mx added by TheLegendofSaram
+- fr_fr added by Samlegamer
+- ko_kr added by kirito5572
+- tr_tr added by RuyaSavascisi
+
+-------------------------
 1.1.2
 
 If you are updating from an older version to this one and have already placed grass topped walls or hedges, please note that they will look weird due to performance changes in the update. To resolve this issue, you'll need to perform a block update on affected hedges or grass topped walls. Here's how:
