@@ -6,7 +6,7 @@
 		
 		"subtitle.mcwdoors.shoji": "Puerta de Shoji abierta",
         "subtitle.mcwdoors.garage": "Puerta de garaje abierta",
-		"mcwdoors.metaldoor.desc":"Requires Redstone Power to open",
+		"mcwdoors.metaldoor.desc":"Requiere poder de redstone para abrir",
 	 
 	    "item.mcwdoors.garage_remote":"Control remoto de garaje",
 	    "item.mcwdoors.print_oak":"Impresión de puerta de roble",
