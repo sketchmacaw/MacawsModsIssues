@@ -1,3 +1,39 @@
+----------------------------------------------------------------
+2.3.2
+
+Added:
+ - Pale Oak Variants 1.21.4+
+
+Changes:
+- New Gutter Texture
+- New Rain Gutter Models
+- Bottom Rain Gutter can fill up a Cauldron with water if the cauldron is exactly below the Bottom Rain Gutter
+- Striped Awning can now be dyed by right clicking with a dye
+- Rain Gutters can now also be dyed by right clicking with a dye
+- Rain gutters have more realistic water flowing 
+
+Bug Fixes:
+- Roofs are not Rain Proof 
+- Roofs do not count as sun protection (Vampirism)
+- Roofs let light through (Top Roofs still do)
+- Cullfacing/Render issue with lower top roofs
+- When the block is placed upside-down, the texture is also inverted.
+- Roofing tool not working in multiplayer for certain blocks
+- Roofing tool is updating neightbouring blocks
+- Upside down roofs flip textures on the side, making them look bad
+
+Translations:
+- updated ru_ru by cutiegin
+- updated es_cl by Ganbare-Lucifer
+- added tr_tr by RuyaSavascisi
+- added fr_fr by Samlegamer
+- added es_mx by TheLegendofSaram
+- added ja_jp by Anpan715
+
+
+Fabric only : Optimized Gutters/Awnings like they are in Forge/NeoForge
+
+----------------------------------------------------------------
 2.3.1
 
 Added:
