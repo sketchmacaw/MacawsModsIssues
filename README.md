@@ -1,5 +1,9 @@
 # Macaw's Mods - Issue Tracker
 
+Post Only Issues not Suggestions!
+For Suggestions here is a separate tracker because we need to keep Issues separated from Suggestions
+- https://github.com/sketchmacaw/macawsmods/issues
+
 ##### Macaw's Mods is a collection of the Macaw's Mod series, this includes the following mods:
 
  -  Macaw's Bridges
@@ -12,7 +16,7 @@
  -  Macaw's Light & Lamps
  -  Macaw's Fences & Walls
  -  Macaw's Paths & Pavings
-
+ -  Macaw's Holidays
 
 ## Join the official Macaw's Mods Discord
 
