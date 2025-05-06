@@ -1,3 +1,27 @@
+1.1.2
+
+Added :
+-5 New Garden Lights ( Thin, Tower, Striped, Covered, Round )
+-Pale Oak Tiki Torch and Ceiling Fan 1.21.4+
+
+Changes : 
+-Added 18 Custom Tags by Type 
+-Updated Garden Light Model & Texture
+-Torches instead of just coal in recipe , we added support for charcoal
+-Grouped Lantern Recipes
+-Grouped Torch Recipes
+-Added descriptions for stackable lights
+-Added descriptions for dyeable lights
+
+Fixed Bugs:
+-Garden Lights & Lava Lamps have wooden break sounds
+
+Translations:
+-Added ja_jp by Anpan715
+-Updated es_cl by Ganbare-Lucifer
+
+
+----------------------------------------------------------------
 1.1.1
 Fixed Issue: Many of the lights are not craftable as the recipes reference an item from tag forge:fences/wooden which doesn't exist.
 ----------------------------------------------------------------
