@@ -1,3 +1,44 @@
+3.1.0 Update
+
+Added: 
+- Pale Oak Variants (1.21.4+)
+
+Performance:
+- Bridges (Except Rope & Bamboo ) use 11 states instead of 16, they work the same 
+
+Changes:
+- Torch/Lantern will now always place on the railing
+- Bridge/Torch recipe revertion 
+- If you click the bridge support on a placed one, it will place it on top of it
+- Added Collision for Bridge Stairs Sides 
+- Tags are no longer tagged by material but by type 
+- Iron Bridge and Stairs now include "iron" in the model file
+- Improvements for Pliers, less buggy
+
+Fixed Bugs:
+- Reseting tool when next to each other 
+- Crashing due to trapdoors tag 
+- No placing sounds, when placing a bridge or stair by right clicking with 
+  the same item 
+- Bridges Torch placement is placing them randomly 
+- Misaligned bridge lanterns 
+- Bridge Torches have no animation 
+- Bridge support black texture when solid block underneath them 
+- Forced Bridge Rotation cant be changed with tool 
+- Bridge State Reset 
+- Red Asian Bridge and Glass Bridge are tagged as "bridge_lights" instead of Bridge Light & Lantern
+
+Translations:
+- zh_cn added by Monostar14 
+- es_cl updated by Ganbare-Lucifer
+- fr_fr updated by Samlegamer 
+- ru_ru updated by cutiegin 
+- es_mx added by TheLegendofSaram
+- ja_jp added by Anpan715
+
+----------------------------------------------------------------
+
+
 3.0.1 - Only for affected 1.16.5 to 1.19.4 Forge Versions
 
 Changes:
