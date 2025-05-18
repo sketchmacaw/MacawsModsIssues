@@ -1,3 +1,7 @@
+3.1.1 Only Affects Forge & Neoforge 1.20.6, 1.21, 1.21.1
+
+- Fixed crash when placing Bamboo or Dry Bamboo Bridges
+----------------------------------------------------------------
 3.1.0 Update
 
 Added: 
