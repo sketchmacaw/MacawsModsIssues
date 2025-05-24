@@ -1,9 +1,17 @@
 	{
 
-	    "itemGroup.mcwfences": "Macaw의 울타리와 담장",
+	    "itemGroup.mcwfences": "Macaw's Fences & Walls",
 		
 		"death.attack.wired_fence": "%1$s이(가) 철조망을 넘어가려고 했습니다.",
 		"death.attack.wired_fence.player": "%1$s이(가) %2$s에서 탈출을 시도하면서 철조망을 넘어가려고 했습니다.",
+		
+		"block.mcwfences.pale_oak_picket_fence":"창백한 참나무 세로판자 울타리",
+		"block.mcwfences.pale_oak_stockade_fence":"창백한 참나무 가로판자 울타리",
+		"block.mcwfences.pale_oak_horse_fence":"창백한 참나무 격자 울타리",
+		"block.mcwfences.pale_oak_wired_fence":"창백한 참나무 철조망 울타리",
+		"block.mcwfences.pale_oak_highley_gate":"창백한 참나무 반원형 울타리 문",
+		"block.mcwfences.pale_oak_pyramid_gate":"창백한 참나무 격자 울타리 문",
+		"block.mcwfences.pale_oak_hedge":"창백한 참나무 잎 울타리",
 
 	    "block.mcwfences.spruce_picket_fence": "가문비나무 세로판자 울타리",
 	    "block.mcwfences.spruce_stockade_fence": "가문비나무 가로판자 울타리",
