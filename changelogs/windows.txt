@@ -1,3 +1,40 @@
+2.4.0 Update
+
+Added:
+- Pale Oak Variants (1.21.4+)
+
+Changes: 
+- Windows no longer cycle open when opening them, they will now open based on where
+  you aim your mouse (left/right)
+- Curtains no longer have collision
+- When you place Blinds they are now Open, instead of Closed
+- Shutters now have the Windows open sound when using them
+- Shutters now have a better hitbox, covering only the model
+- Now when holding a Shutter in hand, and clicking on a Shutter, it won't open/close
+  this way its easier to place on top of it without toggling
+- Window Four Pane Base Item and Window Half Pane Base can now be reverted in crafting
+- Window Base Items are now grouped in crafting
+- Golden Model filenames changed to Gold, Metal to Iron
+
+Bug Fixes: 
+- Curtains attach to glass panes
+- Iron Shutter takes too long to break
+- Iron Shutter not dropping when broken
+- Shutters are clipping when opening two into the same direction
+- Windows Hammer not saving changes on ConnectableWindow, GothicWindow
+- Window Hammer is not working as before
+- Shutters don't move when clicked in some versions
+
+Translation: 
+- es_cl by Ganbare-Lucifer
+- es_es by GGlangf
+- es_mx by TheLegendofSaram
+- fr_fr by Samlegamer
+- ja_jp by Anpan715
+- ru_ru by cutiegin
+- tr_tr by RuyaSavascisi
+- ko_kr by kirito5572
+------------------------------------------------------------------
 2.3.2
 
 - Hotfix for all 1.20.6 / 1.21 crashing when placing arrow slits / gothic windows
