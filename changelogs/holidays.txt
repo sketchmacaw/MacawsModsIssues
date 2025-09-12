@@ -1,3 +1,28 @@
+1.1.1
+
+Added:
+- Unmeltable Snow Layer
+
+Changes:
+- We want to reduce inventory clutter so we would like to know your feedback on these
+- The Ghost, Happy Ghost, Haunting Ghost have been merged into one ghost, which can be
+  toggled by right clicking. It now has only one crafting recipe.
+- Awake Bat, Sleeping Bat have been merged into one Bat, which can be
+  toggled by right clicking. It now has only one crafting recipe.
+- Stockings and Couple Stocking have been merged into Stocking, which can be
+  toggled by right clicking. It now has only one crafting recipe.
+
+Fixed Bugs: 
+- Candy Cane stairs missing the minecraft:stairs item and block tags.
+- Candy Cane slabs missing the minecraft:slabs item and block tags.
+
+Translations Added: 
+- es_cl by Ganbare-Lucifer
+- ja_jp by Anpan715
+- ko_kr by kirito5572
+- ru_ru by cutiegin
+- zh_cn by QianMuu
+
 ---------------------------------------------------------------
 1.1.0
 
@@ -54,4 +79,5 @@ Macaw's Holidays 1.0.0 - Halloween release
 - Witch Cauldron
 - Two skeleton decorations
 - 8 Cobwebs
+
 - 12 Wall decorations
