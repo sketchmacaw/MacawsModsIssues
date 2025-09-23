@@ -1,3 +1,8 @@
+2.4.1
+- Fixed curtains placed against a solid block will make the face of the block see through
+
+- FABRIC 1.20.1 - Renamed metal model files to iron (somehow skipped)
+---------------------
 2.4.0 Update
 
 Added:
@@ -343,3 +348,4 @@ Fixed Bugs :
 1.0.0
 
 - First released version
+
