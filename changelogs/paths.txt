@@ -1,3 +1,17 @@
+1.1.1
+
+Changes:
+- Pickaxes and Shovels now use durability when Engraving or Flattening
+- Flattening and Engraving is now compatible with modded Shovels/Pickaxes
+
+Bug Fixes: 
+- Engrave doesn't work with modded pickaxes
+- Flatten doesn't work with modded shovels
+- Paths get removed by water 
+- Most Running Bond Paths, Slabs, Blocks are showing wrong color on maps (Neoforge and Forge only)
+
+----------------------------------------------------------------
+
 1.1.0
 
 Added:
@@ -80,3 +94,4 @@ Changes:
 1.0.0
 
 - First Release
+
