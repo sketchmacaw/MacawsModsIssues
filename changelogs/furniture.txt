@@ -1,3 +1,54 @@
+3.4.0
+
+Added:
+- Pale Oak Furniture ( 1.21.4+ )
+- Couches, come in 16 colors
+- Chaise Couch Blocks, come in 16 colors
+- Kitchen Sinks, can be filled/unfilled with buckets, also can be used to fill bottles
+
+Changes:
+- Desks now have just two directional facing, since the model would be the same for north & south and also east & west 
+* These need a block update to adjust to the new mechanism, they will look weird currently 
+if placed in an older version ( place any block to it like dirt and remove the dirt )
+
+- Due to Issues with Combined Furniture, we decided to bring back the old non leg models
+- Furniture Cabinets and Drawers now have sounds for open/close 
+- Furniture now have unique handle colors based on the wood type
+- Desks have a slightly changed model
+- Furniture Containers now have the title "Furniture Inventory" instead of the title of the block, renaming in an anvil will change the inventory text
+- Changed ambient occlusion to true for counters
+- 1.21.1+ Added tag c:chests/wooden instead of using vanilla chests for cabinet drawer and door
+- Fabric 1.19.4- Added Mixin to make bookshelves Work
+
+Bug Fixes:
+- Unable to place Farmer's Delight cutting board on middle segment of Macaw desk
+- Itemframes are glitching on some furniture 
+- Lamps are glitching on some furniture 
+- Counters have brighter texture than other furniture 
+- Counters have black texture on side when there is a solid block next to them 
+- Counters have graphic issues with shaders 
+- Drawers placed behind Drawers would make the model change into other parts
+- No block face rendered under some furniture 
+- Western edge of multi-block connected table has wrong lighting on top 
+- Handles can't bee seen on Stripped Birch Furniture 
+- Long Furniture text is going out of border when opened
+- Coffe Table middle part has wrong texture facing underneath
+- NeoForge // Furniture containers doesn't accept items from Immersive Engineering's conveyor belts
+- NeoForge // Furniture crashes on block placement
+- FABRIC // Cannot sit side by side with another player
+- FABRIC // Bookshelve furniture doesn't provide enchant power
+
+Translations:
+- es_cl by Ganbare-Lucifer
+- es_mx by TheLegendofSaram
+- fr_fr by Samlegamer
+- ja_jp by Anpan715
+- ko_kr by kirito5572
+- ru_ru by cutiegin
+- tr_tr by RuyaSavascisi
+- zh_cn by molishang123
+
+-------------------------------------------------------------------
 3.3.0
 
 Added:
@@ -234,3 +285,4 @@ Fixed:
 1.0.0
 
 - First released version
+
