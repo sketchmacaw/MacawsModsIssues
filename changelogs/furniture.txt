@@ -1,3 +1,8 @@
+Macaw's Furniture 3.4.2
+
+Only for forge 1.21.10 & 1.21.9
+- Added missing pack.mcmeta
+
 ――――――――――――――――――――――――――――――――――――――――――――――――――――
 Macaw's Furniture 3.4.1
 
@@ -300,5 +305,6 @@ Fixed:
 1.0.0
 
 - First released version
+
 
 
