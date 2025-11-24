@@ -1,3 +1,23 @@
+Trapdoors 1.1.5
+
+Changed:
+- Trapdoor Prints textures
+
+Fixed Bugs:
+- Whispering Trapdoors require 4 planks instead of 2 like on others
+- (1.21.4+) Whispering Trapdoor print requires bonemeal instead of the Pale Oak Trapdoor
+- (1.20+) Mesh Trapdoor print requires Bamboo instead of Bamboo Trapdoor
+- (Fabric NeoForge) A few Trapdoors are incompatible with more culling mod, causing X-ray glitches
+- (Forge) Fixed java.lang.ArrayIndexOutOfBoundsException: Index 2048 out of bounds for length 1025
+ 
+Translations:
+Added ja_jp by Anpan715
+Updated es_cl by Ganbare-Lucifer
+Updated es_es by GGlangf
+Updated ko_kr by kirito5572
+Updated zh_cn by molishang123
+Updated ru_ru by Kolton
+
 ――――――――――――――――――――――――――――――――――――――――――――――――――――
 Trapdoors 1.1.4
 
@@ -165,3 +185,4 @@ Translations
 
 - Added es_ar.lang es_es.lang /kevinggg1
 - Added zh_tw.lang by /Pancakes0228
+
