@@ -1,3 +1,18 @@
+――――――――――――――――――――――――――――――――――――――――――――――――――――
+Macaw's Furniture 3.4.1
+
+Bug Fixes:
+- Drawers still have bad shading especially stripped ones
+- Desk middle parts have glitchy texture
+- Kitchen Sinks return just one empty Bucket while filling them up, even if holding more
+- FORGE : Fixed java.lang.ArrayIndexOutOfBoundsException: Index 2048 out of bounds for length 1025
+
+Translations:
+- Updated ru_ru by cutiegin
+- Updated fr_fr by SamleGamer
+- Updated es_cl by Ganbare-Lucifer
+
+――――――――――――――――――――――――――――――――――――――――――――――――――――
 3.4.0
 
 Added:
@@ -285,4 +300,5 @@ Fixed:
 1.0.0
 
 - First released version
+
 
