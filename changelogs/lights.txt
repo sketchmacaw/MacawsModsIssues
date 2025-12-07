@@ -1,3 +1,21 @@
+Macaw's Lights 1.1.5 
+
+Fixed Bugs:
+- 1.21.9+ Couldn't load mod:mcwlights pack metadata
+- Wall Lanterns (and possibly others) should not be pathfindable
+- Minor Texture bug on Framed Torch
+- FORGE ONLY: Fixed java.lang.ArrayIndexOutOfBoundsException: Index 2048 out of bounds for length 1025
+- 1.21.9+ Copper chain is still in mcwlights:chains
+- 1.21.9+ Fabric Creative tab name is missing
+
+Translations:
+- Added ko_kr by kirito5572
+- Added fr_fr by Pygargue00fr
+- Added zh_cn by molishang123
+- Added pt_br by PrincessStelllar
+- Updated ru_ru by Kolton
+----------------------------------------------------------------
+
 v1.1.4 (only for 1.21.9)
 I'm so sorry I forgot to remove the removed copper chain from mineable with pickaxe..
 
@@ -171,5 +189,6 @@ Added : Wooden/Wool Lamps can be used as fuel in furnace
 1.0.0
 
 - First Release
+
 
 
