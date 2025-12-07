@@ -1,3 +1,19 @@
+
+Macaw's Holidays 1.1.2
+
+Changes:
+- Wall Bell has a new recipe
+
+Fixed Bugs:
+- 1.20.2, 1.20.1, 1.20 ONLY : Broken recipe for snowy grass
+- Duplicate Wall Bell and Stars Recipe
+- 1.21.3+ ONLY : Christmas tree base blocks are messing up with culling mods
+- FORGE ONLY: Fixed java.lang.ArrayIndexOutOfBoundsException: Index 2048 out of bounds for length 1025
+
+Translations:
+- Added pt_br by PrincessStelllar
+
+---------------------------------------------------------------
 1.1.1
 
 Added:
@@ -81,3 +97,4 @@ Macaw's Holidays 1.0.0 - Halloween release
 - 8 Cobwebs
 
 - 12 Wall decorations
+
