@@ -2,6 +2,8 @@
 		"itemGroup.halloween": "Festividades de Macaw (Otoño)",
 		"itemGroup.christmas": "Festividades de Macaw (Navidad)",
 
+        "mcwholidays.toggle.desc":"Haz click derecho para rotar variaciones",
+
 		"block.mcwholidays.small_pumpkin":"Zapallo pequeño",
 		"block.mcwholidays.medium_pumpkin":"Zapallo mediano",
 		"block.mcwholidays.large_pumpkin":"Zapallo grande",
@@ -356,7 +358,8 @@
     "block.mcwholidays.yellow_ornament_wall_deco_2": "Decoración de pared de adorno amarillo 2",
     "block.mcwholidays.purple_ornament_wall_deco_1": "Decoración de pared de adorno morado 1",
     "block.mcwholidays.purple_ornament_wall_deco_2": "Decoración de pared de adorno morado 2",
-	"item.mcwholidays.candy_cane": "Bastón de caramelo"
+	"item.mcwholidays.candy_cane": "Bastón de caramelo",
+
+    "block.mcwholidays.unmeltable_snow": "Nieve inderretible"
 		
 	}
-	
