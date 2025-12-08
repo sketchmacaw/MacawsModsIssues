@@ -1,3 +1,26 @@
+Macaw's Fences 1.2.1
+
+Changes:
+- Added #diagonalfences:non_diagonal_fences tag for Grass Topped Walls
+
+Fixed Bugs:
+- 1.20+ Stone, andesite... railing gates burn from lava 
+- Grass Topped Walls missing texture when attached to fence gate or metal fence 
+- Grass Topped Walls look incorrect with diagonal fences
+- FORGE: Fixed java.lang.ArrayIndexOutOfBoundsException: Index 2048 out of bounds for length 1025 
+
+Translations: 
+- Added es_es by GGlangf
+- Added ja_jp by Anpan715
+- Added zh_cn by molishang123
+- Added pt_br by PrincessStelllar
+- Added zh_tw by rubus404
+- Updated fr_fr by Samlegamer
+- Updated ko_kr by kirito5572
+- Updated ru_ru by Kolton
+
+-------------------------
+
 1.2.0
 
 Added:
@@ -137,3 +160,4 @@ Added : Wooden Fences/Gates work as furnace fuel
 
 - Initial Release
 - Adds new Fences, Walls and Gates
+
