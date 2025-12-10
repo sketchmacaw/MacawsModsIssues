@@ -1,3 +1,24 @@
+Macaw's Stairs 1.0.2
+
+Changes:
+- Bulk Stairs have an improved model 
+
+Bugs Fixed:
+- Z-fighting on Railings when placed against each other
+- Incorrect lighting on one side of various stair types
+- Compact stairs hitbox is slightly going out of model
+- Balcony Railings have buggy shadows, when placed next to a solid block
+
+Translations:
+- Added es_es by GGlangf
+- Added es_mx by TheLegendofSaram
+- Added ja_jp by Anpan715
+- Added ko_kr by kirito5572
+- Added pt_br by PrincessStelllar
+- Added zh_cn by molishang123
+- Updated ru_ru by Kolton
+
+
 ――――――――――――――――――――――――――――――――――――――――――――――――――――
 1.0.1
 
