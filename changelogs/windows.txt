@@ -1,3 +1,16 @@
+Macaw's Windows 2.4.2
+
+Bugs Fixed:
+- Sound distance fading not working for Windows, Gothic Windows, and Blinds
+- Curtains lighting looks unevenly distributed on them
+- Forge only: Mosaic Glass is not properly tagged as forge:glass
+- Forge only: Fixed java.lang.ArrayIndexOutOfBoundsException: Index 2048 out of bounds for length 1025
+
+Translations:
+- Added pt_br PrincessStelllar
+- Updated ru_ru by Kolton
+
+--------------------------
 2.4.1
 - Fixed curtains placed against a solid block will make the face of the block see through
 
@@ -348,4 +361,5 @@ Fixed Bugs :
 1.0.0
 
 - First released version
+
 
