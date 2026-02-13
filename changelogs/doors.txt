@@ -1,3 +1,40 @@
+1.1.5
+
+Changes:
+- Garage Doors and Portcullis now require only to be placed on top, when clicked it will roll down
+  until it hits a solid block. This way you don't need to build a 3x3x3 garage door but just 3 blocks
+  wide on top. Also this removes the visible hitbox when they are opened, fixing mob pathfinding..
+  !! If there are empty spots when you close the garage doors, just place any block like dirt there and break it..
+- Added Tooltip to Garage Doors and Portcullis
+- Garage Doors & Portcullis model Changed for the TOP opened variant
+- Garage Doors use less states
+
+Fixed Bugs:
+- Mangrove Whispering variant missing from GUI
+- Sound distance fading not working for Shoji, Jail, Garage Doors 
+- When villagers open shoji doors it makes the normal door 
+  sound instead of the custom sliding door sound
+- Mobs not going through opened garage and portcullis
+- Garage Doors block CC:Tweaked Turtle movement and water
+- Garage Doors and Portcullis show strange blue tinted blocks
+- Forge only: Fixed java.lang.ArrayIndexOutOfBoundsException: Index 2048 out of bounds for length 1025
+
+Translations:
+Added es_mx by TheLegendofSaram
+Added fr_fr by Samlegamer
+Added ja_jp by Anpan715
+Added pt_br by PrincessStelllar
+Updated es_cl by Ganbare-Lucifer
+Updated es_es by GGlangf
+Updated ko_kr by kirito5572
+Updated ru_ru by Kolton
+Updated zh_cn by molishang123
+
+
+
+
+
+----------------------------------------------------------------
 1.1.3
 
 1.21.3 & 1.21.4 Fabric only
@@ -222,3 +259,4 @@ Fixed:
 1.0.0
 
 - First released version
+
