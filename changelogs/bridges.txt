@@ -1,3 +1,29 @@
+Macaw's Bridges 3.1.2
+
+Changes:
+- All bridge models are higher by 1px so they match their hitbox
+- Bridges no longer update neighbouring bridges when breaking, this caused a lot of issues, and this now allows more customization.
+
+Fixed Bugs:
+- Forge 1.21.3 + Race Condition During ClientSetup 
+- Forge & NeoForge 1.20.4+ : Rail Bridges don't have breaking sounds 
+- Forge & NeoForge 1.20.4+ : Rail Bridges don't have any breaking particles 1.20.4+ 
+- middle_ew & middle_ns are inaccessible with Hammer for Rope Bridges 
+- Bridge hitbox higher by one pixel than the model 
+- Bridge blocks revert to default orientation when touched 
+- Railings reset when placed next to Bridge Stairs
+- Bridges Resets when walking on it / Dynamic Lights
+- Railings reset when placed next to other blocks
+
+Translations:
+- Added tr_tr by RuyaSavascisi
+- Added pt_br by PrincessStelllar
+- Added es_mx by TheLegendofSaram
+- Added ja_jp by HayaKoh-WeldyAlin
+- Updated es_es by GGlangf
+- Updated ko_kr by kirito5572
+- Updated ru_ru by Kolton
+----------------------------------------------------------------
 3.1.1 Only Affects Forge & Neoforge 1.20.6, 1.21, 1.21.1
 
 - Fixed crash when placing Bamboo or Dry Bamboo Bridges
@@ -350,3 +376,4 @@ Changes
 1.0.0
 
 - First released version
+
