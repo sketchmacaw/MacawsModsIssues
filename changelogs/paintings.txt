@@ -1,3 +1,34 @@
+1.1.0
+
+Added 35 Paintings :
+- 64x64 farm_friends
+- 48x32 beaver
+- 32x48 badlands_large, savanna_large, taiga_large, fireflies
+- 32x32 the_creaking, puppy, coral_reef, lava_fall, icy_waves, capybara_spa, forest_sunset, mystery_cave, coastal_plains, lily_pad_frog, choo_choo, chicken
+- 16x48 taiga_medium, savanna_medium
+- 16x32 daisy, sunflowers, finding
+- 32x16 autumn_river, mysterious_taiga, taiga_tall, hissing, oasis, birch_forest, arakanga_macaw
+- 16x16 tiny_island, tropical_fish, mushroom_island, coffee, taiga_small
+
+
+Updated 22 Paintings:
+- arctic_sky, axolotls, badlands, bats, cacti, cacti_desert, cherry_tree, cliffs, glow_squid
+- halloween_house, lights, mountain, mountains, panda, puffer_life, raccoon_view, scenery_lava
+- scenery_lava2, scenery_tree, scenery_tree2, scenery_tree3, scenery_tree4
+
+
+Translations:
+- Added fr_fr by Samlegamer
+- Added ko_kr by kirito5572
+- Added ru_ru by cutiegin
+- Added tr_tr by RuyaSavascisi
+- Added uk_ua by Moonvvell
+
+
+Fixed Bugs :
+- Removed Unused duplicate texture png 
+1.16.5 -> 1.20.6
+
 ----------------------------------------------------------------
 1.0.5
 
