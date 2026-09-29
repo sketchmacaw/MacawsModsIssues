@@ -2,7 +2,7 @@
 "item.mcwroofs.rain_gutter": "基础雨水槽",
 "item.mcwroofs.roofing_hammer":"屋顶锤",
 
-"itemGroup.mcwroofs": "Macaw的屋顶/Lanluoluo汉化",
+"itemGroup.mcwroofs": "Macaw 的屋顶",
 
 "mcwroofs.hammer.desc": "右键点击顶端屋顶以切换状态",
 "mcwroofs.roofitem.desc": "合成材料",
@@ -709,6 +709,21 @@
 "item.mcwroofs.pale_oak_planks_lower_roof":"苍白橡木木板下层基座屋顶",
 "item.mcwroofs.pale_oak_planks_steep_roof":"苍白橡木木板陡峭基座屋顶",
 "item.mcwroofs.pale_oak_planks_upper_lower_roof":"苍白橡木木板下层顶端屋顶",
-"item.mcwroofs.pale_oak_planks_upper_steep_roof":"苍白橡木木板陡峭顶端屋顶"
+"item.mcwroofs.pale_oak_planks_upper_steep_roof":"苍白橡木木板陡峭顶端屋顶",
 
+"item.mcwroofs.poplar_roof":"杨木屋顶",
+"item.mcwroofs.poplar_attic_roof":"杨木阁楼屋顶",
+"item.mcwroofs.poplar_top_roof":"杨木顶端屋顶",
+"item.mcwroofs.poplar_lower_roof":"杨木下层基座屋顶",
+"item.mcwroofs.poplar_steep_roof":"杨木陡峭基座屋顶",
+"item.mcwroofs.poplar_upper_lower_roof":"杨木下层顶端屋顶",
+"item.mcwroofs.poplar_upper_steep_roof":"杨木陡峭顶端屋顶",
+
+"item.mcwroofs.poplar_planks_roof":"杨木木板屋顶",
+"item.mcwroofs.poplar_planks_attic_roof":"杨木木板阁楼屋顶",
+"item.mcwroofs.poplar_planks_top_roof":"杨木木板顶端屋顶",
+"item.mcwroofs.poplar_planks_lower_roof":"杨木木板下层基座屋顶",
+"item.mcwroofs.poplar_planks_steep_roof":"杨木木板陡峭基座屋顶",
+"item.mcwroofs.poplar_planks_upper_lower_roof":"杨木木板下层顶端屋顶",
+"item.mcwroofs.poplar_planks_upper_steep_roof":"杨木木板陡峭顶端屋顶"
 }
