@@ -687,12 +687,12 @@
 		"block.mcwroofs.bamboo_mosaic_upper_lower_roof":"竹細工の緩やかなトップ屋根",
 		"block.mcwroofs.bamboo_mosaic_upper_steep_roof":"竹細工の急なトップ屋根",
 		
-		"block.mcwroofs.grass_roof":"ガラスの屋根",
-		"block.mcwroofs.grass_attic_roof":"ガラスの窓付き屋根",
-		"block.mcwroofs.grass_top_roof":"ガラスの大棟",
-		"block.mcwroofs.grass_lower_roof":"ガラスの緩やかなベース屋根",
-		"block.mcwroofs.grass_steep_roof":"ガラスの急なベース屋根",
-		"block.mcwroofs.grass_upper_lower_roof":"ガラスの緩やかなトップ屋根",
-		"block.mcwroofs.grass_upper_steep_roof":"ガラスの急なトップ屋根"
+		"block.mcwroofs.grass_roof":"草の屋根",
+		"block.mcwroofs.grass_attic_roof":"草の窓付き屋根",
+		"block.mcwroofs.grass_top_roof":"草のトップ屋根",
+		"block.mcwroofs.grass_lower_roof":"草の緩やかなベース屋根",
+		"block.mcwroofs.grass_steep_roof":"草の急なベース屋根",
+		"block.mcwroofs.grass_upper_lower_roof":"草の緩やかなトップ屋根",
+		"block.mcwroofs.grass_upper_steep_roof":"草の急なトップ屋根"
 		
 	}
