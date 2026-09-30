@@ -377,6 +377,23 @@
 		"item.mcwwindows.pale_oak_pane_window": "Ventana de panel de roble pálido",
 		"item.mcwwindows.stripped_pale_oak_pane_window": "Ventana de panel de roble pálido sin corteza",
 		"item.mcwwindows.pale_oak_plank_pane_window": "Ventana de panel de tablas de roble pálido",
-		"item.mcwwindows.pale_oak_curtain_rod": "Barra de cortina de roble pálido"
-
+		"item.mcwwindows.pale_oak_curtain_rod": "Barra de cortina de roble pálido",
+		"item.mcwwindows.poplar_window": "Ventana redimensionable de álamo",
+		"item.mcwwindows.poplar_plank_window": "Ventana redimensionable de tablas de álamo",
+		"item.mcwwindows.poplar_window2": "Ventana rectangular de álamo",
+		"item.mcwwindows.poplar_plank_window2": "Ventana rectangular de tablas de álamo",
+		"item.mcwwindows.stripped_poplar_log_window": "Ventana redimensionable de álamo sin corteza",
+		"item.mcwwindows.stripped_poplar_log_window2": "Ventana rectangular de álamo sin corteza",
+		"item.mcwwindows.poplar_four_window": "Ventana de cuatro paneles de álamo",
+		"item.mcwwindows.poplar_plank_four_window": "Ventana de cuatro paneles de tablas de álamo",
+		"item.mcwwindows.stripped_poplar_log_four_window": "Ventana de cuatro paneles de álamo sin corteza",
+		"item.mcwwindows.poplar_log_parapet": "Parapeto de álamo",
+		"item.mcwwindows.poplar_plank_parapet": "Parapeto de tablas de álamo",
+		"item.mcwwindows.poplar_blinds": "Persianas de álamo",
+		"item.mcwwindows.poplar_shutter": "Contraventana de álamo",
+		"item.mcwwindows.poplar_louvered_shutter": "Contraventana con persianas de álamo",
+		"item.mcwwindows.poplar_pane_window": "Ventana de panel de álamo",
+		"item.mcwwindows.stripped_poplar_pane_window": "Ventana de panel de álamo sin corteza",
+		"item.mcwwindows.poplar_plank_pane_window": "Ventana de panel de tablas de álamo",
+		"item.mcwwindows.poplar_curtain_rod": "Barra de cortina de álamo"
 	}
