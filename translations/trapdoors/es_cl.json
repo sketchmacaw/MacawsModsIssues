@@ -13,6 +13,7 @@
 	"item.mcwtrpdoors.print_bamboo": "Impresión de trampilla de malla",
 	"item.mcwtrpdoors.print_blossom": "Impresión de trampilla de gofre",
 	"item.mcwtrpdoors.print_whispering":"Impresión de trampilla susurrante",
+	"item.mcwtrpdoors.print_chevron":"Impresión de trampilla de espiga",
 	
 	"mcwtrpdoors.crafting.desc": "Ingrediente de crafteo",
 
@@ -235,5 +236,36 @@
 	"item.mcwtrpdoors.pale_oak_ranch_trapdoor":"Trampilla de rancho de roble pálido",
 	"item.mcwtrpdoors.pale_oak_bark_trapdoor":"Trampilla de corteza de roble pálido",
 	"item.mcwtrpdoors.pale_oak_blossom_trapdoor": "Trampilla de gofre de roble pálido",
-	"item.mcwtrpdoors.pale_oak_barrel_trapdoor": "Trampilla de barril de roble pálido"
+	"item.mcwtrpdoors.pale_oak_barrel_trapdoor": "Trampilla de barril de roble pálido",
+
+	"item.mcwtrpdoors.oak_chevron_trapdoor": "Trampilla de espiga de roble",
+    "item.mcwtrpdoors.spruce_chevron_trapdoor": "Trampilla de espiga de abeto",
+    "item.mcwtrpdoors.birch_chevron_trapdoor": "Trampilla de espiga de abedul",
+    "item.mcwtrpdoors.jungle_chevron_trapdoor": "Trampilla de espiga de jungla",
+    "item.mcwtrpdoors.acacia_chevron_trapdoor": "Trampilla de espiga de acacia",
+    "item.mcwtrpdoors.dark_oak_chevron_trapdoor": "Trampilla de espiga de roble oscuro",
+    "item.mcwtrpdoors.mangrove_chevron_trapdoor": "Trampilla de espiga de mangle",
+    "item.mcwtrpdoors.warped_chevron_trapdoor": "Trampilla de espiga distorsionada",
+    "item.mcwtrpdoors.crimson_chevron_trapdoor": "Trampilla de espiga carmesí",
+    "item.mcwtrpdoors.bamboo_chevron_trapdoor": "Trampilla de espiga de bambú",
+	"item.mcwtrpdoors.cherry_chevron_trapdoor": "Trampilla de espiga de cerezo",
+	"item.mcwtrpdoors.pale_oak_chevron_trapdoor": "Trampilla de espiga pálido",
+	 
+	"item.mcwtrpdoors.poplar_barn_trapdoor": "Trampilla de granero de álamo",
+    "item.mcwtrpdoors.poplar_barred_trapdoor": "Trampilla enrejada de álamo",
+    "item.mcwtrpdoors.poplar_beach_trapdoor": "Trampilla playera de álamo",
+    "item.mcwtrpdoors.poplar_classic_trapdoor": "Trampilla clásica de álamo",
+    "item.mcwtrpdoors.poplar_cottage_trapdoor": "Trampilla de cabaña de álamo",
+    "item.mcwtrpdoors.poplar_four_panel_trapdoor": "Trampilla de cuatro paneles de álamo",
+    "item.mcwtrpdoors.poplar_glass_trapdoor": "Trampilla de vidrio de álamo",
+    "item.mcwtrpdoors.poplar_paper_trapdoor": "Trampilla de papel de álamo",
+    "item.mcwtrpdoors.poplar_tropical_trapdoor": "Trampilla tropical de álamo",
+    "item.mcwtrpdoors.poplar_mystic_trapdoor": "Trampilla mística de álamo",
+    "item.mcwtrpdoors.poplar_bamboo_trapdoor": "Trampilla de malla de álamo",
+    "item.mcwtrpdoors.poplar_swamp_trapdoor": "Trampilla pantanosa de álamo",
+    "item.mcwtrpdoors.poplar_ranch_trapdoor": "Trampilla de rancho de álamo",
+    "item.mcwtrpdoors.poplar_bark_trapdoor": "Trampilla de corteza de álamo",
+    "item.mcwtrpdoors.poplar_blossom_trapdoor": "Trampilla de gofre de álamo",
+	"item.mcwtrpdoors.poplar_whispering_trapdoor": "Trampilla susurrante de álamo",
+    "item.mcwtrpdoors.poplar_barrel_trapdoor": "Trampilla de barril de álamo"
 }
