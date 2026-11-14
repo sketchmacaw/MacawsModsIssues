@@ -1,3 +1,6 @@
+Macaw's Windows 2.4.3 only for 26.3
+- Fixed Broken UTF-8 encoding in multiple localization files (v2.4.2, MC 26.3)
+---------------------
 Macaw's Windows 2.4.2
 
 Bugs Fixed:
