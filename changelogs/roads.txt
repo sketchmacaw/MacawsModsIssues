@@ -1,1 +1,13 @@
+ 1.0.1
+
+Fixed Bugs
+- Asphalt Crosswalk side texture is 1px shorter
+- Asphalt Right Arrow is the same as the Left Arrow
+- Translations bug with WTHIT and similar mods, from 1.21.3+
+- Fabric: Fixed Translation for custom Creative Tab being different in Fabric
+- Fabric: Roads don't show up on maps
+
+Translations
+- Added es_cl by Ganbare-Lucifer
+-------------------------------------------------------------
 1.0.0
